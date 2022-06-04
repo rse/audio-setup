@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.0.0 (2022-06-03)
+Version 1.0.1 (2022-06-04)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of software components for setting up a
