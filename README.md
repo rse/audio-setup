@@ -78,9 +78,14 @@ to easily locate all the essential resources.
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
 - **Waves Scheps Omni Channel** 2022-05 (COMMERCIAL)<br/>
-  Audio VST Plugin (Channel Strip for Compressor, Equalizer, Gate, etc)<br/>
+  Channel Strip for Compressor, Equalizer, Gate, etc<br/>
   [Homepage](https://www.waves.com/plugins/sibilance)
   [Download](https://www.waves.com/plugins/sibilance)
+
+- **Waves eMo D5 Dynamics** 2022-05 ($$)<br/>
+  (De-Esser, Compressor, Gate, Limiter, etc<br/>
+  [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
+  [Download](https://www.waves.com/plugins/emo-d5-dynamics)
 
 ### VST Plugin: Reverberation Removal
 
