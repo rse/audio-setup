@@ -169,6 +169,13 @@ to easily locate all the essential resources.
   [Homepage](https://plugins4free.com/plugin/2213/)
   [Download](https://plugins4free.com/get_plug/BPAGate_x64.zip)
 
+### VST Plugin: Volume Limiting
+
+- **TDR Limiter GE 6** 1.2.4 ($$)<br/>
+  Audio VST Plugin (Sidechain Noise-Gate)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-limiter6-ge/)
+  [Download](https://www.tokyodawn.net/labs/Limiter6GE/1.2.4/TDR%20Limiter%206%20GE%20Demo%20(installer).zip?x24775)
+
 ### VST Plugin: Volume Leveling
 
 - **WTAutomixer** V2 (COMMERCIAL)<br/>
