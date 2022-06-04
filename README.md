@@ -231,6 +231,11 @@ to easily locate all the essential resources.
   [Homepage](https://www.tokyodawn.net/tdr-limiter6-ge/)
   [Download](https://www.tokyodawn.net/labs/Limiter6GE/1.2.4/TDR%20Limiter%206%20GE%20Demo%20(installer).zip?x24775)
 
+- **TDR VladG Limiter No6** (0)<br/>
+  Audio VST Plugin (predecessor to TDR Limiter?)<br/>
+  [Homepage](https://www.tokyodawn.net/vladg-limiter-n6/)
+  [Download](https://www.tokyodawn.net/labs/vladgsound/Limiter6-v102b.zip?x24775)
+
 ### VST Plugin: Volume Leveling
 
 - **WTAutomixer** V2 ($$$) [RECOMMENDED]<br/>
