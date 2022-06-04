@@ -14,40 +14,45 @@ to easily locate all the essential resources.
 
 ### Audio Mixer/Routing
 
-- **VoiceMeeter Potato** 3.0.2.2 (COMMERCIAL)<br/>
+- **VoiceMeeter Potato** 3.0.2.2 ($)<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **Virtual Audio Cable (VAC)** 4.66 (COMMERCIAL)<br/>
+- **Virtual Audio Cable (VAC)** 4.66 ($$)<br/>
   Virtual Audio Cable<br/>
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac466.exe)
 
 ### VST Host
 
-- **Cantabile** 4-4047 (FREEWARE)<br/>
-  VST Host<br/>
+- **Cantabile** 4-4047 (0/$$)<br/>
+  VST Host (can link into VoiceMeeter via ASIO inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4047.exe)
 
 - **BlueCat PatchWork** ($$)<br/>
-  VST Host<br/>
+  VST Host (can act standalone or as a VST plugin itself)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
 
-- **LightHost** 1.2.1 (GPL)<br/>
-  VST Host<br/>
+- **LightHost** 1.2.1 (0)<br/>
+  Simple VST Host (acts standalone)<br/>
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
-- **OcenAudio** 3.11.12 (FREEWARE)<br/>
+- **Cockos Reaper** 6.59 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
+  [Homepage](https://www.reaper.fm/)
+  [Download](https://www.reaper.fm/files/6.x/reaper659_x64-install.exe)
+
+- **OcenAudio** 3.11.12 (0)<br/>
+  Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.1.3 (GPL)<br/>
-  Audio Editor<br/>
+- **Audacity** 3.1.3 (0)<br/>
+  Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
@@ -77,34 +82,34 @@ to easily locate all the essential resources.
 
 ### VST Plugin: All-In-One
 
-- **Speachy** 1.0 (COMMERCIAL)<br/>
-  Voice Audio "all-in-one" VST Plugin<br/>
+- **Speachy** 1.0 ($$)<br/>
+  All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, Noise Suppressor, Equalizer, Limiter)<br/>
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
-- **Waves Scheps Omni Channel** 2022-05 (COMMERCIAL)<br/>
-  Channel Strip for Compressor, Equalizer, Gate, etc<br/>
-  [Homepage](https://www.waves.com/plugins/sibilance)
-  [Download](https://www.waves.com/plugins/sibilance)
-
 - **Waves eMo D5 Dynamics** 2022-05 ($$)<br/>
-  (De-Esser, Compressor, Gate, Limiter, etc<br/>
+  All-In-One VST Plugin (De-Esser, Compressor, Gate, Limiter)<br/>
   [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
   [Download](https://www.waves.com/plugins/emo-d5-dynamics)
 
+- **Waves Scheps Omni Channel** 2022-05 ($$)<br/>
+  All-In-One (VST Plugin (Compressor, Equalizer, Gate)<br/>
+  [Homepage](https://www.waves.com/plugins/sibilance)
+  [Download](https://www.waves.com/plugins/sibilance)
+
 ### VST Plugin: Reverberation Removal
 
-- **Acon Digital DeVerberate** 3.0.4 (COMMERCIAL)<br/>
+- **Acon Digital DeVerberate** 3.0.4 ($$)<br/>
   Audio VST Plugin (Room Reverberation Removal)<br/>
   [Homepage](https://acondigital.de/produkte/deverberate/)
   [Download](https://acondigital.de/produkte/deverberate/)
 
-- **Accentize DeRoom Pro** 2022-05 (COMMERCIAL)<br/>
+- **Accentize DeRoom Pro** 2022-05 ($$$)<br/>
   Audio VST Plugin (Room Reverberation Removal)<br/>
   [Homepage](https://www.accentize.com/deroom-pro/)
   [Download](https://www.accentize.com/deroom-pro/)
 
-- **Accentize DeRoom** 2022-05 (COMMERCIAL)<br/>
+- **Accentize DeRoom** 2022-05 ($$)<br/>
   Audio VST Plugin (Room Reverberation Removal)<br/>
   [Homepage](https://www.accentize.com/deroom/)
   [Download](https://www.accentize.com/deroom/)
@@ -148,6 +153,11 @@ to easily locate all the essential resources.
   [Homepage](https://www.patreon.com/posts/loades-62370686)
   [Download](https://analogobsession.com/wp-content/uploads/2022/02/LOADES_1.0.exe)
 
+- **FabFilter Pro-DS** 1.19 ($$)<br/>
+  De-Esser<br/>
+  [Homepage](https://www.fabfilter.com/products/pro-ds-de-esser-plug-in)
+  [Download](https://www.fabfilter.com/downloads/ffprods119x64.exe)
+
 ### VST Plugin: Equalization
 
 - **TDR Nova** 2.1.5 (FREEWARE)<br/>
@@ -171,6 +181,23 @@ to easily locate all the essential resources.
   Audio VST Plugin (Wideband Dynamic Processor / Compressor)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-kotelnikov/)
   [Download](https://www.tokyodawn.net/labs/Kotelnikov/1.6.4/TDR%20Kotelnikov%20(installer).zip?x24775)
+
+- **FabFilter Pro-C 2** 2.15 ($$)<br/>
+  Compressor<br/>
+  [Homepage](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
+  [Download](https://www.fabfilter.com/downloads/ffproc215x64.exe)
+
+### VST Plugin: Expansion
+
+- **BlueCat Dynamics** ($$)<br/>
+  Compressor/Expander<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
+  [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
+
+- **FabFilter Pro-G** 2.15 ($$)<br/>
+  Expander<br/>
+  [Homepage](https://www.fabfilter.com/products/pro-g-gate-expander-plug-in)
+  [Download](https://www.fabfilter.com/downloads/ffprog129x64.exe)
 
 ### VST Plugin: Noise Gate
 
