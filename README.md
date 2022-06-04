@@ -190,7 +190,7 @@ to easily locate all the essential resources.
   [Homepage](https://www.voxengo.com/product/marvelgeq/)
   [Download](https://www.voxengo.com/files/VoxengoMarvelGEQ_111_Win32_64_VST_VST3_AAX_setup.exe)
 
-### VST Plugin: Compression/Expansion
+### VST Plugin: Compression
 
 - **BlueCat Dynamics** ($$) [RECOMMENDED]<br/>
   Compressor/Expander<br/>
@@ -207,7 +207,7 @@ to easily locate all the essential resources.
   [Homepage](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproc215x64.exe)
 
-### VST Plugin: Expansion
+### VST Plugin: Expansion/Gating
 
 - **BlueCat Dynamics** ($$) [RECOMMENDED]<br/>
   Compressor/Expander<br/>
@@ -218,8 +218,6 @@ to easily locate all the essential resources.
   Expander<br/>
   [Homepage](https://www.fabfilter.com/products/pro-g-gate-expander-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffprog129x64.exe)
-
-### VST Plugin: Noise Gate
 
 - **Rob Perry Gate** 1.3.0 (0)<br/>
   Audio VST Plugin (Sidechain Noise-Gate)<br/>
@@ -235,58 +233,68 @@ to easily locate all the essential resources.
 
 ### VST Plugin: Volume Leveling
 
-- **WTAutomixer** V2 (COMMERCIAL) [RECOMMENDED]<br/>
+- **WTAutomixer** V2 ($$$) [RECOMMENDED]<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.wtautomixer.com/)
   [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
 
-- **Junger Audio-Level Magic** 2022-05 (COMMERCIAL)<br/>
+- **Junger Audio-Level Magic** 2022-05 ($$$)<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
   [Download](https://www.flux.audio/project/junger-audio-level-magic/)
 
-- **Waves Playlist Rider** 2022-05 (COMMERCIAL)<br/>
+- **Waves Playlist Rider** 2022-05 ($$)<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.waves.com/plugins/playlist-rider)
   [Download](https://www.waves.com/plugins/playlist-rider)
 
-- **Waves Vocal Rider** 2022-05 (COMMERCIAL)<br/>
+- **Waves Vocal Rider** 2022-05 ($$)<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.waves.com/plugins/vocal-rider)
   [Download](https://www.waves.com/plugins/vocal-rider)
 
-- **TBProAudio AMM2** 2.0.15 (COMMERCIAL)<br/>
+- **TBProAudio AMM2** 2.0.15 ($$)<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.tbproaudio.de/products/amm)
   [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
 
 ### VST Plugin: Volume Metering
 
-- **Youlean Loudness Meter** 2.4.3 (FREEWARE) [RECOMMENDED]<br/>
+- **Youlean Loudness Meter** 2.4.3 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://youlean.co/youlean-loudness-meter/)
   [Download](https://youlean-129cf.kxcdn.com/wp-content/uploads/2021/02/Youlean-Loudness-Meter-2-V2.4.3-Windows-2.zip)
 
-- **TBProAudio mvMeter2** 2.4.2 (FREEWARE)<br/>
+- **TBProAudio mvMeter2** 2.4.2 (0)<br/>
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://www.tbproaudio.de/products/mvmeter2)
   [Download](https://www.tbproaudio.de/assets/content/download/mvMeter2nogpu_Installer_WIN_242.zip)
 
-- **TBProAudio dpMeter5** 5.2.2 (FREEWARE)<br/>
+- **TBProAudio dpMeter5** 5.2.2 (0)<br/>
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://www.tbproaudio.de/products/dpmeter)
   [Download](https://www.tbproaudio.de/assets/content/download/dpMeter5nogpu_Installer_WIN_522.zip)
 
 ### VST Plugin: Spectrum Visualization
 
-- **Voxengo SPAN** 3.14 (FREEWARE) [RECOMMENDED]<br/>
-  Audio VST Plugin (Spectrum Analyzer)<br/>
+- **Voxengo SPAN Plus** 3.14 ($$) [RECOMMENDED]<br/>
+  Audio VST Plugin (Spectrum Visualizer)<br/>
+  [Homepage](https://www.voxengo.com/product/spanplus/)
+  [Download](https://www.voxengo.com/files/VoxengoSPANPlus_118_Win32_64_VST_VST3_AAX_setup.exe)
+
+- **Voxengo SPAN** 3.14 (0) [RECOMMENDED]<br/>
+  Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.voxengo.com/product/span/)
   [Download](https://www.voxengo.com/files/VoxengoSPAN_314_Win32_64_VST_VST3_AAX_setup.exe)
 
-### VST Plugin: Playing
+### VST Plugin: Playing/Recording
 
-- **One Small Clue: Grace** 1.0.4.9 (FREEWARE)<br/>
+- **Voxengo Recorder** 2.20 (0)<br/>
+  Audio VST Plugin (WAV-Recorder)<br/>
+  [Homepage](https://www.voxengo.com/product/recorder/)
+  [Download](https://www.voxengo.com/files/VoxengoVoxformer_220_Win32_64_VST_VST3_AAX_setup.exe)
+
+- **One Small Clue: Grace** 1.0.4.9 (0)<br/>
   Audio VST Plugin (Sampler/Player)<br/>
   [Homepage](https://www.onesmallclue.com/index.html)
   [Download](https://osc.sfo2.digitaloceanspaces.com/Setup_Grace_64bit_Full_1-0-4-9_Windows.exe)
@@ -300,27 +308,27 @@ to easily locate all the essential resources.
 
 ### Companion Tools
 
-- **OBS Audio Sync** 2019 (FREEWARE)<br/>
+- **OBS Audio Sync** 2019 (0)<br/>
   Audio/Video Synchronization Tool (Video-Based)<br/>
   [Homepage](http://obsaudiosync.com/)
   [Download](https://share.hsforms.com/1GRBSRUxoTSCz56pblQR-WA8z4i)
 
-- **LoistoSYNC** 2021-05 (FREEWARE)<br/>
+- **LoistoSYNC** 2021-05 (0)<br/>
   Audio/Video Synchronization Tool (Browser-Source-Based)<br/>
   [Homepage](https://github.com/reaby/loistoSYNC)
   [Download](http://reaby.kapsi.fi/dev/loistosync/)
 
-- **Voice Attack** 1.8.9 (FREEWARE)<br/>
+- **Voice Attack** 1.8.9 (0)<br/>
   Voice Control Commands<br/>
   [Homepage](https://voiceattack.com/)
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
 
-- **LoopMIDI** 1.0.16.27 (COMMERCIAL)<br/>
+- **LoopMIDI** 1.0.16.27 (0)<br/>
   Virtual MIDI Port<br/>
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **Auto-Duck** 3.0.0-RC4.1 (COMMERCIAL)<br/>
+- **Auto-Duck** 3.0.0-RC4.1 ($)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
   [Homepage](https://auto-duck.com/)
   [Download](https://auto-duck.com/download-last)
