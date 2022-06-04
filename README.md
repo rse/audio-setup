@@ -14,19 +14,19 @@ to easily locate all the essential resources.
 
 ### Audio Mixer/Routing
 
-- **VoiceMeeter Potato** 3.0.2.2 ($)<br/>
+- **VoiceMeeter Potato** 3.0.2.2 ($) [RECOMMENDED]<br/>
   Audio Channel Mixer, Virtual Audio Cable<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **Virtual Audio Cable (VAC)** 4.66 ($$)<br/>
+- **Virtual Audio Cable (VAC)** 4.66 ($$) [RECOMMENDED]<br/>
   Virtual Audio Cable<br/>
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac466.exe)
 
 ### VST Host
 
-- **Cantabile** 4-4047 (0/$$)<br/>
+- **Cantabile** 4-4047 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4047.exe)
@@ -68,7 +68,7 @@ to easily locate all the essential resources.
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
 
-- **Blue Cat Freeware Plug-Ins Pack II** 2022-01 (0)<br/>
+- **Blue Cat Freeware Plug-Ins Pack II** 2022-01 (0) [RECOMMENDED]<br/>
   Audio VST Plugin-Suite (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Bundle_FreewarePack/)
   [Download](https://www.bluecataudio.com/Vault/Products/Bundle_FreewarePack/BlueCatFreewarePackVST3-x64Setup.exe)
@@ -82,7 +82,7 @@ to easily locate all the essential resources.
 
 ### VST Plugin: All-In-One
 
-- **Speachy** 1.0 ($$)<br/>
+- **Speachy** 1.0 ($$) [RECOMMENDED]<br/>
   All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, Noise Suppressor, Equalizer, Limiter)<br/>
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
@@ -99,7 +99,7 @@ to easily locate all the essential resources.
 
 ### VST Plugin: Reverberation Removal
 
-- **Acon Digital DeVerberate** 3.0.4 ($$)<br/>
+- **Acon Digital DeVerberate** 3.0.4 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Room Reverberation Removal)<br/>
   [Homepage](https://acondigital.de/produkte/deverberate/)
   [Download](https://acondigital.de/produkte/deverberate/)
@@ -116,7 +116,7 @@ to easily locate all the essential resources.
 
 ### VST Plugin: Noise Suppression
 
-- **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$)<br/>
+- **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Noise Suppressor)<br/>
   [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
   [Download](https://audionamix.com/instant-dialogue-cleaner/)
@@ -143,84 +143,99 @@ to easily locate all the essential resources.
 
 ### VST Plugin: De-Esser
 
-- **Sleepy-Time Lisp** 1.0 (FREEWARE)<br/>
-  Audio VST Plugin (De-Esser)<br/>
-  [Homepage](https://plugins4free.com/plugin/1662/)
-  [Download](https://plugins4free.com/get_plug/STDSP_Lisp_x64.zip)
-
-- **Waves Sibilance** 2022-05 (COMMERCIAL)<br/>
+- **Waves Sibilance** 2022-05 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (De-Esser)<br/>
   [Homepage](https://www.waves.com/plugins/sibilance)
   [Download](https://www.waves.com/plugins/sibilance)
-
-- **LOADES** 1.0 (FREEWARE)<br/>
-  Audio VST Plugin (De-Esser)<br/>
-  [Homepage](https://www.patreon.com/posts/loades-62370686)
-  [Download](https://analogobsession.com/wp-content/uploads/2022/02/LOADES_1.0.exe)
 
 - **FabFilter Pro-DS** 1.19 ($$)<br/>
   De-Esser<br/>
   [Homepage](https://www.fabfilter.com/products/pro-ds-de-esser-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffprods119x64.exe)
 
+- **Sleepy-Time Lisp** 1.0 (0)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://plugins4free.com/plugin/1662/)
+  [Download](https://plugins4free.com/get_plug/STDSP_Lisp_x64.zip)
+
 ### VST Plugin: Equalization
 
-- **TDR Nova** 2.1.5 (FREEWARE)<br/>
-  Audio VST Plugin (Parallel Dynamic Equalizer)<br/>
+- **TDR Nova GE** 2.1.5 ($$) [RECOMMENDED]<br/>
+  Audio VST Plugin (Parallel Dynamic Parametric Equalizer)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-nova-ge/)
+  [Download](https://www.tokyodawn.net/labs/NovaGE/2.1.5/TDR%20Nova%20GE%20Demo%20(installer).zip?x24775)
+
+- **TDR Nova** 2.1.5 (0)<br/>
+  Audio VST Plugin (Parallel Dynamic Parametric Equalizer)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-nova/)
   [Download](https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova%20(installer).zip?x24775)
 
-- **Voxengo Marvel GEQ** 1.11 (FREEWARE)<br/>
+- **TDR SlickEQ GE** 1.3.7 ($$) [RECOMMENDED]<br/>
+  Audio VST Plugin (Parametric Equalizer)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-vos-slickeq-ge/)
+  [Download](https://www.tokyodawn.net/labs/SlickEQGE/1.3.7/TDR%20VOS%20SlickEQ%20GE%20Demo%20(installer).zip?x24775)
+
+- **TDR SlickEQ** 1.3.7 (0)<br/>
+  Audio VST Plugin (Parameteric Equalizer)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-vos-slickeq/)
+  [Download](https://www.tokyodawn.net/labs/SlickEQ/1.3.7/TDR%20VOS%20SlickEQ%20(installer).zip?x24775)
+
+- **FabFilter Pro-Q 3** ($$$)<br/>
+  Audio VST Plugin (Graphical Equalizer)<br/>
+  [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
+  [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
+
+- **Voxengo Marvel GEQ** 1.11 (0)<br/>
   Audio VST Plugin (Graphical Equalizer)<br/>
   [Homepage](https://www.voxengo.com/product/marvelgeq/)
   [Download](https://www.voxengo.com/files/VoxengoMarvelGEQ_111_Win32_64_VST_VST3_AAX_setup.exe)
 
 ### VST Plugin: Compression/Expansion
 
-- **BlueCat Dynamics** ($$)<br/>
+- **BlueCat Dynamics** ($$) [RECOMMENDED]<br/>
   Compressor/Expander<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
 
-- **TDR Kotelnikov** 1.6.4 (FREEWARE)<br/>
+- **TDR Kotelnikov** 1.6.4 (0)<br/>
   Audio VST Plugin (Wideband Dynamic Processor / Compressor)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-kotelnikov/)
   [Download](https://www.tokyodawn.net/labs/Kotelnikov/1.6.4/TDR%20Kotelnikov%20(installer).zip?x24775)
 
-- **FabFilter Pro-C 2** 2.15 ($$)<br/>
+- **FabFilter Pro-C 2** 2.15 ($$$)<br/>
   Compressor<br/>
   [Homepage](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproc215x64.exe)
 
 ### VST Plugin: Expansion
 
-- **BlueCat Dynamics** ($$)<br/>
+- **BlueCat Dynamics** ($$) [RECOMMENDED]<br/>
   Compressor/Expander<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
 
-- **FabFilter Pro-G** 2.15 ($$)<br/>
+- **FabFilter Pro-G** 2.15 ($$$)<br/>
   Expander<br/>
   [Homepage](https://www.fabfilter.com/products/pro-g-gate-expander-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffprog129x64.exe)
 
 ### VST Plugin: Noise Gate
 
-- **Rob Perry Gate** 1.3.0 (FREEWARE)<br/>
+- **Rob Perry Gate** 1.3.0 (0)<br/>
   Audio VST Plugin (Sidechain Noise-Gate)<br/>
   [Homepage](https://plugins4free.com/plugin/2213/)
   [Download](https://plugins4free.com/get_plug/BPAGate_x64.zip)
 
 ### VST Plugin: Volume Limiting
 
-- **TDR Limiter GE 6** 1.2.4 ($$)<br/>
-  Audio VST Plugin (Sidechain Noise-Gate)<br/>
+- **TDR Limiter GE 6** 1.2.4 ($$) [RECOMMENDED]<br/>
+  Audio VST Plugin<br/>
   [Homepage](https://www.tokyodawn.net/tdr-limiter6-ge/)
   [Download](https://www.tokyodawn.net/labs/Limiter6GE/1.2.4/TDR%20Limiter%206%20GE%20Demo%20(installer).zip?x24775)
 
 ### VST Plugin: Volume Leveling
 
-- **WTAutomixer** V2 (COMMERCIAL)<br/>
+- **WTAutomixer** V2 (COMMERCIAL) [RECOMMENDED]<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.wtautomixer.com/)
   [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
@@ -247,7 +262,7 @@ to easily locate all the essential resources.
 
 ### VST Plugin: Volume Metering
 
-- **Youlean Loudness Meter** 2.4.3 (FREEWARE)<br/>
+- **Youlean Loudness Meter** 2.4.3 (FREEWARE) [RECOMMENDED]<br/>
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://youlean.co/youlean-loudness-meter/)
   [Download](https://youlean-129cf.kxcdn.com/wp-content/uploads/2021/02/Youlean-Loudness-Meter-2-V2.4.3-Windows-2.zip)
@@ -264,7 +279,7 @@ to easily locate all the essential resources.
 
 ### VST Plugin: Spectrum Visualization
 
-- **Voxengo SPAN** 3.14 (FREEWARE)<br/>
+- **Voxengo SPAN** 3.14 (FREEWARE) [RECOMMENDED]<br/>
   Audio VST Plugin (Spectrum Analyzer)<br/>
   [Homepage](https://www.voxengo.com/product/span/)
   [Download](https://www.voxengo.com/files/VoxengoSPAN_314_Win32_64_VST_VST3_AAX_setup.exe)
