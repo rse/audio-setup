@@ -31,6 +31,11 @@ to easily locate all the essential resources.
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4047.exe)
 
+- **BlueCat PatchWork** ($$)<br/>
+  VST Host<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
+
 - **LightHost** 1.2.1 (GPL)<br/>
   VST Host<br/>
   [Homepage](https://github.com/rolandoislas/LightHost)
@@ -239,6 +244,13 @@ to easily locate all the essential resources.
   [Homepage](https://www.onesmallclue.com/index.html)
   [Download](https://osc.sfo2.digitaloceanspaces.com/Setup_Grace_64bit_Full_1-0-4-9_Windows.exe)
 
+### VST Plugin: Sender/Receiver
+
+- **BlueCat Connector** ($$)<br/>
+  Sender/Receiver<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
+
 ### Companion Tools
 
 - **OBS Audio Sync** 2019 (FREEWARE)<br/>
@@ -265,4 +277,9 @@ to easily locate all the essential resources.
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
   [Homepage](https://auto-duck.com/)
   [Download](https://auto-duck.com/download-last)
+
+- **SonoBus** (0)<br/>
+  High-Quality Network Audio Streaming (Conference Mode)<br/>
+  [Homepage](https://www.sonobus.net/)
+  [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
 
