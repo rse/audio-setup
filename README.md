@@ -41,6 +41,11 @@ to easily locate all the essential resources.
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
+- **Audacity** 3.1.3 (GPL)<br/>
+  Audio Editor<br/>
+  [Homepage](https://www.audacityteam.org/)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
+
 ### VST Plugin: Suites/Bundles
 
 - **Reaper ReaPlugs** 2.36 (0)<br/>
@@ -243,11 +248,6 @@ to easily locate all the essential resources.
   Virtual MIDI Port<br/>
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
-
-- **Audacity** 3.1.3 (GPL)<br/>
-  Audio Editor<br/>
-  [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
 - **Auto-Duck** 3.0.0-RC4.1 (COMMERCIAL)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
