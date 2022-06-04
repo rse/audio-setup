@@ -12,6 +12,19 @@ Plugins](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) and
 companion tools should be installed. The intention of this collection is
 to easily locate all the essential resources.
 
+The audio processing chain currently used by Dr. Ralf S. Engelschall in particular is:
+VoiceMeeter Potato for the audio routing;
+Cantabile for the VST host;
+BlueCat Dynamics for microphone ducking and voice-over;
+Acon Digital DeVerberate for room reverberation removal;
+Audionamix Instant Dialogue Cleaner (IDC) for noise suppression;
+Waves Sibilance for de-essing;
+TDR Nova GE for cutting and boost equalization;
+BlueCat Dynamics for expansion/gating and compression;
+TDR Limiter GE for volume limiting;
+Youlean Loudness Meter for volume metering; and
+Voxengo SPAN Plus for spectrum visualization.
+
 ### Audio Mixer/Routing
 
 - **VoiceMeeter Potato** 3.0.2.2 ($) [RECOMMENDED]<br/>
