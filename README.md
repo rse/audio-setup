@@ -94,8 +94,8 @@ to easily locate all the essential resources.
 
 - **Waves Scheps Omni Channel** 2022-05 ($$)<br/>
   All-In-One (VST Plugin (Compressor, Equalizer, Gate)<br/>
-  [Homepage](https://www.waves.com/plugins/sibilance)
-  [Download](https://www.waves.com/plugins/sibilance)
+  [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
+  [Download](https://www.waves.com/plugins/scheps-omni-channel)
 
 ### VST Plugin: Reverberation Removal
 
@@ -116,22 +116,27 @@ to easily locate all the essential resources.
 
 ### VST Plugin: Noise Suppression
 
-- **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 (COMMERCIAL)<br/>
+- **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$)<br/>
   Audio VST Plugin (Noise Suppressor)<br/>
   [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
   [Download](https://audionamix.com/instant-dialogue-cleaner/)
 
-- **Waves Clarity Vx (Pro)** 2022-05 (COMMERCIAL)<br/>
+- **Waves Clarity Vx Pro** 2022-05 ($$$)<br/>
   Audio VST Plugin (Noise Suppressor)<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx-pro)
   [Download](https://www.waves.com/plugins/clarity-vx-pro)
 
-- **Waves NS1** 2022-05 (COMMERCIAL)<br/>
+- **Waves Clarity Vx** 2022-05 ($$)<br/>
+  Audio VST Plugin (Noise Suppressor)<br/>
+  [Homepage](https://www.waves.com/plugins/clarity-vx)
+  [Download](https://www.waves.com/plugins/clarity-vx)
+
+- **Waves NS1** 2022-05 ($$)<br/>
   Audio VST Plugin (Noise Suppressor)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
-- **Waves WMS** 2022-05 (COMMERCIAL)<br/>
+- **Waves WMS** 2022-05 ($$)<br/>
   Audio VST Plugin (Noise Suppressor)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
