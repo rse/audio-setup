@@ -18,7 +18,7 @@ The audio chain in particular is based on the following products:
   Rationale: provides the best ASIO integrated VST host for use with VoiceMeeter Potato
 - **BlueCat Dynamics** for voice-over on output [channel 1](audio-chain/screenshot-03-voiceover1.png) and [channel 2](audio-chain/screenshot-04-voiceover2.png)<br/>
   Rationale: simply one of the best and most flexible dynamics processors
-- **BlueCat Dynamics** for [side-chain processing](audio-chain/screenshot-05-ducking-pre.png) and [microphone ducking](audio-chain/screenshot-06-ducking.png)<br/>
+- **BlueCat Dynamics** for [side-chain pre-processing](audio-chain/screenshot-05-ducking-pre.png) and [microphone ducking](audio-chain/screenshot-06-ducking.png)<br/>
   Rationale: simply one of the best and most flexible dynamics processors
 - **Acon Digital DeVerberate** for [room reverb removal](audio-chain/screenshot-07-de-reverb.png)<br/>
   Rationale: cheaper than DeRoom and as good in quality
