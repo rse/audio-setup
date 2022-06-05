@@ -18,7 +18,7 @@ The audio processing chain currently used by Dr. Ralf S. Engelschall in particul
 *BlueCat Dynamics* for voice-over on output [channel 1](audio-chain/screenshot-03-voiceover1.png) and [channel 2](audio-chain/screenshot-04-voiceover2.png);
 *BlueCat Dynamics* for [side-chain processing](audio-chain/screenshot-05-ducking-pre.png) and [microphone ducking](audio-chain/screenshot-06-ducking.png);
 *Acon Digital DeVerberate* for [room reverb removal](audio-chain/screenshot-07-de-reverb.png);
-*Audionamix Instant Dialogue Cleaner (IDC)* for [noise suppression](audio-chain/screenshot-08-de-noise.png);
+*Audionamix Instant Dialogue Cleaner (IDC)* for [noise suppression](audio-chain/screenshot-08-de-noiser.png);
 *Waves Sibilance* for [de-esser](audio-chain/screenshot-09-de-esser.png);
 *TDR Nova GE* for [cutting equalization](audio-chain/screenshot-10-cut-eq.png);
 *BlueCat Dynamics* for [expansion](audio-chain/screenshot-11-expander.png);
