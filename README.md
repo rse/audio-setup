@@ -12,26 +12,43 @@ his various video streaming setups is based on a [logical audio processing graph
 which sits between two speaker output channels and a microphone input channel.
 The audio chain in particular is based on the following products:
 
-- **VoiceMeeter Potato** for the [audio track routing](audio-chain/screenshot-01-routing.png)
-- **Cantabile** for the [VST plugin hosting](audio-chain/screenshot-02-hosting.png)
-- **BlueCat Dynamics** for voice-over on output [channel 1](audio-chain/screenshot-03-voiceover1.png) and [channel 2](audio-chain/screenshot-04-voiceover2.png)
-- **BlueCat Dynamics** for [side-chain processing](audio-chain/screenshot-05-ducking-pre.png) and [microphone ducking](audio-chain/screenshot-06-ducking.png)
-- **Acon Digital DeVerberate** for [room reverb removal](audio-chain/screenshot-07-de-reverb.png)
-- **Audionamix Instant Dialogue Cleaner (IDC)** for [noise suppression](audio-chain/screenshot-08-de-noiser.png)
-- **Waves Sibilance** for [de-esser](audio-chain/screenshot-09-de-esser.png)
-- **TDR Nova GE** for [cutting equalization](audio-chain/screenshot-10-cut-eq.png)
-- **BlueCat Dynamics** for [expansion](audio-chain/screenshot-11-expander.png)
-- **BlueCat Dynamics** for [compression](audio-chain/screenshot-12-compressor.png)
-- **TDR Nova GE** for [boosting equalization](audio-chain/screenshot-13-boost-eq.png)
-- **Acon Digital Reverb** for optional [voice reverb addition](audio-chain/screenshot-14-reverb.png)
-- **TDR Limiter GE** for [volume limiting](audio-chain/screenshot-15-limiter.png)
+- **VoiceMeeter Potato** for the [audio track routing](audio-chain/screenshot-01-routing.png)<br/>
+  Rationale: simply the most flexible and hardware-independent router/mixer for Windows
+- **Cantabile** for the [VST plugin hosting](audio-chain/screenshot-02-hosting.png)<br/>
+  Rationale: provides the best ASIO integrated VST host for use with VoiceMeeter Potato
+- **BlueCat Dynamics** for voice-over on output [channel 1](audio-chain/screenshot-03-voiceover1.png) and [channel 2](audio-chain/screenshot-04-voiceover2.png)<br/>
+  Rationale: simply one of the best and most flexible dynamics processors
+- **BlueCat Dynamics** for [side-chain processing](audio-chain/screenshot-05-ducking-pre.png) and [microphone ducking](audio-chain/screenshot-06-ducking.png)<br/>
+  Rationale: simply one of the best and most flexible dynamics processors
+- **Acon Digital DeVerberate** for [room reverb removal](audio-chain/screenshot-07-de-reverb.png)<br/>
+  Rationale: cheaper than DeRoom and as good in quality
+- **Audionamix Instant Dialogue Cleaner (IDC)** for [noise suppression](audio-chain/screenshot-08-de-noiser.png)<br/>
+  Rationale: cheaper than Clarity Vx Pro and better in quality perception
+- **Waves Sibilance** for [de-esser](audio-chain/screenshot-09-de-esser.png)<br/>
+  Rationale: very good quality
+- **TDR Nova GE** for [cutting equalization](audio-chain/screenshot-10-cut-eq.png)<br/>
+  Rationale: just a flexible parametric equalizer
+- **BlueCat Dynamics** for [expansion](audio-chain/screenshot-11-expander.png)<br/>
+  Rationale: simply one of the best and most flexible dynamics processors
+- **BlueCat Dynamics** for [compression](audio-chain/screenshot-12-compressor.png)<br/>
+  Rationale: simply one of the best and most flexible dynamics processors
+- **TDR Nova GE** for [boosting equalization](audio-chain/screenshot-13-boost-eq.png)<br/>
+  Rationale: just a flexible parametric equalizer
+- **Acon Digital Reverb** for optional [voice reverb addition](audio-chain/screenshot-14-reverb.png)<br/>
+  Rationale: just a possible reverb generator
+- **TDR Limiter GE** for [volume limiting](audio-chain/screenshot-15-limiter.png)<br/>
+  Rationale: a very flexible limiter
 
 For the fine-tuning of the audio-chain, the following additional products are also used:
 
-- **Melda Production MRecorder** for optional [track recording](audio-chain/screenshot-16-recorder.png)
-- **Cantabile Built-In Player** for optional track playing
-- **YouLean Loudness Meter** for optional [loudness metering](audio-chain/screenshot-17-loudness.png)
-- **Voxengo SPAN Plus** for optional [spectrum visualization](audio-chain/screenshot-18-spectrum.png)
+- **Melda Production MRecorder** for optional [track recording](audio-chain/screenshot-16-recorder.png)<br/>
+  Rationale: a sufficient recorder
+- **Cantabile Built-In Player** for optional track playing<br/>
+  Rationale: a sufficient player
+- **YouLean Loudness Meter** for optional [loudness metering](audio-chain/screenshot-17-loudness.png)<br/>
+  Rationale: simply the best loudness meter at all
+- **Voxengo SPAN Plus** for optional [spectrum visualization](audio-chain/screenshot-18-spectrum.png)<br/>
+  Rationale: simply the best spectrum visualizer at all
 
 Products for Audio Chains
 -------------------------
