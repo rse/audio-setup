@@ -31,7 +31,7 @@ The audio processing chain currently used by Dr. Ralf S. Engelschall in particul
 - *Acon Digital Reverb* for optional [voice reverb addition](audio-chain/screenshot-14-reverb.png)
 - *TDR Limiter GE* for [volume limiting](audio-chain/screenshot-15-limiter.png)
 
-For the fine-tuing of the audio-chain, the following additional products are used:
+For the fine-tuning of the audio-chain, the following additional products are used:
 
 - *Melda Production MRecorder* for optional [track recording](audio-chain/screenshot-16-recorder.png)
 - *Cantabile Built-In Player* for optional track playing
