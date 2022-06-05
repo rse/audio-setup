@@ -22,7 +22,7 @@ The audio chain in particular is based on the following products:
 - **BlueCat Dynamics** for [side-chain pre-processing](audio-chain/screenshot-05-ducking-pre.png) and [microphone ducking](audio-chain/screenshot-06-ducking.png)<br/>
   Rationale: simply one of the best and most flexible dynamics processors
 - **Acon Digital DeVerberate** for [room reverb removal](audio-chain/screenshot-07-de-reverb.png)<br/>
-  Rationale: cheaper than DeRoom and as good in quality
+  Rationale: cheaper than DeRoom and as good in quality (also needed because of a condenser mic and 50-100cm distance where a dynamic mic cannot be used)
 - **Audionamix Instant Dialogue Cleaner (IDC)** for [noise suppression](audio-chain/screenshot-08-de-noiser.png)<br/>
   Rationale: cheaper than Clarity Vx Pro and better in quality perception
 - **Waves Sibilance** for [de-esser](audio-chain/screenshot-09-de-esser.png)<br/>
