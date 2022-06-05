@@ -9,6 +9,7 @@ Personal Audio Chain
 
 The opinionated audio chain currently used by [Dr. Ralf S. Engelschall](https://engelschall.com) in
 his various video streaming setups is based on a [logical audio processing graph](audio-chain.pdf)
+(which you can also see again physically in the [Cantabile](audio-chain/screenshot-02-hosting.png) component)
 which sits between two speaker output channels and a microphone input channel.
 The audio chain in particular is based on the following products:
 
