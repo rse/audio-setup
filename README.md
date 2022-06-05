@@ -12,18 +12,23 @@ Plugins](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) and
 companion tools should be installed. The intention of this collection is
 to easily locate all the essential resources.
 
-The audio processing chain currently used by Dr. Ralf S. Engelschall in particular is:
-*VoiceMeeter Potato* for the audio routing;
-*Cantabile* for the VST host;
-*BlueCat Dynamics* for microphone ducking and voice-over;
-*Acon Digital DeVerberate* for room reverberation removal;
-*Audionamix Instant Dialogue Cleaner (IDC)* for noise suppression;
-*Waves Sibilance* for de-essing;
-*TDR Nova GE* for cutting and boost equalization;
-*BlueCat Dynamics* for expansion/gating and compression;
-*TDR Limiter GE* for volume limiting;
-*Youlean Loudness Meter* for volume metering; and
-*Voxengo SPAN Plus* for spectrum visualization.
+The audio processing chain currently used by Dr. Ralf S. Engelschall in particular is based on:
+*VoiceMeeter Potato* for the [audio track routing](audio-chain/screenshot-01-routing.png);
+*Cantabile* for the [VST plugin hosting](audio-chain/screenshot-02-hosting);
+*BlueCat Dynamics* for voice-over on output [channel 1](audio-chain/screenshot-03-voiceover1.png) and [channel 2](audio-chain/screenshot-04-voiceover2.png);
+*BlueCat Dynamics* for [side-chain processing](audio-chain/screenshot-05-ducking-pre.png) and [microphone ducking](audio-chain/screenshot-06-ducking.png);
+*Acon Digital DeVerberate* for [room reverb removal](audio-chain/screenshot-07-de-reverb.png);
+*Audionamix Instant Dialogue Cleaner (IDC)* for [noise suppression](audio-chain/screenshot-08-de-noise.png);
+*Waves Sibilance* for [de-esser](audio-chain/screenshot-09-de-esser.png);
+*TDR Nova GE* for [cutting equalization](audio-chain/screenshot-10-cut-eq.png);
+*BlueCat Dynamics* for [expansion](audio-chain/screenshot-11-expander.png);
+*BlueCat Dynamics* for [compression](audio-chain/screenshot-12-compressor.png);
+*TDR Nova GE* for [boosting equalization](audio-chain/screenshot-13-boost-eq.png);
+*Acon Digital Reverb* for optional [voice reverb addition](audio-chain/screenshot-14-reverb.png);
+*TDR Limiter GE* for [volume limiting](audio-chain/screenshot-15-limiter.png);
+*Melda Production MRecorder* for optional [track recording](audio-chain/screenshot-16-recorder.png);
+*YouLean Loudness Meter* for optional [loudness metering](audio-chain/screenshot-17-loudness.png); and
+*Voxengo SPAN Plus* for optional [spectrum visualization](audio-chain/screenshot-18-spectrum.png).
 
 ### Audio Mixer/Routing
 
