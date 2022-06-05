@@ -15,7 +15,10 @@ to easily locate all the essential resources.
 Personal Audio Chain
 --------------------
 
-The audio processing chain currently used by Dr. Ralf S. Engelschall in particular is based on:
+The audio chain currently used by Dr. Ralf S. Engelschall for
+his various video streaming setups is based on a [logical audio processing graph](audio-chain.pdf)
+which sits between two speaker output channels and a microphone input channel.
+The audio chain in particular is based on the following products:
 
 - *VoiceMeeter Potato* for the [audio track routing](audio-chain/screenshot-01-routing.png)
 - *Cantabile* for the [VST plugin hosting](audio-chain/screenshot-02-hosting.png)
@@ -31,7 +34,7 @@ The audio processing chain currently used by Dr. Ralf S. Engelschall in particul
 - *Acon Digital Reverb* for optional [voice reverb addition](audio-chain/screenshot-14-reverb.png)
 - *TDR Limiter GE* for [volume limiting](audio-chain/screenshot-15-limiter.png)
 
-For the fine-tuning of the audio-chain, the following additional products are used:
+For the fine-tuning of the audio-chain, the following additional products are also used:
 
 - *Melda Production MRecorder* for optional [track recording](audio-chain/screenshot-16-recorder.png)
 - *Cantabile Built-In Player* for optional track playing
