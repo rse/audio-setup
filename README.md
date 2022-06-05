@@ -4,18 +4,10 @@ Audio Setup
 
 Version 1.0.1 (2022-06-04)
 
-This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
-opinionated list of software components for setting up a
-full-featured Audio processing pipeline under Windows 10/11
-(x64). For this, beside the base application, multiple [VST
-Plugins](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) and
-companion tools should be installed. The intention of this collection is
-to easily locate all the essential resources.
-
 Personal Audio Chain
 --------------------
 
-The audio chain currently used by Dr. Ralf S. Engelschall for
+The opinionated audio chain currently used by [Dr. Ralf S. Engelschall](https://engelschall.com) in
 his various video streaming setups is based on a [logical audio processing graph](audio-chain.pdf)
 which sits between two speaker output channels and a microphone input channel.
 The audio chain in particular is based on the following products:
@@ -41,8 +33,16 @@ For the fine-tuning of the audio-chain, the following additional products are al
 - *YouLean Loudness Meter* for optional [loudness metering](audio-chain/screenshot-17-loudness.png)
 - *Voxengo SPAN Plus* for optional [spectrum visualization](audio-chain/screenshot-18-spectrum.png)
 
-Products for Audio Chain
-------------------------
+Products for Audio Chains
+-------------------------
+
+This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
+opinionated list of software components for setting up a
+full-featured Audio processing pipeline under Windows 10/11
+(x64). For this, beside the base application, multiple [VST
+Plugins](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) and
+companion tools should be installed. The intention of this collection is
+to easily locate all the essential resources.
 
 ### Audio Mixer/Routing
 
