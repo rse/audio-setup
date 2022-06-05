@@ -55,12 +55,13 @@ Products for Audio Chains
 -------------------------
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
-opinionated list of software components for setting up a
+opinionated list of useful software components for setting up a
 full-featured Audio processing pipeline under Windows 10/11
 (x64). For this, beside the base application, multiple [VST
 Plugins](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) and
 companion tools should be installed. The intention of this collection is
-to easily locate all the essential resources.
+to easily locate all the essential resources. The list is the result
+of setting up various audio chains at home and in the software industry.
 
 ### Audio Mixer/Routing
 
