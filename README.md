@@ -12,6 +12,9 @@ Plugins](https://en.wikipedia.org/wiki/Virtual_Studio_Technology) and
 companion tools should be installed. The intention of this collection is
 to easily locate all the essential resources.
 
+Personal Audio Chain
+--------------------
+
 The audio processing chain currently used by Dr. Ralf S. Engelschall in particular is based on:
 
 - *VoiceMeeter Potato* for the [audio track routing](audio-chain/screenshot-01-routing.png);
@@ -30,6 +33,9 @@ The audio processing chain currently used by Dr. Ralf S. Engelschall in particul
 - *Melda Production MRecorder* for optional [track recording](audio-chain/screenshot-16-recorder.png);
 - *YouLean Loudness Meter* for optional [loudness metering](audio-chain/screenshot-17-loudness.png); and
 - *Voxengo SPAN Plus* for optional [spectrum visualization](audio-chain/screenshot-18-spectrum.png).
+
+Products for Audio Chain
+------------------------
 
 ### Audio Mixer/Routing
 
