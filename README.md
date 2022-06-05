@@ -14,7 +14,7 @@ to easily locate all the essential resources.
 
 The audio processing chain currently used by Dr. Ralf S. Engelschall in particular is based on:
 *VoiceMeeter Potato* for the [audio track routing](audio-chain/screenshot-01-routing.png);
-*Cantabile* for the [VST plugin hosting](audio-chain/screenshot-02-hosting);
+*Cantabile* for the [VST plugin hosting](audio-chain/screenshot-02-hosting.png);
 *BlueCat Dynamics* for voice-over on output [channel 1](audio-chain/screenshot-03-voiceover1.png) and [channel 2](audio-chain/screenshot-04-voiceover2.png);
 *BlueCat Dynamics* for [side-chain processing](audio-chain/screenshot-05-ducking-pre.png) and [microphone ducking](audio-chain/screenshot-06-ducking.png);
 *Acon Digital DeVerberate* for [room reverb removal](audio-chain/screenshot-07-de-reverb.png);
