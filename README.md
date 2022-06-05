@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.0.1 (2022-06-04)
+Version 1.0.2 (2022-06-04)
 
 Personal Audio Chain
 --------------------
