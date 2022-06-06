@@ -170,7 +170,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.accentize.com/deroom/)
   [Download](https://www.accentize.com/deroom/)
 
-### VST Plugin: Non-Voice Suppression (aka Voice Extraction)
+### VST Plugin: Noise Suppression (for any non-voice sounds)
 
 - **Waves Clarity Vx Pro** 2022-05 ($$$)<br/>
   Voice Cleaner, separates voice via AI/ML, CPU-heavy<br/>
@@ -197,15 +197,15 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://acondigital.de/produkte/extract-dialogue/)
   [Download](https://acondigital.de/produkte/extract-dialogue/)
 
-### VST Plugin: Noise Suppression
+### VST Plugin: Noise Suppression (for wind/humm/hiss)
 
 - **Waves WMS** 13.0 ($$) [RECOMMENDED]<br/>
-  Noise Suppressor, reduces background noise (for dialog/voice), 6-band attenuation control<br/>
+  Noise Suppressor, reduces background noise, 6-band attenuation control<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
 - **Waves NS1** 13.0 ($$)<br/>
-  Noise Suppressor, reduces background noise (of dialog/voice), single-knob control<br/>
+  Noise Suppressor, reduces background noise, single-knob control<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
