@@ -170,12 +170,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.accentize.com/deroom/)
   [Download](https://www.accentize.com/deroom/)
 
-### VST Plugin: Non-Voice Suppression
-
-- **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$) [RECOMMENDED]<br/>
-  Voice Cleaner, separates voice via AI/ML<br/>
-  [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
-  [Download](https://audionamix.com/instant-dialogue-cleaner/)
+### VST Plugin: Non-Voice Suppression (aka Voice Extraction)
 
 - **Waves Clarity Vx Pro** 2022-05 ($$$)<br/>
   Voice Cleaner, separates voice via AI/ML, CPU-heavy<br/>
@@ -187,10 +182,20 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/clarity-vx)
   [Download](https://www.waves.com/plugins/clarity-vx)
 
-- **Accentize VoiceGate** 2.0.8 ($$$)<br/>
+- **Accentize VoiceGate** 2.0.8 ($$$) [RECOMMENDED]<br/>
   Voice Cleaner, separates voice via AI/ML<br/>
   [Homepage](https://www.accentize.com/voicegate/)
   [Download](https://www.accentize.com/voicegate/)
+
+- **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$) [RECOMMENDED]<br/>
+  Voice Cleaner, separates voice via AI/ML<br/>
+  [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
+  [Download](https://audionamix.com/instant-dialogue-cleaner/)
+
+- **Acon Digital Extract Dialog** 1.1.6 ($$)<br/>
+  Voice Cleaner, separates voice via AI/ML<br/>
+  [Homepage](https://acondigital.de/produkte/extract-dialogue/)
+  [Download](https://acondigital.de/produkte/extract-dialogue/)
 
 ### VST Plugin: Noise Suppression
 
