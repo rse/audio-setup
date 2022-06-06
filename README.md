@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.0.2 (2022-06-04)
+Version 1.0.3 (2022-06-06)
 
 Personal Audio Chain
 --------------------
@@ -92,6 +92,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
+- **BandLab Cakewalk** 2022.02.1 (0)<br/>
+  Digital Audio Workstation (with VST support)<br/>
+  [Homepage](https://www.bandlab.com/products/cakewalk)
+  [Download](https://downloads.bandlab.com/cakewalk/setup/CakewalkSetup.exe)
+
 - **Cockos Reaper** 6.59 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
@@ -138,12 +143,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
-- **Waves eMo D5 Dynamics** 2022-05 ($$)<br/>
+- **Waves eMo D5 Dynamics** 13.0 ($$)<br/>
   All-In-One VST Plugin (De-Esser, Compressor, Gate, Limiter)<br/>
   [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
   [Download](https://www.waves.com/plugins/emo-d5-dynamics)
 
-- **Waves Scheps Omni Channel** 2022-05 ($$)<br/>
+- **Waves Scheps Omni Channel** 13.0 ($$)<br/>
   All-In-One (VST Plugin (Compressor, Equalizer, Gate)<br/>
   [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
   [Download](https://www.waves.com/plugins/scheps-omni-channel)
@@ -155,46 +160,53 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://acondigital.de/produkte/deverberate/)
   [Download](https://acondigital.de/produkte/deverberate/)
 
-- **Accentize DeRoom Pro** 2022-05 ($$$)<br/>
+- **Accentize DeRoom Pro** 2.0.4 ($$$)<br/>
   Audio VST Plugin (Room Reverberation Removal)<br/>
   [Homepage](https://www.accentize.com/deroom-pro/)
   [Download](https://www.accentize.com/deroom-pro/)
 
-- **Accentize DeRoom** 2022-05 ($$)<br/>
+- **Accentize DeRoom** 2.0.1 ($$)<br/>
   Audio VST Plugin (Room Reverberation Removal)<br/>
   [Homepage](https://www.accentize.com/deroom/)
   [Download](https://www.accentize.com/deroom/)
 
-### VST Plugin: Noise Suppression
+### VST Plugin: Non-Voice Suppression
 
 - **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Noise Suppressor)<br/>
+  Voice Cleaner, separates voice via AI/ML<br/>
   [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
   [Download](https://audionamix.com/instant-dialogue-cleaner/)
 
 - **Waves Clarity Vx Pro** 2022-05 ($$$)<br/>
-  Audio VST Plugin (Noise Suppressor)<br/>
+  Voice Cleaner, separates voice via AI/ML, CPU-heavy<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx-pro)
   [Download](https://www.waves.com/plugins/clarity-vx-pro)
 
 - **Waves Clarity Vx** 2022-05 ($$)<br/>
-  Audio VST Plugin (Noise Suppressor)<br/>
+  Voice Cleaner, separates voice via AI/ML, CPU-heavy<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx)
   [Download](https://www.waves.com/plugins/clarity-vx)
 
-- **Waves NS1** 2022-05 ($$)<br/>
-  Audio VST Plugin (Noise Suppressor)<br/>
+- **Accentize VoiceGate** 2.0.8 ($$$)<br/>
+  Voice Cleaner, separates voice via AI/ML<br/>
+  [Homepage](https://www.accentize.com/voicegate/)
+  [Download](https://www.accentize.com/voicegate/)
+
+### VST Plugin: Noise Suppression
+
+- **Waves WMS** 13.0 ($$) [RECOMMENDED]<br/>
+  Noise Suppressor, reduces background noise, 5-band attenuation control<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
-- **Waves WMS** 2022-05 ($$)<br/>
-  Audio VST Plugin (Noise Suppressor)<br/>
+- **Waves NS1** 13.0 ($$)<br/>
+  Noise Suppressor, reduces background noise, single-knob control<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
 ### VST Plugin: De-Esser
 
-- **Waves Sibilance** 2022-05 ($$) [RECOMMENDED]<br/>
+- **Waves Sibilance** 13.0 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (De-Esser)<br/>
   [Homepage](https://www.waves.com/plugins/sibilance)
   [Download](https://www.waves.com/plugins/sibilance)
