@@ -200,12 +200,12 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Noise Suppression
 
 - **Waves WMS** 13.0 ($$) [RECOMMENDED]<br/>
-  Noise Suppressor, reduces background noise, 5-band attenuation control<br/>
+  Noise Suppressor, reduces background noise (for dialog/voice), 6-band attenuation control<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
 - **Waves NS1** 13.0 ($$)<br/>
-  Noise Suppressor, reduces background noise, single-knob control<br/>
+  Noise Suppressor, reduces background noise (of dialog/voice), single-knob control<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
