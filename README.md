@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.0.3 (2022-06-06)
+Version 1.0.4 (2022-06-08)
 
 Personal Audio Chain
 --------------------
@@ -188,7 +188,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.accentize.com/voicegate/)
 
 - **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$) [RECOMMENDED]<br/>
-  Voice Cleaner, separates voice via AI/ML<br/>
+  Voice Cleaner, separates voice via AI/ML, has very little latency<br/>
   [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
   [Download](https://audionamix.com/instant-dialogue-cleaner/)
 
@@ -199,7 +199,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Noise Suppression (for wind/humm/hiss)
 
-- **Waves WMS** 13.0 ($$) [RECOMMENDED]<br/>
+- **Waves WNS** 13.0 ($$) [RECOMMENDED]<br/>
   Noise Suppressor, reduces background noise, 6-band attenuation control<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
