@@ -143,6 +143,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
+- **Voxessor** 0 ($$)<br/>
+  All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, etc)<br/>
+  [Homepage](https://www.waproduction.com/plugins/view/voxessor)
+  [Download](https://www.waproduction.com/plugins/view/voxessor)
+
 - **Waves eMo D5 Dynamics** 13.0 ($$)<br/>
   All-In-One VST Plugin (De-Esser, Compressor, Gate, Limiter)<br/>
   [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
@@ -157,6 +162,11 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate)<br/>
   [Homepage](https://fuseaudiolabs.de/#/pages/product?id=301012112)
   [Download](https://fuseaudiolabs.de/vendor/fuseaudiolabs/php/account.php?op=downloadfile&name=fuse_audio_labs_vcs1_win_1_0_1.zip)
+
+- **iZotope Neutron 4** 4 ($$$)<br/>
+  All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate, etc)<br/>
+  [Homepage](https://www.izotope.com/en/products/neutron.html)
+  [Download](https://www.izotope.com/en/products/neutron.html)
 
 ### VST Plugin: Reverberation Removal
 
@@ -258,15 +268,25 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tokyodawn.net/tdr-vos-slickeq/)
   [Download](https://www.tokyodawn.net/labs/SlickEQ/1.3.7/TDR%20VOS%20SlickEQ%20(installer).zip?x24775)
 
+- **Waves F6** 13 ($$)<br/>
+  Audio VST Plugin (Parametric Equalizer)<br/>
+  [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
+  [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
+
 - **Eventide SplitEQ** 1.0.12 ($$)<br/>
   Audio VST Plugin (Parameteric Equalizer, seperate tonal and transient)<br/>
   [Homepage](https://www.eventideaudio.com/plug-ins/spliteq/)
   [Download](https://www.eventideaudio.com/downloads/spliteq-installer-win-64-bit)
 
 - **FabFilter Pro-Q 3** 3.21 ($$$)<br/>
-  Audio VST Plugin (Graphical Equalizer)<br/>
+  Audio VST Plugin (Parametric Equalizer)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
+
+- **Sonible smart:EQ 3** 3 ($$$)<br/>
+  Audio VST Plugin (Parametric Equalizer)<br/>
+  [Homepage](https://www.izotope.com/en/products/neutron.html)
+  [Download](https://www.sonible.com/smarteq3/)
 
 - **Voxengo Marvel GEQ** 1.11 (0)<br/>
   Audio VST Plugin (Graphical Equalizer)<br/>
