@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.0.4 (2022-06-08)
+Version 1.0.5 (2022-06-10)
 
 Personal Audio Chain
 --------------------
@@ -149,9 +149,14 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.waves.com/plugins/emo-d5-dynamics)
 
 - **Waves Scheps Omni Channel** 13.0 ($$)<br/>
-  All-In-One (VST Plugin (Compressor, Equalizer, Gate)<br/>
+  All-In-One VST Plugin (Compressor, Equalizer, Gate)<br/>
   [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
   [Download](https://www.waves.com/plugins/scheps-omni-channel)
+
+- **Fuse Audio Labs VCS-1** 1.0.1 ($$)<br/>
+  All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate)<br/>
+  [Homepage](https://fuseaudiolabs.de/#/pages/product?id=301012112)
+  [Download](https://fuseaudiolabs.de/vendor/fuseaudiolabs/php/account.php?op=downloadfile&name=fuse_audio_labs_vcs1_win_1_0_1.zip)
 
 ### VST Plugin: Reverberation Removal
 
@@ -226,6 +231,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://plugins4free.com/plugin/1662/)
   [Download](https://plugins4free.com/get_plug/STDSP_Lisp_x64.zip)
 
+- **Analog Obsession LOADES** 1.0 (0)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://www.patreon.com/posts/loades-62370686)
+  [Download](https://analogobsession.com/wp-content/uploads/2022/02/LOADES_1.0.exe)
+
 ### VST Plugin: Equalization
 
 - **TDR Nova GE** 2.1.5 ($$) [RECOMMENDED]<br/>
@@ -248,7 +258,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tokyodawn.net/tdr-vos-slickeq/)
   [Download](https://www.tokyodawn.net/labs/SlickEQ/1.3.7/TDR%20VOS%20SlickEQ%20(installer).zip?x24775)
 
-- **FabFilter Pro-Q 3** ($$$)<br/>
+- **Eventide SplitEQ** 1.0.12 ($$)<br/>
+  Audio VST Plugin (Parameteric Equalizer, seperate tonal and transient)<br/>
+  [Homepage](https://www.eventideaudio.com/plug-ins/spliteq/)
+  [Download](https://www.eventideaudio.com/downloads/spliteq-installer-win-64-bit)
+
+- **FabFilter Pro-Q 3** 3.21 ($$$)<br/>
   Audio VST Plugin (Graphical Equalizer)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
@@ -269,6 +284,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Wideband Dynamic Processor / Compressor)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-kotelnikov/)
   [Download](https://www.tokyodawn.net/labs/Kotelnikov/1.6.4/TDR%20Kotelnikov%20(installer).zip?x24775)
+
+- **TDR Kotelnikov GE** 1.6.4 (0)<br/>
+  Audio VST Plugin (Wideband Dynamic Processor / Compressor)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-kotelnikov-ge/)
+  [Download](https://www.tokyodawn.net/labs/KotelnikovGE/1.6.4/TDR%20Kotelnikov%20GE%20Demo%20(installer).zip?x24775)
 
 - **FabFilter Pro-C 2** 2.15 ($$$)<br/>
   Compressor<br/>
@@ -379,6 +399,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
 
+- **SonoBus** (0)<br/>
+  High-Quality Network Audio Streaming (Conference Mode)<br/>
+  [Homepage](https://www.sonobus.net/)
+  [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
+
 ### Companion Tools
 
 - **OBS Audio Sync** 2019 (0)<br/>
@@ -405,9 +430,4 @@ of setting up various audio chains at home and in the software industry.
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
   [Homepage](https://auto-duck.com/)
   [Download](https://auto-duck.com/download-last)
-
-- **SonoBus** (0)<br/>
-  High-Quality Network Audio Streaming (Conference Mode)<br/>
-  [Homepage](https://www.sonobus.net/)
-  [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
 
