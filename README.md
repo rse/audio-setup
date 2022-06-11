@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.0.5 (2022-06-10)
+Version 1.0.6 (2022-06-11)
 
 Personal Audio Chain
 --------------------
@@ -331,6 +331,13 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Sidechain Noise-Gate)<br/>
   [Homepage](https://plugins4free.com/plugin/2213/)
   [Download](https://plugins4free.com/get_plug/BPAGate_x64.zip)
+
+### VST Plugin: Saturation
+
+- **Slate Digital Fresh Air** 1.0.8 (0)<br/>
+  Audio VST Plugin (dynamic high frequency processor)<br/>
+  [Homepage](https://slatedigital.com/fresh-air/)
+  [Download](https://slatedigital.com/fresh-air/)
 
 ### VST Plugin: Volume Limiting
 
