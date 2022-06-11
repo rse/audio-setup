@@ -293,6 +293,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.voxengo.com/product/marvelgeq/)
   [Download](https://www.voxengo.com/files/VoxengoMarvelGEQ_111_Win32_64_VST_VST3_AAX_setup.exe)
 
+- **Wavesfactory Trackspacer** 2.5.9 ($$)<br/>
+  Dynamic 32-Band Sidechain-Based Inverse-Equalizer (for ducking)<br/>
+  [Homepage](https://www.wavesfactory.com/audio-plugins/trackspacer/)
+  [Download](https://trackspacer-wavesfactory.s3.amazonaws.com/Trackspacer%202.5.9.exe)
+
 ### VST Plugin: Compression
 
 - **BlueCat Dynamics** ($$) [RECOMMENDED]<br/>
