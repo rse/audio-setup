@@ -375,16 +375,6 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Volume Leveling
 
-- **WTAutomixer** V2 ($$$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
-  [Homepage](https://www.wtautomixer.com/)
-  [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
-
-- **Junger Audio-Level Magic** 2022-05 ($$$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
-  [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
-  [Download](https://www.flux.audio/project/junger-audio-level-magic/)
-
 - **Waves Playlist Rider** 2022-05 ($$)<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.waves.com/plugins/playlist-rider)
@@ -395,15 +385,27 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/vocal-rider)
   [Download](https://www.waves.com/plugins/vocal-rider)
 
-- **TBProAudio AMM2** 2.0.15 ($$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
-  [Homepage](https://www.tbproaudio.de/products/amm)
-  [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
-
 - **DynaRide 2** 2 ($$)<br/>
   Audio VST Plugin (Volume Balancer)<br/>
   [Homepage](https://www.tbproaudio.de/products/dynaride)
   [Download](https://www.tbproaudio.de/products/dynaride)
+
+### VST Plugin: Microphone Auto-Mixing
+
+- **WTAutomixer** V2 ($$$) [RECOMMENDED]<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.wtautomixer.com/)
+  [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
+
+- **Junger Audio-Level Magic** 2022-05 ($$$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
+  [Download](https://www.flux.audio/project/junger-audio-level-magic/)
+
+- **TBProAudio AMM2** 2.0.15 ($$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.tbproaudio.de/products/amm)
+  [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
 
 ### VST Plugin: Volume Metering
 
