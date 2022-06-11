@@ -87,6 +87,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
 
+- **Audified inTone 2 Solo** 2.5.9 (0)<br/>
+  VST Host (can act standalone)<br/>
+  [Homepage](https://shop.audified.com/products/intone-2-solo-1)
+  [Download](https://shop.audified.com/products/intone-2-solo-1)
+
 - **LightHost** 1.2.1 (0)<br/>
   Simple VST Host (acts standalone)<br/>
   [Homepage](https://github.com/rolandoislas/LightHost)
@@ -293,10 +298,22 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.voxengo.com/product/marvelgeq/)
   [Download](https://www.voxengo.com/files/VoxengoMarvelGEQ_111_Win32_64_VST_VST3_AAX_setup.exe)
 
+### VST Plugins: Ducking
+
 - **Wavesfactory Trackspacer** 2.5.9 ($$)<br/>
   Dynamic 32-Band Sidechain-Based Inverse-Equalizer (for ducking)<br/>
   [Homepage](https://www.wavesfactory.com/audio-plugins/trackspacer/)
   [Download](https://trackspacer-wavesfactory.s3.amazonaws.com/Trackspacer%202.5.9.exe)
+
+- **Audified SpeakUp** 1.0.0 ($)<br/>
+  Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
+  [Homepage](https://shop.audified.com/products/speakup)
+  [Download](https://shop.audified.com/products/speakup)
+
+- **Auto-Duck** 3.0.0-RC4.1 ($)<br/>
+  Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
+  [Homepage](https://auto-duck.com/)
+  [Download](https://auto-duck.com/download-last)
 
 ### VST Plugin: Compression
 
@@ -457,9 +474,4 @@ of setting up various audio chains at home and in the software industry.
   Virtual MIDI Port<br/>
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
-
-- **Auto-Duck** 3.0.0-RC4.1 ($)<br/>
-  Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
-  [Homepage](https://auto-duck.com/)
-  [Download](https://auto-duck.com/download-last)
 
