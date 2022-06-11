@@ -400,6 +400,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tbproaudio.de/products/amm)
   [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
 
+- **DynaRide 2** 2 ($$)<br/>
+  Audio VST Plugin (Volume Balancer)<br/>
+  [Homepage](https://www.tbproaudio.de/products/dynaride)
+  [Download](https://www.tbproaudio.de/products/dynaride)
+
 ### VST Plugin: Volume Metering
 
 - **Youlean Loudness Meter** 2.4.3 ($$) [RECOMMENDED]<br/>
@@ -416,6 +421,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://www.tbproaudio.de/products/dpmeter)
   [Download](https://www.tbproaudio.de/assets/content/download/dpMeter5nogpu_Installer_WIN_522.zip)
+
+- **Waves Plus Loudness Meter (WLM)** 13.0 ($$)<br/>
+  Audio VST Plugin (Volume Meter)<br/>
+  [Homepage](https://www.waves.com/plugins/wlm-loudness-meter)
+  [Download](https://www.waves.com/plugins/wlm-loudness-meter)
 
 ### VST Plugin: Spectrum Visualization
 
