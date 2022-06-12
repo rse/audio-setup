@@ -186,63 +186,63 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Reverberation Removal
 
 - **Acon Digital DeVerberate** 3.0.4 ($$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Room Reverberation Removal)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: 2560smp/53ms)<br/>
   [Homepage](https://acondigital.de/produkte/deverberate/)
   [Download](https://acondigital.de/produkte/deverberate/)
 
 - **Accentize DeRoom Pro** 2.0.4 ($$$)<br/>
-  Audio VST Plugin (Room Reverberation Removal)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: 5120smp/106ms)<br/>
   [Homepage](https://www.accentize.com/deroom-pro/)
   [Download](https://www.accentize.com/deroom-pro/)
 
 - **Accentize DeRoom** 2.0.1 ($$)<br/>
-  Audio VST Plugin (Room Reverberation Removal)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: 5120smp/106ms)<br/>
   [Homepage](https://www.accentize.com/deroom/)
   [Download](https://www.accentize.com/deroom/)
 
 ### VST Plugin: Noise Suppression (for any non-voice sounds)
 
+- **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$) [RECOMMENDED]<br/>
+  Voice Cleaner, separates voice via AI/ML (latency: 2048smp/42ms)<br/>
+  [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
+  [Download](https://audionamix.com/instant-dialogue-cleaner/)
+
 - **Waves Clarity Vx Pro** 2022-05 ($$$)<br/>
-  Voice Cleaner, separates voice via AI/ML, CPU-heavy<br/>
+  Voice Cleaner, separates voice via AI/ML, CPU-heavy (latency: 2048smp/48ms)<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx-pro)
   [Download](https://www.waves.com/plugins/clarity-vx-pro)
 
 - **Waves Clarity Vx** 2022-05 ($$)<br/>
-  Voice Cleaner, separates voice via AI/ML, CPU-heavy<br/>
+  Voice Cleaner, separates voice via AI/ML, CPU-heavy (latency: 2048smp/48ms)<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx)
   [Download](https://www.waves.com/plugins/clarity-vx)
 
 - **Accentize VoiceGate** 2.0.8 ($$$) [RECOMMENDED]<br/>
-  Voice Cleaner, separates voice via AI/ML<br/>
+  Voice Cleaner, separates voice via AI/ML (latency: 5120/106ms)<br/>
   [Homepage](https://www.accentize.com/voicegate/)
   [Download](https://www.accentize.com/voicegate/)
 
-- **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$) [RECOMMENDED]<br/>
-  Voice Cleaner, separates voice via AI/ML, has very little latency<br/>
-  [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
-  [Download](https://audionamix.com/instant-dialogue-cleaner/)
-
 - **Acon Digital Extract Dialog** 1.1.6 ($$)<br/>
-  Voice Cleaner, separates voice via AI/ML<br/>
+  Voice Cleaner, separates voice via AI/ML (latency: 6144smp/128ms)<br/>
   [Homepage](https://acondigital.de/produkte/extract-dialogue/)
   [Download](https://acondigital.de/produkte/extract-dialogue/)
 
 ### VST Plugin: Noise Suppression (for wind/humm/hiss)
 
 - **Waves WNS** 13.0 ($$) [RECOMMENDED]<br/>
-  Noise Suppressor, reduces background noise, 6-band attenuation control<br/>
+  Noise Suppressor, reduces background noise, 6-band attenuation control (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
-- **Waves NS1** 13.0 ($$)<br/>
-  Noise Suppressor, reduces background noise, single-knob control<br/>
+- **Waves NS1** 13.0 ($$) [RECOMMENDED]<br/>
+  Noise Suppressor, reduces background noise, single-knob control (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
 ### VST Plugin: De-Esser
 
 - **Waves Sibilance** 13.0 ($$) [RECOMMENDED]<br/>
-  Audio VST Plugin (De-Esser)<br/>
+  Audio VST Plugin (De-Esser) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/sibilance)
   [Download](https://www.waves.com/plugins/sibilance)
 
@@ -263,13 +263,23 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Equalization
 
-- **TDR Nova GE** 2.1.5 ($$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Parallel Dynamic Parametric Equalizer)<br/>
+- **Waves F6** 13 ($$) [RECOMMENDED]<br/>
+  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
+  [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
+
+- **Waves Q10** 13 ($$)<br/>
+  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
+  [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
+
+- **TDR Nova GE** 2.1.5 ($$)<br/>
+  Audio VST Plugin (Parallel Dynamic Parametric Equalizer) (latency: 187smp/3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-nova-ge/)
   [Download](https://www.tokyodawn.net/labs/NovaGE/2.1.5/TDR%20Nova%20GE%20Demo%20(installer).zip?x24775)
 
 - **TDR Nova** 2.1.5 (0)<br/>
-  Audio VST Plugin (Parallel Dynamic Parametric Equalizer)<br/>
+  Audio VST Plugin (Parallel Dynamic Parametric Equalizer) (latency: 187smp/3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-nova/)
   [Download](https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova%20(installer).zip?x24775)
 
@@ -282,16 +292,6 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Parameteric Equalizer)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-vos-slickeq/)
   [Download](https://www.tokyodawn.net/labs/SlickEQ/1.3.7/TDR%20VOS%20SlickEQ%20(installer).zip?x24775)
-
-- **Waves F6** 13 ($$)<br/>
-  Audio VST Plugin (Parametric Equalizer, Zero Latency)<br/>
-  [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
-  [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
-
-- **Waves Q10** 13 ($$)<br/>
-  Audio VST Plugin (Parametric Equalizer, Zero Latency)<br/>
-  [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
-  [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
 
 - **FabFilter Pro-Q 3** 3.21 ($$$)<br/>
   Audio VST Plugin (Parametric Equalizer, Zero Latency)<br/>
@@ -333,7 +333,7 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Compression
 
 - **BlueCat Dynamics** ($$) [RECOMMENDED]<br/>
-  Compressor/Expander<br/>
+  Compressor/Expander (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
 
@@ -355,7 +355,7 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Expansion/Gating
 
 - **BlueCat Dynamics** ($$) [RECOMMENDED]<br/>
-  Compressor/Expander<br/>
+  Compressor/Expander (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
 
@@ -372,14 +372,14 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Saturation
 
 - **Slate Digital Fresh Air** 1.0.8 (0)<br/>
-  Audio VST Plugin (dynamic high frequency processor)<br/>
+  Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
   [Homepage](https://slatedigital.com/fresh-air/)
   [Download](https://slatedigital.com/fresh-air/)
 
 ### VST Plugin: Volume Limiting
 
 - **TDR Limiter GE 6** 1.2.4 ($$) [RECOMMENDED]<br/>
-  Audio VST Plugin<br/>
+  Audio VST Plugin (latency: 14smp/0.3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-limiter6-ge/)
   [Download](https://www.tokyodawn.net/labs/Limiter6GE/1.2.4/TDR%20Limiter%206%20GE%20Demo%20(installer).zip?x24775)
 
@@ -401,7 +401,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.waves.com/plugins/vocal-rider)
 
 - **DynaRide 2** 2 ($$)<br/>
-  Audio VST Plugin (Volume Balancer)<br/>
+  Audio VST Plugin (Volume Balancer) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/dynaride)
   [Download](https://www.tbproaudio.de/products/dynaride)
 
