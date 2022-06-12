@@ -376,10 +376,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://slatedigital.com/fresh-air/)
   [Download](https://slatedigital.com/fresh-air/)
 
-- **Waves LoAir** 13.0 (0)<br/>
+- **Waves LoAir** 13.0 ($)<br/>
   Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
-  [Homepage](https://slatedigital.com/fresh-air/)
-  [Download](https://slatedigital.com/fresh-air/)
+  [Homepage](https://www.waves.com/plugins/loair)
+  [Download](https://www.waves.com/plugins/loair)
 
 ### VST Plugin: Volume Limiting
 
