@@ -200,6 +200,21 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.accentize.com/deroom/)
   [Download](https://www.accentize.com/deroom/)
 
+- **Sonible proximity:EQ+** 1.0.4 ($$$)<br/>
+  All-In-One VST Plugin (Room Reverberation Removal) (latency: 4096smp/85ms)<br/>
+  [Homepage](https://www.izotope.com/en/products/neutron.html)
+  [Download](https://www.izotope.com/en/products/neutron.html)
+
+- **Zynaptiq Unveil** ($$$)<br/>
+  All-In-One VST Plugin (Room Reverberation Removal) (latency: 4096smp/85ms)<br/>
+  [Homepage](https://www.izotope.com/en/products/neutron.html)
+  [Download](https://www.izotope.com/en/products/neutron.html)
+
+- **iZotope RX 9 De-Reverb** ($$$)<br/>
+  All-In-One VST Plugin (Room Reverberation Removal) (latency: 9727smp/203ms)<br/>
+  [Homepage](https://www.izotope.com/en/products/neutron.html)
+  [Download](https://www.izotope.com/en/products/neutron.html)
+
 ### VST Plugin: Noise Suppression (for any non-voice sounds)
 
 - **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$) [RECOMMENDED]<br/>
