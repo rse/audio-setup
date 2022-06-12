@@ -441,6 +441,13 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.voxengo.com/product/span/)
   [Download](https://www.voxengo.com/files/VoxengoSPAN_314_Win32_64_VST_VST3_AAX_setup.exe)
 
+### VST Plugin: Channel Panning
+
+- **TBProAudio ST1** 2.0.11 ($)<br/>
+  Audio VST Plugin (Volume Meter)<br/>
+  [Homepage](https://www.tbproaudio.de/products/st1)
+  [Download](https://www.tbproaudio.de/assets/content/download/ST1V2_Installer_WIN_2011.zip)
+
 ### VST Plugin: Playing/Recording
 
 - **Voxengo Recorder** 2.20 (0)<br/>
