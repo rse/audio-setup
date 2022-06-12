@@ -82,15 +82,25 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4047.exe)
 
-- **BlueCat PatchWork** ($$)<br/>
+- **BlueCat PatchWork** 2.52 ($$)<br/>
   VST Host (can act standalone or as a VST plugin itself)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
+
+- **BlueCat MB-7 Mixer** 3.42 ($$)<br/>
+  Multi-Band VST Host (acts as a VST plugin itself)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
+  [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
 
 - **Audified inTone 2 Solo** 2.5.9 (0)<br/>
   VST Host (can act standalone)<br/>
   [Homepage](https://shop.audified.com/products/intone-2-solo-1)
   [Download](https://shop.audified.com/products/intone-2-solo-1)
+
+- **Audified inTone 2** 2.5.9 ($$)<br/>
+  VST Host (can act standalone)<br/>
+  [Homepage](https://shop.audified.com/products/intone-2)
+  [Download](https://shop.audified.com/products/intone-2)
 
 - **LightHost** 1.2.1 (0)<br/>
   Simple VST Host (acts standalone)<br/>
@@ -274,23 +284,28 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.tokyodawn.net/labs/SlickEQ/1.3.7/TDR%20VOS%20SlickEQ%20(installer).zip?x24775)
 
 - **Waves F6** 13 ($$)<br/>
-  Audio VST Plugin (Parametric Equalizer)<br/>
+  Audio VST Plugin (Parametric Equalizer, Zero Latency)<br/>
   [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
   [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
 
-- **Eventide SplitEQ** 1.0.12 ($$)<br/>
-  Audio VST Plugin (Parameteric Equalizer, seperate tonal and transient)<br/>
-  [Homepage](https://www.eventideaudio.com/plug-ins/spliteq/)
-  [Download](https://www.eventideaudio.com/downloads/spliteq-installer-win-64-bit)
+- **Waves Q10** 13 ($$)<br/>
+  Audio VST Plugin (Parametric Equalizer, Zero Latency)<br/>
+  [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
+  [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
 
 - **FabFilter Pro-Q 3** 3.21 ($$$)<br/>
-  Audio VST Plugin (Parametric Equalizer)<br/>
+  Audio VST Plugin (Parametric Equalizer, Zero Latency)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
 
+- **Eventide SplitEQ** 1.0.12 ($$)<br/>
+  Audio VST Plugin (Parameteric Equalizer, seperate tonal and transient, 80ms Latency)<br/>
+  [Homepage](https://www.eventideaudio.com/plug-ins/spliteq/)
+  [Download](https://www.eventideaudio.com/downloads/spliteq-installer-win-64-bit)
+
 - **Sonible smart:EQ 3** 3 ($$$)<br/>
   Audio VST Plugin (Parametric Equalizer)<br/>
-  [Homepage](https://www.izotope.com/en/products/neutron.html)
+  [Homepage](https://www.sonible.com/smarteq3/)
   [Download](https://www.sonible.com/smarteq3/)
 
 - **Voxengo Marvel GEQ** 1.11 (0)<br/>
