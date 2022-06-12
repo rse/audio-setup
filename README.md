@@ -154,7 +154,7 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: All-In-One
 
 - **Speachy** 1.0 ($$) [RECOMMENDED]<br/>
-  All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, Noise Suppressor, Equalizer, Limiter)<br/>
+  All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, Noise Suppressor, Equalizer, Limiter) (latency: 0)<br/>
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
@@ -164,12 +164,12 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.waproduction.com/plugins/view/voxessor)
 
 - **Waves eMo D5 Dynamics** 13.0 ($$)<br/>
-  All-In-One VST Plugin (De-Esser, Compressor, Gate, Limiter)<br/>
+  All-In-One VST Plugin (De-Esser, Compressor, Gate, Limiter) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
   [Download](https://www.waves.com/plugins/emo-d5-dynamics)
 
 - **Waves Scheps Omni Channel** 13.0 ($$)<br/>
-  All-In-One VST Plugin (Compressor, Equalizer, Gate)<br/>
+  All-In-One VST Plugin (Compressor, Equalizer, Gate) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
   [Download](https://www.waves.com/plugins/scheps-omni-channel)
 
@@ -338,7 +338,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
 
 - **TDR Kotelnikov** 1.6.4 (0)<br/>
-  Audio VST Plugin (Wideband Dynamic Processor / Compressor)<br/>
+  Audio VST Plugin (Wideband Dynamic Processor / Compressor) (latency: 184smp/3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-kotelnikov/)
   [Download](https://www.tokyodawn.net/labs/Kotelnikov/1.6.4/TDR%20Kotelnikov%20(installer).zip?x24775)
 
