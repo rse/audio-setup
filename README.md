@@ -376,6 +376,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://slatedigital.com/fresh-air/)
   [Download](https://slatedigital.com/fresh-air/)
 
+- **Waves LoAir** 13.0 (0)<br/>
+  Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
+  [Homepage](https://slatedigital.com/fresh-air/)
+  [Download](https://slatedigital.com/fresh-air/)
+
 ### VST Plugin: Volume Limiting
 
 - **TDR Limiter GE 6** 1.2.4 ($$) [RECOMMENDED]<br/>
