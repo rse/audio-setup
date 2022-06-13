@@ -134,7 +134,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **MFreeFXBundle** 15.02 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 15.02 (0/$$)<br/>
   Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
@@ -158,25 +158,25 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
-- **Voxessor** 0 ($$)<br/>
-  All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, etc)<br/>
-  [Homepage](https://www.waproduction.com/plugins/view/voxessor)
-  [Download](https://www.waproduction.com/plugins/view/voxessor)
-
-- **Waves eMo D5 Dynamics** 13.0 ($$)<br/>
-  All-In-One VST Plugin (De-Esser, Compressor, Gate, Limiter) (latency: 0)<br/>
+- **Waves eMo D5 Dynamics** 13.0 ($$) [RECOMMENDED]<br/>
+  All-In-One VST Plugin (Gate/Expander, De-Esser, Compressor, Leveler, Limiter) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
   [Download](https://www.waves.com/plugins/emo-d5-dynamics)
 
 - **Waves Scheps Omni Channel** 13.0 ($$)<br/>
-  All-In-One VST Plugin (Compressor, Equalizer, Gate) (latency: 0)<br/>
+  All-In-One VST Plugin (Compressor, HPF/LPF, De-Esser, Equalizer, Gate) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
   [Download](https://www.waves.com/plugins/scheps-omni-channel)
 
 - **Fuse Audio Labs VCS-1** 1.0.1 ($$)<br/>
-  All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate)<br/>
+  All-In-One VST Plugin (HPF/LPF, Compressor, Expander, Equalizer, Gate)<br/>
   [Homepage](https://fuseaudiolabs.de/#/pages/product?id=301012112)
   [Download](https://fuseaudiolabs.de/vendor/fuseaudiolabs/php/account.php?op=downloadfile&name=fuse_audio_labs_vcs1_win_1_0_1.zip)
+
+- **Voxessor** 0 ($$$)<br/>
+  All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, etc)<br/>
+  [Homepage](https://www.waproduction.com/plugins/view/voxessor)
+  [Download](https://www.waproduction.com/plugins/view/voxessor)
 
 - **iZotope Neutron 4** 4 ($$$)<br/>
   All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate, etc)<br/>
@@ -484,6 +484,11 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.tbproaudio.de/assets/content/download/ST1V2_Installer_WIN_2011.zip)
 
 ### VST Plugin: Playing/Recording
+
+- **Melda Production MRecorder** 15.02 (0/$$)<br/>
+  Audio VST Plugin (WAV-Recorder)<br/>
+  [Homepage](https://www.meldaproduction.com/MRecorder)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
 
 - **Voxengo Recorder** 2.20 (0)<br/>
   Audio VST Plugin (WAV-Recorder)<br/>
