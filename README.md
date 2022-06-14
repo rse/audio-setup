@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.0.6 (2022-06-11)
+Version 1.0.7 (2022-06-14)
 
 Personal Audio Chain
 --------------------
@@ -50,6 +50,8 @@ For the fine-tuning of the audio-chain, the following additional products are al
   Rationale: simply the best loudness meter at all
 - **Voxengo SPAN Plus** for optional [spectrum visualization](audio-chain/screenshot-18-spectrum.png)<br/>
   Rationale: simply the best spectrum visualizer at all
+- **iZotope Insight 2** for optional spectrogram
+  Rationale: show a useful spectrogram for noise suppression comparison
 
 Products for Audio Chains
 -------------------------
@@ -139,7 +141,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
 
-- **Blue Cat Freeware Plug-Ins Pack II** 2022-01 (0) [RECOMMENDED]<br/>
+- **BlueCat Freeware Plug-Ins Pack II** 2022-01 (0) [RECOMMENDED]<br/>
   Audio VST Plugin-Suite (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Bundle_FreewarePack/)
   [Download](https://www.bluecataudio.com/Vault/Products/Bundle_FreewarePack/BlueCatFreewarePackVST3-x64Setup.exe)
@@ -475,6 +477,16 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.voxengo.com/product/span/)
   [Download](https://www.voxengo.com/files/VoxengoSPAN_314_Win32_64_VST_VST3_AAX_setup.exe)
+
+- **BlueCat FreqAnalysis Pro** ($$)<br/>
+  Audio VST Plugin (Spectrum Visualizer)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalystPro/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalystPro/BlueCatFreqAnalystProVST3Demo-x64Setup.exe)
+
+- **iZotope Insight 2** ($$$)<br/>
+  Audio VST Plugin (Spectrum Visualizer)<br/>
+  [Homepage](https://www.izotope.com/en/products/insight.html)
+  [Download](https://www.izotope.com/en/products/insight.html)
 
 ### VST Plugin: Channel Panning
 
