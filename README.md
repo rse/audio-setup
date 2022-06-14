@@ -224,8 +224,8 @@ of setting up various audio chains at home and in the software industry.
 
 - **SPL De-Verb Plus** ($$)<br/>
   All-In-One VST Plugin (Room Reverberation Removal)<br/>
-  [Homepage](https://www.plugin-alliance.com/en/products/spl_de-verb_plus.html)
-  [Download](https://www.plugin-alliance.com/en/products/spl_de-verb_plus.html)
+  [Homepage](https://spl.audio/en/spl-produkt/de-verb-plus-plugin/)
+  [Download](https://spl.audio/en/spl-produkt/de-verb-plus-plugin/)
 
 ### VST Plugin: Noise Suppression (for any non-voice sounds)
 
