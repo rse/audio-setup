@@ -311,17 +311,22 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova%20(installer).zip?x24775)
 
 - **TDR SlickEQ GE** 1.3.7 ($$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Parametric Equalizer)<br/>
+  Audio VST Plugin (Parametric Equalizer) (latency: 183smp/4ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-vos-slickeq-ge/)
   [Download](https://www.tokyodawn.net/labs/SlickEQGE/1.3.7/TDR%20VOS%20SlickEQ%20GE%20Demo%20(installer).zip?x24775)
 
 - **TDR SlickEQ** 1.3.7 (0)<br/>
-  Audio VST Plugin (Parameteric Equalizer)<br/>
+  Audio VST Plugin (Parameteric Equalizer) (latency: 183smp/4ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-vos-slickeq/)
   [Download](https://www.tokyodawn.net/labs/SlickEQ/1.3.7/TDR%20VOS%20SlickEQ%20(installer).zip?x24775)
 
+- **Reaper ReaPlugs ReaEQ** 2.36 (0)<br/>
+  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.reaper.fm/reaplugs/)
+  [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
+
 - **FabFilter Pro-Q 3** 3.21 ($$$)<br/>
-  Audio VST Plugin (Parametric Equalizer, Zero Latency)<br/>
+  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
 
@@ -370,7 +375,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.tokyodawn.net/labs/Kotelnikov/1.6.4/TDR%20Kotelnikov%20(installer).zip?x24775)
 
 - **TDR Kotelnikov GE** 1.6.4 (0)<br/>
-  Audio VST Plugin (Wideband Dynamic Processor / Compressor)<br/>
+  Audio VST Plugin (Wideband Dynamic Processor / Compressor) (latency: 184smp/3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-kotelnikov-ge/)
   [Download](https://www.tokyodawn.net/labs/KotelnikovGE/1.6.4/TDR%20Kotelnikov%20GE%20Demo%20(installer).zip?x24775)
 
@@ -378,6 +383,11 @@ of setting up various audio chains at home and in the software industry.
   Compressor<br/>
   [Homepage](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproc215x64.exe)
+
+- **Reaper ReaPlugs ReaComp** 2.36 (0)<br/>
+  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.reaper.fm/reaplugs/)
+  [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
 ### VST Plugin: Expansion/Gating
 
@@ -395,6 +405,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Sidechain Noise-Gate)<br/>
   [Homepage](https://plugins4free.com/plugin/2213/)
   [Download](https://plugins4free.com/get_plug/BPAGate_x64.zip)
+
+- **Reaper ReaPlugs ReaGate** 2.36 (0)<br/>
+  Noise Gate (latency: 0)<br/>
+  [Homepage](https://www.reaper.fm/reaplugs/)
+  [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
 ### VST Plugin: Saturation
 
