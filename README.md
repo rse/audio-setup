@@ -256,6 +256,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
+- **Bertom Denoiser** 2.0.2 (0/$)<br/>
+  Noise Suppressor (latency: 0)<br/>
+  [Homepage](https://bertom.gumroad.com/l/denoiser)
+  [Download](https://bertom.gumroad.com/l/denoiser)
+
+- **Reaper ReaPlugs ReaFIR** 2.36 (0)<br/>
+  Noise Suppressor (latency: 512smp/10ms)<br/>
+  [Homepage](https://www.reaper.fm/reaplugs/)
+  [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
+
 ### VST Plugin: De-Esser
 
 - **Waves Sibilance** 13.0 ($$) [RECOMMENDED]<br/>
