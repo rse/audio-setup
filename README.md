@@ -89,6 +89,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
 
+- **Waves StudioRack** 13.0 (0)<br/>
+  Multi-Band VST Host (acts as a VST plugin itself, just for Waves plugins)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
+
 - **BlueCat MB-7 Mixer** 3.42 ($$)<br/>
   Multi-Band VST Host (acts as a VST plugin itself)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
@@ -216,6 +221,11 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (Room Reverberation Removal) (latency: 9727smp/203ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
+
+- **SPL De-Verb Plus** ($$)<br/>
+  All-In-One VST Plugin (Room Reverberation Removal)<br/>
+  [Homepage](https://www.plugin-alliance.com/en/products/spl_de-verb_plus.html)
+  [Download](https://www.plugin-alliance.com/en/products/spl_de-verb_plus.html)
 
 ### VST Plugin: Noise Suppression (for any non-voice sounds)
 
