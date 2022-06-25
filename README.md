@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.0.7 (2022-06-14)
+Version 1.0.8 (2022-06-26)
 
 Personal Audio Chain
 --------------------
@@ -72,17 +72,17 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **Virtual Audio Cable (VAC)** 4.66 ($$) [RECOMMENDED]<br/>
+- **Virtual Audio Cable (VAC)** 4.67 ($$) [RECOMMENDED]<br/>
   Virtual Audio Cable<br/>
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac466.exe)
 
 ### VST Host
 
-- **Cantabile** 4-4047 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4049 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4047.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4049.exe)
 
 - **BlueCat PatchWork** 2.52 ($$)<br/>
   VST Host (can act standalone or as a VST plugin itself)<br/>
@@ -99,7 +99,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
   [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
 
-- **Audified inTone 2 Solo** 2.5.9 (0)<br/>
+- **Audified inTone 2 Solo** 2.5.9 ($)<br/>
   VST Host (can act standalone)<br/>
   [Homepage](https://shop.audified.com/products/intone-2-solo-1)
   [Download](https://shop.audified.com/products/intone-2-solo-1)
