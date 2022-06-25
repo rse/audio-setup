@@ -91,8 +91,8 @@ of setting up various audio chains at home and in the software industry.
 
 - **Waves StudioRack** 13.0 (0)<br/>
   Multi-Band VST Host (acts as a VST plugin itself, just for Waves plugins)<br/>
-  [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
-  [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
+  [Homepage](https://www.waves.com/plugins/studiorack)
+  [Download](https://www.waves.com/plugins/studiorack)
 
 - **BlueCat MB-7 Mixer** 3.42 ($$)<br/>
   Multi-Band VST Host (acts as a VST plugin itself)<br/>
