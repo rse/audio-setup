@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.0.8 (2022-06-26)
+Version 1.0.9 (2022-06-30)
 
 Personal Audio Chain
 --------------------
@@ -444,6 +444,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (predecessor to TDR Limiter?)<br/>
   [Homepage](https://www.tokyodawn.net/vladg-limiter-n6/)
   [Download](https://www.tokyodawn.net/labs/vladgsound/Limiter6-v102b.zip?x24775)
+
+- **LoudMax** 1.41 (0)<br/>
+  Audio VST Plugin (Limiter)<br/>
+  [Homepage](https://loudmax.blogspot.com/)
+  [Download](https://loudmax.blogspot.com/)
 
 ### VST Plugin: Volume Leveling
 
