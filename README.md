@@ -79,10 +79,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host
 
-- **Cantabile** 4-4049 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4050 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4049.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4050.exe)
 
 - **BlueCat PatchWork** 2.52 ($$)<br/>
   VST Host (can act standalone or as a VST plugin itself)<br/>
@@ -119,10 +119,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bandlab.com/products/cakewalk)
   [Download](https://downloads.bandlab.com/cakewalk/setup/CakewalkSetup.exe)
 
-- **Cockos Reaper** 6.59 ($$)<br/>
+- **Cockos Reaper** 6.61 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
-  [Download](https://www.reaper.fm/files/6.x/reaper659_x64-install.exe)
+  [Download](https://www.reaper.fm/files/6.x/reaper661_x64-install.exe)
 
 - **OcenAudio** 3.11.12 (0)<br/>
   Audio Editor (with VST support)<br/>
@@ -374,7 +374,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Compression
 
-- **BlueCat Dynamics** ($$) [RECOMMENDED]<br/>
+- **BlueCat Dynamics** 4.4 ($$) [RECOMMENDED]<br/>
   Compressor/Expander (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
@@ -401,7 +401,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Expansion/Gating
 
-- **BlueCat Dynamics** ($$) [RECOMMENDED]<br/>
+- **BlueCat Dynamics** 4.4 ($$) [RECOMMENDED]<br/>
   Compressor/Expander (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
@@ -554,7 +554,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Sender/Receiver
 
-- **BlueCat Connector** ($$)<br/>
+- **BlueCat Connector** 1.1 ($$)<br/>
   Sender/Receiver<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
