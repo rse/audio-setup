@@ -7,8 +7,8 @@ Version 1.1.0 (2022-07-05)
 Personal Audio Chain
 --------------------
 
-The opinionated audio chain currently used by [Dr. Ralf S. Engelschall](https://engelschall.com) in
-his various video streaming setups is based on a [logical audio processing graph](audio-chain.pdf)
+The opinionated real-time audio chain currently used by [Dr. Ralf S. Engelschall](https://engelschall.com) in
+his various real-time video streaming setups is based on a [logical audio processing graph](audio-chain.pdf)
 (which you can also see again physically in the [Cantabile](audio-chain/screenshot-02-hosting.png) component)
 which sits between two speaker output channels and a microphone input channel.
 
