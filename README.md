@@ -23,32 +23,34 @@ The audio chain in particular is based on the following products:
   Rationale: simply one of the best and most flexible dynamics processors
 - **Acon Digital DeVerberate** for [room reverb removal](audio-chain/screenshot-07-de-reverb.png)<br/>
   Rationale: cheaper than DeRoom and as good in quality (also needed because of a condenser mic and 50-100cm distance where a dynamic mic cannot be used)
-- **Audionamix Instant Dialogue Cleaner (IDC)** for [noise suppression](audio-chain/screenshot-08-de-noiser.png)<br/>
-  Rationale: cheaper than Clarity Vx Pro and better in quality perception
-- **Waves Sibilance** for [de-esser](audio-chain/screenshot-09-de-esser.png)<br/>
+- **Waves WNS** for [noise suppression (phase 1)](audio-chain/screenshot-08-de-noiser-1.png)<br/>
+  Rationale: zero latency, no noticable voice distortions, works good as a pre-suppressor
+- **Waves NS1** for [noise suppression (phase 2)](audio-chain/screenshot-09-de-noiser-2.png)<br/>
+  Rationale: zero latency, no noticable voice distortions, works good on a post-suppressor
+- **BlueCat Dynamics** for [expansion](audio-chain/screenshot-10-expander.png)<br/>
+  Rationale: simply one of the best and most flexible dynamics processors
+- **Waves Sibilance** for [de-essing](audio-chain/screenshot-11-de-esser.png)<br/>
   Rationale: very good quality
-- **TDR Nova GE** for [cutting equalization](audio-chain/screenshot-10-cut-eq.png)<br/>
-  Rationale: just a flexible parametric equalizer
-- **BlueCat Dynamics** for [expansion](audio-chain/screenshot-11-expander.png)<br/>
-  Rationale: simply one of the best and most flexible dynamics processors
-- **BlueCat Dynamics** for [compression](audio-chain/screenshot-12-compressor.png)<br/>
-  Rationale: simply one of the best and most flexible dynamics processors
-- **TDR Nova GE** for [boosting equalization](audio-chain/screenshot-13-boost-eq.png)<br/>
-  Rationale: just a flexible parametric equalizer
+- **Waves F6** for [equalization](audio-chain/screenshot-12-equalizer.png)<br/>
+  Rationale: zero latency and flexible enough
+- **Slate Digital Fresh Air** for [exciter](audio-chain/screenshot-13-exciter.png)<br/>
+  Rationale: zero latency and good results
 - **Acon Digital Reverb** for optional [voice reverb addition](audio-chain/screenshot-14-reverb.png)<br/>
   Rationale: just a possible reverb generator
-- **TDR Limiter GE** for [volume limiting](audio-chain/screenshot-15-limiter.png)<br/>
+- **BlueCat Dynamics** for [compression](audio-chain/screenshot-15-compressor.png)<br/>
+  Rationale: simply one of the best and most flexible dynamics processors
+- **TDR Limiter GE** for [volume limiting](audio-chain/screenshot-16-limiter.png)<br/>
   Rationale: a very flexible limiter
 
 For the fine-tuning of the audio-chain, the following additional products are also used:
 
-- **Melda Production MRecorder** for optional [track recording](audio-chain/screenshot-16-recorder.png)<br/>
+- **Melda Production MRecorder** for optional [track recording](audio-chain/screenshot-17-recorder.png)<br/>
   Rationale: a sufficient recorder
 - **Cantabile Built-In Player** for optional track playing<br/>
   Rationale: a sufficient player
-- **YouLean Loudness Meter** for optional [loudness metering](audio-chain/screenshot-17-loudness.png)<br/>
+- **YouLean Loudness Meter** for optional [loudness metering](audio-chain/screenshot-18-loudness.png)<br/>
   Rationale: simply the best loudness meter at all
-- **Voxengo SPAN Plus** for optional [spectrum visualization](audio-chain/screenshot-18-spectrum.png)<br/>
+- **Voxengo SPAN Plus** for optional [spectrum visualization](audio-chain/screenshot-19-spectrum.png)<br/>
   Rationale: simply the best spectrum visualizer at all
 - **iZotope Insight 2** for optional spectrogram
   Rationale: show a useful spectrogram for noise suppression comparison
