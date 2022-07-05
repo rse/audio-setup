@@ -94,37 +94,22 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac466.exe)
 
-### VST Host
+### VST Host (Standalone)
 
 - **Cantabile** 4-4050 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4050.exe)
 
-- **BlueCat PatchWork** 2.52 ($$)<br/>
-  VST Host (can act standalone or as a VST plugin itself)<br/>
-  [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
-  [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
-
-- **Waves StudioRack** 13.0 (0)<br/>
-  Multi-Band VST Host (acts as a VST plugin itself, just for Waves plugins)<br/>
-  [Homepage](https://www.waves.com/plugins/studiorack)
-  [Download](https://www.waves.com/plugins/studiorack)
-
-- **BlueCat MB-7 Mixer** 3.42 ($$)<br/>
-  Multi-Band VST Host (acts as a VST plugin itself)<br/>
-  [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
-  [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
+- **Audified inTone 2** 2.5.9 ($$)<br/>
+  VST Host (can act standalone)<br/>
+  [Homepage](https://shop.audified.com/products/intone-2)
+  [Download](https://shop.audified.com/products/intone-2)
 
 - **Audified inTone 2 Solo** 2.5.9 ($)<br/>
   VST Host (can act standalone)<br/>
   [Homepage](https://shop.audified.com/products/intone-2-solo-1)
   [Download](https://shop.audified.com/products/intone-2-solo-1)
-
-- **Audified inTone 2** 2.5.9 ($$)<br/>
-  VST Host (can act standalone)<br/>
-  [Homepage](https://shop.audified.com/products/intone-2)
-  [Download](https://shop.audified.com/products/intone-2)
 
 - **LightHost** 1.2.1 (0)<br/>
   Simple VST Host (acts standalone)<br/>
@@ -150,6 +135,25 @@ of setting up various audio chains at home and in the software industry.
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
+
+### VST Host (Standalone or Plugin)
+
+- **BlueCat PatchWork** 2.52 ($$) [RECOMMENDED]<br/>
+  VST Host (can act standalone or as a VST plugin itself, even as a VST2 to VST3 converter)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
+
+- **Waves StudioRack** 13.0 (0)<br/>
+  Multi-Band VST Host (acts as a VST plugin itself, just for Waves plugins)<br/>
+  [Homepage](https://www.waves.com/plugins/studiorack)
+  [Download](https://www.waves.com/plugins/studiorack)
+
+### VST Host (Plugin Only)
+
+- **BlueCat MB-7 Mixer** 3.42 ($$)<br/>
+  Multi-Band VST Host (acts as a VST plugin itself)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
+  [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
 
 ### VST Plugin: Suites/Bundles
 
