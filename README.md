@@ -209,7 +209,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.waproduction.com/plugins/view/voxessor)
 
 - **iZotope Neutron 4** 4 ($$$)<br/>
-  All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate, etc)<br/>
+  All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate, etc) (latency: 384-1024smp/7-21ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
 
@@ -268,7 +268,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.waves.com/plugins/clarity-vx)
 
 - **Accentize VoiceGate** 2.0.8 ($$$) [RECOMMENDED]<br/>
-  Voice Cleaner, separates voice via AI/ML (latency: 5120/106ms)<br/>
+  Voice Cleaner, separates voice via AI/ML (latency: 5120smp/106ms)<br/>
   [Homepage](https://www.accentize.com/voicegate/)
   [Download](https://www.accentize.com/voicegate/)
 
@@ -307,7 +307,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.waves.com/plugins/sibilance)
 
 - **FabFilter Pro-DS** 1.19 ($$)<br/>
-  De-Esser<br/>
+  Audio VST Plugin (De-Esser)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-ds-de-esser-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffprods119x64.exe)
 
@@ -369,7 +369,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
 
 - **Eventide SplitEQ** 1.0.12 ($$)<br/>
-  Audio VST Plugin (Parameteric Equalizer, seperate tonal and transient, 80ms Latency)<br/>
+  Audio VST Plugin (Parameteric Equalizer, seperate tonal and transient) (latency: 80ms)<br/>
   [Homepage](https://www.eventideaudio.com/plug-ins/spliteq/)
   [Download](https://www.eventideaudio.com/downloads/spliteq-installer-win-64-bit)
 
@@ -394,6 +394,11 @@ of setting up various audio chains at home and in the software industry.
   Dynamic 2000-Band Sidechain-Based Compressor (latency: 2048smp/42ms)<br/>
   [Homepage](https://www.sonible.com/smartcomp/)
   [Download](https://www.sonible.com/smartcomp/)
+
+- **iZotope Neutron 4 Unmask** 4 ($$$)<br/>
+  All-In-One VST Plugin (Ducking) (latency: 1024smp/21ms)<br/>
+  [Homepage](https://www.izotope.com/en/products/neutron.html)
+  [Download](https://www.izotope.com/en/products/neutron.html)
 
 - **Audified SpeakUp** 1.0.1 ($)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
@@ -474,16 +479,28 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.tokyodawn.net/labs/vladgsound/Limiter6-v102b.zip?x24775)
 
 - **LoudMax** 1.41 (0)<br/>
-  Audio VST Plugin (Limiter)<br/>
+  Audio VST Plugin (Limiter) (latency: 60smp/1.25ms)<br/>
   [Homepage](https://loudmax.blogspot.com/)
   [Download](https://loudmax.blogspot.com/)
+
+### VST Plugin: Channel Panning
+
+- **TBProAudio ST1** 2.0.11 ($)<br/>
+  Audio VST Plugin (Volume Meter) (latency: 0)<br/>
+  [Homepage](https://www.tbproaudio.de/products/st1)
+  [Download](https://www.tbproaudio.de/assets/content/download/ST1V2_Installer_WIN_2011.zip)
 
 ### VST Plugin: Volume Leveling
 
 - **Waves Vocal Rider** 2022-05 ($$)<br/>
-  Audio VST Plugin (Volume Leveler)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/vocal-rider)
   [Download](https://www.waves.com/plugins/vocal-rider)
+
+- **Waves Playlist Rider** 2022-05 ($$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/playlist-rider)
+  [Download](https://www.waves.com/plugins/playlist-rider)
 
 - **DynaRide 2** 2 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
@@ -492,8 +509,8 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Microphone Auto-Mixing
 
-- **WTAutomixer** V2 ($$$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
+- **WTAutomixer V2** 2.01 ($$$) [RECOMMENDED]<br/>
+  Audio VST Plugin (Microphone Volume Balancer) (latency: 128smp/2.66ms)<br/>
   [Homepage](https://www.wtautomixer.com/)
   [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
 
@@ -506,11 +523,6 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.tbproaudio.de/products/amm)
   [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
-
-- **Waves Playlist Rider** 2022-05 ($$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
-  [Homepage](https://www.waves.com/plugins/playlist-rider)
-  [Download](https://www.waves.com/plugins/playlist-rider)
 
 ### VST Plugin: Volume Metering
 
@@ -555,13 +567,6 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.izotope.com/en/products/insight.html)
   [Download](https://www.izotope.com/en/products/insight.html)
-
-### VST Plugin: Channel Panning
-
-- **TBProAudio ST1** 2.0.11 ($)<br/>
-  Audio VST Plugin (Volume Meter)<br/>
-  [Homepage](https://www.tbproaudio.de/products/st1)
-  [Download](https://www.tbproaudio.de/assets/content/download/ST1V2_Installer_WIN_2011.zip)
 
 ### VST Plugin: Playing/Recording
 
