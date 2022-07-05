@@ -94,7 +94,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac466.exe)
 
-### VST Host (Standalone)
+### VST Host (Standalone, Real-Time)
 
 - **Cantabile** 4-4050 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO inserts)<br/>
@@ -115,6 +115,8 @@ of setting up various audio chains at home and in the software industry.
   Simple VST Host (acts standalone)<br/>
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
+
+### VST Host (Standalone, DAW)
 
 - **BandLab Cakewalk** 2022.02.1 (0)<br/>
   Digital Audio Workstation (with VST support)<br/>
