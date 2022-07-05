@@ -116,6 +116,18 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
+### VST Host (Standalone or Plugin)
+
+- **BlueCat PatchWork** 2.52 ($$) [RECOMMENDED]<br/>
+  VST Host (can act standalone or as a VST plugin itself, even as a VST2 to VST3 converter)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
+
+- **Waves StudioRack** 13.0 (0)<br/>
+  Multi-Band VST Host (acts as a VST plugin itself, just for Waves plugins)<br/>
+  [Homepage](https://www.waves.com/plugins/studiorack)
+  [Download](https://www.waves.com/plugins/studiorack)
+
 ### VST Host (Standalone, DAW)
 
 - **BandLab Cakewalk** 2022.02.1 (0)<br/>
@@ -137,18 +149,6 @@ of setting up various audio chains at home and in the software industry.
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
-
-### VST Host (Standalone or Plugin)
-
-- **BlueCat PatchWork** 2.52 ($$) [RECOMMENDED]<br/>
-  VST Host (can act standalone or as a VST plugin itself, even as a VST2 to VST3 converter)<br/>
-  [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
-  [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
-
-- **Waves StudioRack** 13.0 (0)<br/>
-  Multi-Band VST Host (acts as a VST plugin itself, just for Waves plugins)<br/>
-  [Homepage](https://www.waves.com/plugins/studiorack)
-  [Download](https://www.waves.com/plugins/studiorack)
 
 ### VST Host (Plugin Only)
 
