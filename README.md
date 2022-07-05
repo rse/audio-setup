@@ -380,10 +380,15 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugins: Ducking
 
-- **Wavesfactory Trackspacer** 2.5.9 ($$)<br/>
+- **Wavesfactory Trackspacer** 2.5.9 ($$) [RECOMMENDED]<br/>
   Dynamic 32-Band Sidechain-Based Inverse-Equalizer (for ducking)<br/>
   [Homepage](https://www.wavesfactory.com/audio-plugins/trackspacer/)
   [Download](https://trackspacer-wavesfactory.s3.amazonaws.com/Trackspacer%202.5.9.exe)
+
+- **Sonible smart:comp** 0.0.0 ($$) [RECOMMENDED]<br/>
+  Dynamic 2000-Band Sidechain-Based Compressor (for ducking)<br/>
+  [Homepage](https://www.sonible.com/smartcomp/)
+  [Download](https://www.sonible.com/smartcomp/)
 
 - **Audified SpeakUp** 1.0.0 ($)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
