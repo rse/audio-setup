@@ -53,7 +53,7 @@ For the primary audio processing chain, the following products are used:
 - **BlueCat Dynamics** for [compression](audio-chain/screenshot-15-compressor.png)<br/>
   Rationale: simply one of the best and most flexible dynamics processors
 - **TDR Limiter GE** for [volume limiting](audio-chain/screenshot-16-limiter.png)<br/>
-  Rationale: a very flexible and powerful limiter, not zero but very low latency
+  Rationale: a very flexible and powerful limiter, near zero latency
 
 ### Monitoring
 
