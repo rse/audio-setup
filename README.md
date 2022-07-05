@@ -52,7 +52,7 @@ For the fine-tuning of the audio-chain, the following additional products are al
   Rationale: simply the best loudness meter at all
 - **Voxengo SPAN Plus** for optional [spectrum visualization](audio-chain/screenshot-19-spectrum.png)<br/>
   Rationale: simply the best spectrum visualizer at all
-- **iZotope Insight 2** for optional spectrogram
+- **iZotope Insight 2** for optional [spectrogram visualization](audio-chain/screenshot-20-spectogram.png)<br/>
   Rationale: show a useful spectrogram for noise suppression comparison
 
 Products for Audio Chains
