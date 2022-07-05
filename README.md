@@ -123,10 +123,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bandlab.com/products/cakewalk)
   [Download](https://downloads.bandlab.com/cakewalk/setup/CakewalkSetup.exe)
 
-- **Cockos Reaper** 6.61 ($$)<br/>
+- **Cockos Reaper** 6.63 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
-  [Download](https://www.reaper.fm/files/6.x/reaper661_x64-install.exe)
+  [Download](https://www.reaper.fm/files/6.x/reaper663_x64-install.exe)
 
 - **OcenAudio** 3.11.12 (0)<br/>
   Audio Editor (with VST support)<br/>
@@ -381,24 +381,19 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugins: Ducking
 
 - **Wavesfactory Trackspacer** 2.5.9 ($$) [RECOMMENDED]<br/>
-  Dynamic 32-Band Sidechain-Based Inverse-Equalizer (for ducking)<br/>
+  Dynamic 32-Band Sidechain-Based Inverse-Equalizer (latency: 0)<br/>
   [Homepage](https://www.wavesfactory.com/audio-plugins/trackspacer/)
   [Download](https://trackspacer-wavesfactory.s3.amazonaws.com/Trackspacer%202.5.9.exe)
 
-- **Sonible smart:comp** 0.0.0 ($$) [RECOMMENDED]<br/>
-  Dynamic 2000-Band Sidechain-Based Compressor (for ducking)<br/>
+- **Sonible smart:comp** 1.2.0 ($$)<br/>
+  Dynamic 2000-Band Sidechain-Based Compressor (latency: 2048smp/42ms)<br/>
   [Homepage](https://www.sonible.com/smartcomp/)
   [Download](https://www.sonible.com/smartcomp/)
 
-- **Audified SpeakUp** 1.0.0 ($)<br/>
+- **Audified SpeakUp** 1.0.1 ($)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
   [Homepage](https://shop.audified.com/products/speakup)
   [Download](https://shop.audified.com/products/speakup)
-
-- **Auto-Duck** 3.0.0-RC4.1 ($)<br/>
-  Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
-  [Homepage](https://auto-duck.com/)
-  [Download](https://auto-duck.com/download-last)
 
 ### VST Plugin: Compression
 
@@ -613,4 +608,9 @@ of setting up various audio chains at home and in the software industry.
   Virtual MIDI Port<br/>
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
+
+- **Auto-Duck** 3.0.0-RC4.1 ($)<br/>
+  Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
+  [Homepage](https://auto-duck.com/)
+  [Download](https://auto-duck.com/download-last)
 
