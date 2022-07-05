@@ -11,16 +11,29 @@ The opinionated audio chain currently used by [Dr. Ralf S. Engelschall](https://
 his various video streaming setups is based on a [logical audio processing graph](audio-chain.pdf)
 (which you can also see again physically in the [Cantabile](audio-chain/screenshot-02-hosting.png) component)
 which sits between two speaker output channels and a microphone input channel.
-The audio chain in particular is based on the following products:
+
+### Hosting
+
+For hosting the audio chain, the following particular products are used:
 
 - **VoiceMeeter Potato** for the [audio track routing](audio-chain/screenshot-01-routing.png)<br/>
   Rationale: simply the most flexible and hardware-independent router/mixer for Windows
 - **Cantabile** for the [VST plugin hosting](audio-chain/screenshot-02-hosting.png)<br/>
   Rationale: provides the best ASIO-integrated VST host for use with VoiceMeeter Potato
+
+### Ducking
+
+For microphone ducking and voice-over, the following pre-processing products are used:
+
 - **BlueCat Dynamics** for voice-over on output [channel 1](audio-chain/screenshot-03-voiceover1.png) and [channel 2](audio-chain/screenshot-04-voiceover2.png)<br/>
   Rationale: simply one of the best and most flexible dynamics processors
 - **BlueCat Dynamics** for [side-chain pre-processing](audio-chain/screenshot-05-ducking-pre.png) and [microphone ducking](audio-chain/screenshot-06-ducking.png)<br/>
   Rationale: simply one of the best and most flexible dynamics processors
+
+### Processing
+
+For the primary audio processing chain, the following products are used:
+
 - **Acon Digital DeVerberate** for [room reverb removal](audio-chain/screenshot-07-de-reverb.png)<br/>
   Rationale: zero latency, cheaper and as good in quality as DeRoom
 - **Waves WNS** for [noise suppression (phase 1)](audio-chain/screenshot-08-de-noiser-1.png)<br/>
@@ -42,7 +55,9 @@ The audio chain in particular is based on the following products:
 - **TDR Limiter GE** for [volume limiting](audio-chain/screenshot-16-limiter.png)<br/>
   Rationale: a very flexible and powerful limiter, not zero but very low latency
 
-For the fine-tuning of the audio-chain, the following additional products are also used:
+### Monitoring
+
+For the fine-tuning of the processing chain, the following additional products are also used:
 
 - **Melda Production MRecorder** for optional [track recording](audio-chain/screenshot-17-recorder.png)<br/>
   Rationale: a sufficient recorder
