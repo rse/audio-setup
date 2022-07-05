@@ -469,18 +469,13 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Volume Leveling
 
-- **Waves Playlist Rider** 2022-05 ($$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
-  [Homepage](https://www.waves.com/plugins/playlist-rider)
-  [Download](https://www.waves.com/plugins/playlist-rider)
-
 - **Waves Vocal Rider** 2022-05 ($$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  Audio VST Plugin (Volume Leveler)<br/>
   [Homepage](https://www.waves.com/plugins/vocal-rider)
   [Download](https://www.waves.com/plugins/vocal-rider)
 
 - **DynaRide 2** 2 ($$)<br/>
-  Audio VST Plugin (Volume Balancer) (latency: 0)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/dynaride)
   [Download](https://www.tbproaudio.de/products/dynaride)
 
@@ -500,6 +495,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.tbproaudio.de/products/amm)
   [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
+
+- **Waves Playlist Rider** 2022-05 ($$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.waves.com/plugins/playlist-rider)
+  [Download](https://www.waves.com/plugins/playlist-rider)
 
 ### VST Plugin: Volume Metering
 
