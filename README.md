@@ -145,7 +145,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
 
-- **Waves StudioRack** 13.0 (0)<br/>
+- **Waves StudioRack** 14.0 (0)<br/>
   Multi-Band VST Host (acts as a VST plugin itself, just for Waves plugins)<br/>
   [Homepage](https://www.waves.com/plugins/studiorack)
   [Download](https://www.waves.com/plugins/studiorack)
@@ -188,12 +188,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
-- **Waves eMo D5 Dynamics** 13.0 ($$) [RECOMMENDED]<br/>
+- **Waves eMo D5 Dynamics** 14.0 ($$) [RECOMMENDED]<br/>
   All-In-One VST Plugin (Gate/Expander, De-Esser, Compressor, Leveler, Limiter) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
   [Download](https://www.waves.com/plugins/emo-d5-dynamics)
 
-- **Waves Scheps Omni Channel** 13.0 ($$)<br/>
+- **Waves Scheps Omni Channel** 14.0 ($$)<br/>
   All-In-One VST Plugin (Compressor, HPF/LPF, De-Esser, Equalizer, Gate) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
   [Download](https://www.waves.com/plugins/scheps-omni-channel)
@@ -279,12 +279,12 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Noise Suppression (for wind/humm/hiss)
 
-- **Waves WNS** 13.0 ($$) [RECOMMENDED]<br/>
+- **Waves WNS** 14.0 ($$) [RECOMMENDED]<br/>
   Noise Suppressor, reduces background noise, 6-band attenuation control (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
-- **Waves NS1** 13.0 ($$) [RECOMMENDED]<br/>
+- **Waves NS1** 14.0 ($$) [RECOMMENDED]<br/>
   Noise Suppressor, reduces background noise, single-knob control (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
@@ -301,7 +301,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: De-Esser
 
-- **Waves Sibilance** 13.0 ($$) [RECOMMENDED]<br/>
+- **Waves Sibilance** 14.0 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (De-Esser) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/sibilance)
   [Download](https://www.waves.com/plugins/sibilance)
@@ -461,7 +461,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://slatedigital.com/fresh-air/)
   [Download](https://slatedigital.com/fresh-air/)
 
-- **Waves LoAir** 13.0 ($)<br/>
+- **Waves LoAir** 14.0 ($)<br/>
   Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/loair)
   [Download](https://www.waves.com/plugins/loair)
@@ -524,6 +524,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tbproaudio.de/products/amm)
   [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
 
+- **Waves Dugan Speech** 14 ($$$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.waves.com/plugins/dugan-speech)
+  [Download](https://www.waves.com/plugins/dugan-speech)
+
 ### VST Plugin: Volume Metering
 
 - **Youlean Loudness Meter** 2.4.3 ($$) [RECOMMENDED]<br/>
@@ -541,7 +546,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tbproaudio.de/products/dpmeter)
   [Download](https://www.tbproaudio.de/assets/content/download/dpMeter5nogpu_Installer_WIN_522.zip)
 
-- **Waves Plus Loudness Meter (WLM)** 13.0 ($$)<br/>
+- **Waves Plus Loudness Meter (WLM)** 14.0 ($$)<br/>
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://www.waves.com/plugins/wlm-loudness-meter)
   [Download](https://www.waves.com/plugins/wlm-loudness-meter)
