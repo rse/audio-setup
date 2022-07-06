@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.1.0 (2022-07-05)
+Version 1.1.1 (2022-07-06)
 
 Personal Audio Chain
 --------------------
@@ -128,7 +128,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/)
   [Download](https://www.reaper.fm/files/6.x/reaper663_x64-install.exe)
 
-- **OcenAudio** 3.11.12 (0)<br/>
+- **OcenAudio** 3.11.13 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
