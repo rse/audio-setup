@@ -85,34 +85,34 @@ of setting up various audio chains at home and in the software industry.
 ### Audio Mixer/Routing
 
 - **VoiceMeeter Potato** 3.0.2.2 ($) [RECOMMENDED]<br/>
-  Audio Channel Mixer, Virtual Audio Cable<br/>
+  Audio Channel Mixer (including four built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
 - **Virtual Audio Cable (VAC)** 4.67 ($$) [RECOMMENDED]<br/>
-  Virtual Audio Cable<br/>
+  Virtual Audio Cable (arbitrary number of cable devices)<br/>
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac466.exe)
 
 ### VST Host (Standalone, Real-Time)
 
 - **Cantabile** 4-4050 (0/$$) [RECOMMENDED]<br/>
-  VST Host (can link into VoiceMeeter via ASIO inserts)<br/>
+  VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4050.exe)
 
 - **Audified inTone 2** 2.5.9 ($$)<br/>
-  VST Host (can act standalone)<br/>
+  VST Host<br/>
   [Homepage](https://shop.audified.com/products/intone-2)
   [Download](https://shop.audified.com/products/intone-2)
 
 - **Audified inTone 2 Solo** 2.5.9 ($)<br/>
-  VST Host (can act standalone)<br/>
+  VST Host (reduced funtionality)<br/>
   [Homepage](https://shop.audified.com/products/intone-2-solo-1)
   [Download](https://shop.audified.com/products/intone-2-solo-1)
 
 - **LightHost** 1.2.1 (0)<br/>
-  Simple VST Host (acts standalone)<br/>
+  VST Host (simple, older)<br/>
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
@@ -146,36 +146,36 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
 
 - **Waves StudioRack** 14.0 (0)<br/>
-  Multi-Band VST Host (acts as a VST plugin itself, just for Waves plugins)<br/>
+  Multi-Band VST Host (acts as a VST plugin itself, but just for Waves plugins)<br/>
   [Homepage](https://www.waves.com/plugins/studiorack)
   [Download](https://www.waves.com/plugins/studiorack)
 
 ### VST Host (Plugin Only)
 
 - **BlueCat MB-7 Mixer** 3.42 ($$)<br/>
-  Multi-Band VST Host (acts as a VST plugin itself)<br/>
+  7-Band VST Host (acts as a VST plugin itself)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
   [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
 
 ### VST Plugin: Suites/Bundles
 
 - **Reaper ReaPlugs** 2.36 (0)<br/>
-  Audio VST Plugin-Suite<br/>
+  Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
 - **Melda Production MFreeFXBundle** 15.02 (0/$$)<br/>
-  Audio VST Plugin-Suite<br/>
+  Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
 
 - **BlueCat Freeware Plug-Ins Pack II** 2022-01 (0) [RECOMMENDED]<br/>
-  Audio VST Plugin-Suite (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
+  Small Audio VST Plugin-Bundle (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Bundle_FreewarePack/)
   [Download](https://www.bluecataudio.com/Vault/Products/Bundle_FreewarePack/BlueCatFreewarePackVST3-x64Setup.exe)
 
 - **FET Bundle** 5.0/2.0/2.0 (0)<br/>
-  Audio VST Plugins (Compressor, Saturator, Transient Enhancer)<br/>
+  Small Audio VST Plugin-Bundle (Compressor, Saturator, Transient Enhancer)<br/>
   [Homepage](https://www.patreon.com/posts/51962024)
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FETISH_5.0.exe)
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FetDrive_2.0.exe)
@@ -231,71 +231,71 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.accentize.com/deroom/)
 
 - **Sonible proximity:EQ+** 1.0.4 ($$$)<br/>
-  All-In-One VST Plugin (Room Reverberation Removal) (latency: 4096smp/85ms)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: 4096smp/85ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
 
 - **Zynaptiq Unveil** ($$$)<br/>
-  All-In-One VST Plugin (Room Reverberation Removal) (latency: 4096smp/85ms)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: 4096smp/85ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
 
 - **iZotope RX 9 De-Reverb** ($$$)<br/>
-  All-In-One VST Plugin (Room Reverberation Removal) (latency: 9727smp/203ms)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: 9727smp/203ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
 
 - **SPL De-Verb Plus** ($$)<br/>
-  All-In-One VST Plugin (Room Reverberation Removal)<br/>
+  Audio VST Plugin (Room Reverberation Removal)<br/>
   [Homepage](https://spl.audio/en/spl-produkt/de-verb-plus-plugin/)
   [Download](https://spl.audio/en/spl-produkt/de-verb-plus-plugin/)
 
 ### VST Plugin: Noise Suppression (for any non-voice sounds)
 
 - **Audionamix Instant Dialogue Cleaner (IDC)** 2022-05 ($$) [RECOMMENDED]<br/>
-  Voice Cleaner, separates voice via AI/ML (latency: 2048smp/42ms)<br/>
+  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML) (latency: 2048smp/42ms)<br/>
   [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
   [Download](https://audionamix.com/instant-dialogue-cleaner/)
 
 - **Waves Clarity Vx Pro** 2022-05 ($$$)<br/>
-  Voice Cleaner, separates voice via AI/ML, CPU-heavy (latency: 2048smp/48ms)<br/>
+  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML, CPU-heavy) (latency: 2048smp/48ms)<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx-pro)
   [Download](https://www.waves.com/plugins/clarity-vx-pro)
 
 - **Waves Clarity Vx** 2022-05 ($$)<br/>
-  Voice Cleaner, separates voice via AI/ML, CPU-heavy (latency: 2048smp/48ms)<br/>
+  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML, CPU-heavy) (latency: 2048smp/48ms)<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx)
   [Download](https://www.waves.com/plugins/clarity-vx)
 
 - **Accentize VoiceGate** 2.0.8 ($$$) [RECOMMENDED]<br/>
-  Voice Cleaner, separates voice via AI/ML (latency: 5120smp/106ms)<br/>
+  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML) (latency: 5120smp/106ms)<br/>
   [Homepage](https://www.accentize.com/voicegate/)
   [Download](https://www.accentize.com/voicegate/)
 
 - **Acon Digital Extract Dialog** 1.1.6 ($$)<br/>
-  Voice Cleaner, separates voice via AI/ML (latency: 6144smp/128ms)<br/>
+  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML) (latency: 6144smp/128ms)<br/>
   [Homepage](https://acondigital.de/produkte/extract-dialogue/)
   [Download](https://acondigital.de/produkte/extract-dialogue/)
 
 ### VST Plugin: Noise Suppression (for wind/humm/hiss)
 
 - **Waves WNS** 14.0 ($$) [RECOMMENDED]<br/>
-  Noise Suppressor, reduces background noise, 6-band attenuation control (latency: 0)<br/>
+  Audio VST Plugin (Noise Suppressor, reduces background noise, 6-band attenuation control) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
 - **Waves NS1** 14.0 ($$) [RECOMMENDED]<br/>
-  Noise Suppressor, reduces background noise, single-knob control (latency: 0)<br/>
+  Audio VST Plugin (Noise Suppressor, reduces background noise, single-knob control) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
 - **Bertom Denoiser** 2.0.2 (0/$)<br/>
-  Noise Suppressor (latency: 0)<br/>
+  Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
   [Homepage](https://bertom.gumroad.com/l/denoiser)
   [Download](https://bertom.gumroad.com/l/denoiser)
 
 - **Reaper ReaPlugs ReaFIR** 2.36 (0)<br/>
-  Noise Suppressor (latency: 512smp/10ms)<br/>
+  Audio VST Plugin (Noise Suppressor) (latency: 512smp/10ms)<br/>
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
@@ -386,29 +386,29 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugins: Ducking
 
 - **Wavesfactory Trackspacer** 2.5.9 ($$) [RECOMMENDED]<br/>
-  Dynamic 32-Band Sidechain-Based Inverse-Equalizer (latency: 0)<br/>
+  Audio VST Plugin (Dynamic 32-Band Sidechain-Based Inverse-Equalizer) (latency: 0)<br/>
   [Homepage](https://www.wavesfactory.com/audio-plugins/trackspacer/)
   [Download](https://trackspacer-wavesfactory.s3.amazonaws.com/Trackspacer%202.5.9.exe)
 
 - **Sonible smart:comp** 1.2.0 ($$)<br/>
-  Dynamic 2000-Band Sidechain-Based Compressor (latency: 2048smp/42ms)<br/>
+  Audio VST Plugin (Dynamic 2000-Band Sidechain-Based Compressor) (latency: 2048smp/42ms)<br/>
   [Homepage](https://www.sonible.com/smartcomp/)
   [Download](https://www.sonible.com/smartcomp/)
 
 - **iZotope Neutron 4 Unmask** 4 ($$$)<br/>
-  All-In-One VST Plugin (Ducking) (latency: 1024smp/21ms)<br/>
+  Audio VST Plugin (Ducking, Frequency Cutting) (latency: 1024smp/21ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
 
 - **Audified SpeakUp** 1.0.1 ($)<br/>
-  Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
+  Audio VST Plugin (Ducking, Frequency Ducking)<br/>
   [Homepage](https://shop.audified.com/products/speakup)
   [Download](https://shop.audified.com/products/speakup)
 
 ### VST Plugin: Compression
 
 - **BlueCat Dynamics** 4.4 ($$) [RECOMMENDED]<br/>
-  Compressor/Expander (latency: 51smp/1ms)<br/>
+  Audio VST Plugin (Compressor/Expander) (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
 
@@ -423,24 +423,24 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.tokyodawn.net/labs/KotelnikovGE/1.6.4/TDR%20Kotelnikov%20GE%20Demo%20(installer).zip?x24775)
 
 - **FabFilter Pro-C 2** 2.15 ($$$)<br/>
-  Compressor<br/>
+  Audio VST Plugin (Compressor)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproc215x64.exe)
 
 - **Reaper ReaPlugs ReaComp** 2.36 (0)<br/>
-  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
+  Audio VST Plugin (Compressor) (latency: 0)<br/>
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
 ### VST Plugin: Expansion/Gating
 
 - **BlueCat Dynamics** 4.4 ($$) [RECOMMENDED]<br/>
-  Compressor/Expander (latency: 51smp/1ms)<br/>
+  Audio VST Plugin (Compressor/Expander) (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
 
 - **FabFilter Pro-G** 2.15 ($$$)<br/>
-  Expander<br/>
+  Audio VST Plugin (Expander)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-g-gate-expander-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffprog129x64.exe)
 
@@ -450,7 +450,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://plugins4free.com/get_plug/BPAGate_x64.zip)
 
 - **Reaper ReaPlugs ReaGate** 2.36 (0)<br/>
-  Noise Gate (latency: 0)<br/>
+  Audio VST Plugin (Sidechain Noise Gate) (latency: 0)<br/>
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
@@ -469,12 +469,12 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Volume Limiting
 
 - **TDR Limiter GE 6** 1.2.4 ($$) [RECOMMENDED]<br/>
-  Audio VST Plugin (latency: 14smp/0.3ms)<br/>
+  Audio VST Plugin (Limiter) (latency: 14smp/0.3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-limiter6-ge/)
   [Download](https://www.tokyodawn.net/labs/Limiter6GE/1.2.4/TDR%20Limiter%206%20GE%20Demo%20(installer).zip?x24775)
 
 - **TDR VladG Limiter No6** (0)<br/>
-  Audio VST Plugin (predecessor to TDR Limiter?)<br/>
+  Audio VST Plugin (Limiter, predecessor to TDR Limiter?)<br/>
   [Homepage](https://www.tokyodawn.net/vladg-limiter-n6/)
   [Download](https://www.tokyodawn.net/labs/vladgsound/Limiter6-v102b.zip?x24775)
 
@@ -593,12 +593,12 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Sender/Receiver
 
 - **BlueCat Connector** 1.1 ($$)<br/>
-  Sender/Receiver<br/>
+  Audio VST Plugin (Sender/Receiver)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
 
 - **SonoBus** (0)<br/>
-  High-Quality Network Audio Streaming (Conference Mode)<br/>
+  Audio VST Plugin (High-Quality Network Audio Streaming) (Conference Mode)<br/>
   [Homepage](https://www.sonobus.net/)
   [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
 
