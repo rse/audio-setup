@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.1.1 (2022-07-06)
+Version 1.1.2 (2022-07-08)
 
 Personal Audio Chain
 --------------------
@@ -328,12 +328,12 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Equalization
 
-- **Waves F6** 13 ($$) [RECOMMENDED]<br/>
+- **Waves F6** 14.0.0 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
   [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
 
-- **Waves Q10** 13 ($$)<br/>
+- **Waves Q10** 14.0.0 ($$)<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
   [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
