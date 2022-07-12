@@ -282,17 +282,27 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://acondigital.de/produkte/extract-dialogue/)
   [Download](https://acondigital.de/produkte/extract-dialogue/)
 
+- **Antares Auto-Tune Soundsoap** 0 ($$$)<br/>
+  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML)<br/>
+  [Homepage](https://www.antarestech.com/product/auto-tune-soundsoap/)
+  [Download](https://www.antarestech.com/product/auto-tune-soundsoap/)
+
 ### VST Plugin: Noise Suppression (for wind/humm/hiss)
 
 - **Waves WNS** 14.0 ($$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Noise Suppressor, reduces background noise, 6-band attenuation control) (latency: 0)<br/>
+  Audio VST Plugin (Noise Suppressor, reduces background noise, 6-band attenuation control, non-adaptive) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
 - **Waves NS1** 14.0 ($$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Noise Suppressor, reduces background noise, single-knob control) (latency: 0)<br/>
+  Audio VST Plugin (Noise Suppressor, reduces background noise, single-knob control, adaptive) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
+
+- **Acon Digital Restoration Suite DeNoise** 2.1.2 ($$)<br/>
+  Audio VST Plugin (Noise Suppressor)<br/>
+  [Homepage](https://acondigital.de/produkte/restoration-suite/)
+  [Download](https://acondigital.de/produkte/restoration-suite/)
 
 - **Bertom Denoiser** 2.0.2 (0/$)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
