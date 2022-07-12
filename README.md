@@ -304,6 +304,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
+- **Sonnox Oxford DeNoiser** 0 ($$)<br/>
+  Audio VST Plugin (Noise Suppressor)<br/>
+  [Homepage](https://www.sonnox.com/plugin/oxford-denoiser)
+  [Download](https://www.sonnox.com/plugin/oxford-denoiser)
+
+- **Klevgrand Brusfri 2** 1.2.1 ($$)<br/>
+  Audio VST Plugin (Noise Suppressor)<br/>
+  [Homepage](https://klevgrand.com/products/brusfri)
+  [Download](https://s3-us-west-1.amazonaws.com/klevdata/plugins/brusfri/brusfri_1_2_1_win.zip)
+
 ### VST Plugin: De-Esser
 
 - **Waves Sibilance** 14.0 ($$) [RECOMMENDED]<br/>
