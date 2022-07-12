@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.1.2 (2022-07-08)
+Version 1.1.3 (2022-07-12)
 
 Personal Audio Chain
 --------------------
@@ -180,6 +180,11 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FETISH_5.0.exe)
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FetDrive_2.0.exe)
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FetSnap_2.0.exe)
+
+- **Kilohearts Essentials** 2022 (0)<br/>
+  Comprehensive Audio VST Plugin-Suite<br/>
+  [Homepage](https://kilohearts.com/products/kilohearts_essentials)
+  [Download](https://kilohearts.com/products/kilohearts_essentials)
 
 ### VST Plugin: All-In-One
 
