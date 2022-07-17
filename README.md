@@ -84,7 +84,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### Audio Mixer/Routing
 
-- **VoiceMeeter Potato** 3.0.2.2 ($) [RECOMMENDED]<br/>
+- **VB-Audio VoiceMeeter Potato** 3.0.2.2 ($) [RECOMMENDED]<br/>
   Audio Channel Mixer (including four built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
@@ -93,6 +93,16 @@ of setting up various audio chains at home and in the software industry.
   Virtual Audio Cable (arbitrary number of cable devices)<br/>
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac466.exe)
+
+- **VB-Audio Hi-Fi Cable & ASIO Bridge** 1.007:2014 ($/0)<br/>
+  Virtual Audio Cable for WDM-to-ASIO, ASIO-to-ASIO and ASIO-to-WDM<br/>
+  [Homepage](https://vb-audio.com/Cable/index.htm)
+  [Download](https://download.vb-audio.com/Download_CABLE/HiFiCableAsioBridgeSetup_v1007.zip)
+
+- **DDMF Virtual Audio Stream** 2020 ($$)<br/>
+  Virtual Audio Cable for WDM/ASIO and which can apply VST plugins, too<br/>
+  [Homepage](https://virtualaudiostream.com/)
+  [Download](http://www.virtualaudiostream.com/VirtualAudioStreamDemo.zip)
 
 ### VST Host (Standalone, Real-Time)
 
@@ -622,13 +632,18 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Sender/Receiver
 
-- **BlueCat Connector** 1.1 ($$)<br/>
-  Audio VST Plugin (Sender/Receiver)<br/>
+- **BlueCat Connector** 1.1 ($$) [RECOMMENDED]<br/>
+  Audio VST Plugin (1:1 Sender/Receiver)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
 
+- **Reaper ReaPlugs ReaStream** 2.36 (0)<br/>
+  Audio VST Plugin (1:1 Sender/Receiver)<br/>
+  [Homepage](https://www.reaper.fm/reaplugs/)
+  [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
+
 - **SonoBus** (0)<br/>
-  Audio VST Plugin (High-Quality Network Audio Streaming) (Conference Mode)<br/>
+  Audio VST Plugin (High-Quality Network Audio Streaming, Conference Mode)<br/>
   [Homepage](https://www.sonobus.net/)
   [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
 
