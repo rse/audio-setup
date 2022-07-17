@@ -608,6 +608,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalystPro/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalystPro/BlueCatFreqAnalystProVST3Demo-x64Setup.exe)
 
+- **BlueCat FreqAnalysis** (0)<br/>
+  Audio VST Plugin (Spectrum Visualizer)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalyst/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalyst/BlueCatFreqAnalystVST3-x64Setup.exe)
+
 - **iZotope Insight 2** ($$$)<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.izotope.com/en/products/insight.html)
