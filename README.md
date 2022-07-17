@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.1.3 (2022-07-12)
+Version 1.1.4 (2022-07-17)
 
 Personal Audio Chain
 --------------------
@@ -156,6 +156,11 @@ of setting up various audio chains at home and in the software industry.
   7-Band VST Host (acts as a VST plugin itself)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
   [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
+
+- **DDMF Metaplugin** 4.0.2 ($$)<br/>
+  VST Host (acts a VST plugin itself, even as a VST2 to VST3 converter)<br/>
+  [Homepage](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/)
+  [Download](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/)
 
 ### VST Plugin: Suites/Bundles
 
