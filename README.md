@@ -652,7 +652,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.sonobus.net/)
   [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
 
-### Companion Tools: MIDI
+### Companion Tools: OSC/MIDI
 
 - **LoopMIDI** 1.0.16.27 (0)<br/>
   Virtual MIDI Port<br/>
@@ -674,10 +674,35 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://hexler.net/touchosc)
   [Download](https://hexler.net/pub/touchosc/touchosc-1.1.4.143-win64.exe)
 
+- **OSC/Pilot** 1.8.8 ($$)<br/>
+  OSC Control Surface<br/>
+  [Homepage](https://oscpilot.com/)
+  [Download](https://software.mau5trap.com/OSCpilot-Installer-v1.8.8.exe)
+
+- **OSC/PAR** 1.1.2 ($$)<br/>
+  VST Plugin sending MIDI and automation events as OSC messages<br/>
+  [Homepage](https://oscpilot.com/pages/osc-par)
+  [Download](https://software.mau5trap.com/OSCpar-v1.1.2.exe)
+
 - **BlueCat's Remote Control** 3.0 ($$)<br/>
   MIDI Control Surface (VST Plugin)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_RemoteControl/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_RemoteControl/BlueCatRemoteControlVST3Demo-x64Setup.exe)
+
+- **MIDI Relay** 2.2.0 (0)<br/>
+  HTTP to MIDI Relay (for Companion)<br/>
+  [Homepage](https://github.com/josephdadams/midi-relay)
+  [Download](https://github.com/josephdadams/midi-relay/releases/download/V2.2.0/midi-relay2.2.0-win-x64.zip)
+
+- **SendMIDI** 1.1.0 (0)<br/>
+  MIDI Sender CLI<br/>
+  [Homepage](https://github.com/gbevin/SendMIDI)
+  [Download](https://github.com/gbevin/SendMIDI/releases/download/1.1.0/sendmidi-windows-1.1.0.zip)
+
+- **ReceiveMIDI** 1.2.0 (0)<br/>
+  MIDI Receiver CLI<br/>
+  [Homepage](https://github.com/gbevin/ReceiveMIDI)
+  [Download](https://github.com/gbevin/ReceiveMIDI/releases/download/1.2.0/receivemidi-windows-1.2.0.zip)
 
 ### Companion Tools: Misc
 
