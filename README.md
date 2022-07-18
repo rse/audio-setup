@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.1.4 (2022-07-17)
+Version 1.1.5 (2022-07-18)
 
 Personal Audio Chain
 --------------------
@@ -652,7 +652,34 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.sonobus.net/)
   [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
 
-### Companion Tools
+### Companion Tools: MIDI
+
+- **LoopMIDI** 1.0.16.27 (0)<br/>
+  Virtual MIDI Port<br/>
+  [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
+  [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
+
+- **MidiView** 1.2.0 (0)<br/>
+  MIDI Event Viewer<br/>
+  [Homepage](https://hautetechnique.com/midi/midiview/)
+  [Download](https://hautetechnique.com/apps/backend/v1/apps/midiview/latest/win64)
+
+- **Open Stage Control** 1.17.0 (0)<br/>
+  OSC/MIDI Control Surface<br/>
+  [Homepage](https://openstagecontrol.ammd.net/)
+  [Download](https://github.com/jean-emmanuel/open-stage-control/releases/download/v1.17.0/open-stage-control-1.17.0-win32-x64.zip)
+
+- **TouchOSC** 1.1.4.143 ($)<br/>
+  OSC/MIDI Control Surface<br/>
+  [Homepage](https://hexler.net/touchosc)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.1.4.143-win64.exe)
+
+- **BlueCat's Remote Control** 3.0 ($$)<br/>
+  MIDI Control Surface (VST Plugin)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_RemoteControl/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_RemoteControl/BlueCatRemoteControlVST3Demo-x64Setup.exe)
+
+### Companion Tools: Misc
 
 - **OBS Audio Sync** 2019 (0)<br/>
   Audio/Video Synchronization Tool (Video-Based)<br/>
@@ -668,11 +695,6 @@ of setting up various audio chains at home and in the software industry.
   Voice Control Commands<br/>
   [Homepage](https://voiceattack.com/)
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
-
-- **LoopMIDI** 1.0.16.27 (0)<br/>
-  Virtual MIDI Port<br/>
-  [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
-  [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
 - **Auto-Duck** 3.0.0-RC4.1 ($)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
