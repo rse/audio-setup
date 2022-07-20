@@ -2,7 +2,7 @@
 Audio Setup
 ===========
 
-Version 1.1.5 (2022-07-18)
+Version 1.1.6 (2022-07-20)
 
 Personal Audio Chain
 --------------------
@@ -654,12 +654,22 @@ of setting up various audio chains at home and in the software industry.
 
 ### Companion Tools: OSC/MIDI
 
-- **LoopMIDI** 1.0.16.27 (0)<br/>
+- **loopMIDI** 1.0.16.27 (0)<br/>
   Virtual MIDI Port<br/>
   [Homepage](https://www.tobias-erichsen.de/software/loopmidi.html)
   [Download](http://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip)
 
-- **MidiView** 1.2.0 (0)<br/>
+- **rtpMIDI** 1.1.14.247 (0)<br/>
+  Network MIDI Driver<br/>
+  [Homepage](https://www.tobias-erichsen.de/software/rtpmidi.html)
+  [Download](https://www.tobias-erichsen.de/wp-content/uploads/2020/01/rtpMIDISetup_1_1_14_247.zip)
+
+- **Protokol** 0.4.5.89 (0)<br/>
+  MIDI/OSC Event Viewer<br/>
+  [Homepage](https://hexler.net/protokol)
+  [Download](https://hexler.net/pub/protokol/protokol-0.4.5.89-win64.exe)
+
+- **MIDIView** 1.2.0 (0)<br/>
   MIDI Event Viewer<br/>
   [Homepage](https://hautetechnique.com/midi/midiview/)
   [Download](https://hautetechnique.com/apps/backend/v1/apps/midiview/latest/win64)
