@@ -84,12 +84,12 @@ of setting up various audio chains at home and in the software industry.
 
 ### Audio Mixer/Routing
 
-- **VB-Audio VoiceMeeter Potato** 3.0.2.2 ($) [RECOMMENDED]<br/>
+- **VB-Audio VoiceMeeter Potato** 3.0.2.2:2022 ($) [RECOMMENDED]<br/>
   Audio Channel Mixer (including four built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **Virtual Audio Cable (VAC)** 4.67 ($$) [RECOMMENDED]<br/>
+- **Virtual Audio Cable (VAC)** 4.67:2022 ($$) [RECOMMENDED]<br/>
   Virtual Audio Cable (arbitrary number of cable devices)<br/>
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac466.exe)
@@ -106,7 +106,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4050 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4051:2022 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4050.exe)
@@ -121,99 +121,99 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://shop.audified.com/products/intone-2-solo-1)
   [Download](https://shop.audified.com/products/intone-2-solo-1)
 
-- **LightHost** 1.2.1 (0)<br/>
+- **LightHost** 1.2.1:2016 (0)<br/>
   VST Host (simple, older)<br/>
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
 ### VST Host (Standalone, DAW)
 
-- **BandLab Cakewalk** 2022.02.1 (0)<br/>
+- **BandLab Cakewalk** 2022.02.1:2022 (0)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.bandlab.com/products/cakewalk)
   [Download](https://downloads.bandlab.com/cakewalk/setup/CakewalkSetup.exe)
 
-- **Cockos Reaper** 6.63 ($$)<br/>
+- **Cockos Reaper** 6.63:2022 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
   [Download](https://www.reaper.fm/files/6.x/reaper663_x64-install.exe)
 
-- **OcenAudio** 3.11.13 (0)<br/>
+- **OcenAudio** 3.11.13:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.1.3 (0)<br/>
+- **Audacity** 3.1.3:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
   [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
 
 ### VST Host (Standalone or Plugin)
 
-- **BlueCat PatchWork** 2.52 ($$) [RECOMMENDED]<br/>
+- **BlueCat PatchWork** 2.52:2022 ($$) [RECOMMENDED]<br/>
   VST Host (can act standalone or as a VST plugin itself, even as a VST2 to VST3 converter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
 
-- **Waves StudioRack** 14.0 (0)<br/>
+- **Waves StudioRack** 14.0:2022 (0)<br/>
   Multi-Band VST Host (acts as a VST plugin itself, but just for Waves plugins)<br/>
   [Homepage](https://www.waves.com/plugins/studiorack)
   [Download](https://www.waves.com/plugins/studiorack)
 
 ### VST Host (Plugin Only)
 
-- **BlueCat MB-7 Mixer** 3.42 ($$)<br/>
+- **BlueCat MB-7 Mixer** 3.42:2022 ($$)<br/>
   7-Band VST Host (acts as a VST plugin itself)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
   [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
 
-- **DDMF Metaplugin** 4.0.2 ($$)<br/>
+- **DDMF Metaplugin** 4.0.2:2022 ($$)<br/>
   VST Host (acts a VST plugin itself, even as a VST2 to VST3 converter)<br/>
   [Homepage](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/)
   [Download](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/)
 
 ### VST Plugin: Suites/Bundles
 
-- **Reaper ReaPlugs** 2.36 (0)<br/>
+- **Reaper ReaPlugs** 2.36:2016 (0)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Melda Production MFreeFXBundle** 15.02 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 15.02:2022 (0/$$)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
 
-- **BlueCat Freeware Plug-Ins Pack II** 2022-01 (0) [RECOMMENDED]<br/>
+- **BlueCat Freeware Plug-Ins Pack II** :2022 (0) [RECOMMENDED]<br/>
   Small Audio VST Plugin-Bundle (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Bundle_FreewarePack/)
   [Download](https://www.bluecataudio.com/Vault/Products/Bundle_FreewarePack/BlueCatFreewarePackVST3-x64Setup.exe)
 
-- **FET Bundle** 5.0/2.0/2.0 (0)<br/>
+- **FET Bundle** 5.0/2.0/2.0:2021 (0)<br/>
   Small Audio VST Plugin-Bundle (Compressor, Saturator, Transient Enhancer)<br/>
   [Homepage](https://www.patreon.com/posts/51962024)
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FETISH_5.0.exe)
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FetDrive_2.0.exe)
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FetSnap_2.0.exe)
 
-- **Kilohearts Essentials** 2022 (0)<br/>
+- **Kilohearts Essentials** :2022 (0)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://kilohearts.com/products/kilohearts_essentials)
   [Download](https://kilohearts.com/products/kilohearts_essentials)
 
 ### VST Plugin: All-In-One
 
-- **Speachy** 1.0 ($$) [RECOMMENDED]<br/>
+- **Speachy** 1.0:2020 ($$) [RECOMMENDED]<br/>
   All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, Noise Suppressor, Equalizer, Limiter) (latency: 0)<br/>
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
-- **Waves eMo D5 Dynamics** 14.0 ($$) [RECOMMENDED]<br/>
+- **Waves eMo D5 Dynamics** 14.0:2022 ($$) [RECOMMENDED]<br/>
   All-In-One VST Plugin (Gate/Expander, De-Esser, Compressor, Leveler, Limiter) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
   [Download](https://www.waves.com/plugins/emo-d5-dynamics)
 
-- **Waves Scheps Omni Channel** 14.0 ($$)<br/>
+- **Waves Scheps Omni Channel** 14.0:2022 ($$)<br/>
   All-In-One VST Plugin (Compressor, HPF/LPF, De-Esser, Equalizer, Gate) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
   [Download](https://www.waves.com/plugins/scheps-omni-channel)
@@ -228,7 +228,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waproduction.com/plugins/view/voxessor)
   [Download](https://www.waproduction.com/plugins/view/voxessor)
 
-- **iZotope Neutron 4** 4 ($$$)<br/>
+- **iZotope Neutron 4** 4:2022 ($$$)<br/>
   All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate, etc) (latency: 384-1024smp/7-21ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
