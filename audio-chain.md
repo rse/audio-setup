@@ -55,6 +55,27 @@ For the primary audio processing chain, the following products are used:
 - **TDR Limiter GE** for [volume limiting](audio-chain/screenshot-16-limiter.png)<br/>
   Rationale: a very flexible and powerful limiter, near zero latency
 
+If you want to reduce the overall number of required plugins (for
+licensing cost or simplification purposes), use one of the following
+three alternative chains.
+
+Alternative Chain 1:
+
+- **Waves WNS** for noise suppression (phase 1)
+- **Waves NS1** for noise suppression (phase 2)
+- **Waves F6** for equalization and exciting
+- **Waves eMO D5** for expansion, de-essing, compression, and limiting
+
+Alternative Chain 2:
+
+- **Waves WNS** for noise suppression (phase 1)
+- **Waves NS1** for noise suppression (phase 2)
+- **Waves Scheps Ombi Channel** for expansion, de-essing, equalization, exciting, compression, and limiting
+
+Alternative Chain 3:
+
+- **Speachy** for noise suppression, expansion, de-essing, equalization, exciting, compression, and limiting
+
 ### Monitoring
 
 For the fine-tuning of the processing chain, the following additional products are also used:
