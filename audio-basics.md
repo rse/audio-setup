@@ -31,6 +31,7 @@ The dB/LU is a relative unit with 1 dB equal to 1 LU, the others are absolute un
 The relation of the absolute values is that `dbFS == LUFS ~~ RMS`. LUFS
 is about the perceived loudness according to the [Fletcher Munson curve](https://en.wikipedia.org/wiki/Equal-loudness_contour)
 while RMS is a plain mathematical average loundness.
+Hence, primarily use LUFS when dealing with loudness.
 
 The dB/LU has known amplitude/pressure ranges:
 
@@ -70,8 +71,8 @@ and noise and voice areas marked on it:
 ```txt
 dBFS                             NOISE   VOICE
    0 ==== very loud
--  3
--  6
+-  3                                     X
+-  6                                     X
 -  9                                     X
 - 12 ==== loud                           X
 - 15                                     # (-14 dBFS: target for YouTube / Spotify)
@@ -86,8 +87,8 @@ dBFS                             NOISE   VOICE
 - 42                                     X
 - 45                                     X
 - 48 ==== very quietly                   X
-- 51
-- 54
+- 51                                     X
+- 54                                     X
 - 57
 - 60 ==== Noise Floor Peeks      X
 - 63                             X
