@@ -5,7 +5,7 @@ Audio Setup
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated information for setting up a
 full-featured Audio processing pipeline. It consists of
-three essential parts:
+four essential parts:
 
 1. [**Audio Basics**](audio-basics.md)
 2. [**Audio Chain**](audio-chain.md)
