@@ -7,8 +7,8 @@ opinionated information for setting up a
 full-featured Audio processing pipeline. It consists of
 three essential parts:
 
-1. [Audio Basics](audio-basics.md)
-2. [Audio Chain](audio-chain.md)
-3. [Audio Parameters](audio-params.md)
-4. [Audio Products](audio-products.md)
+1. [**Audio Basics**](audio-basics.md)
+2. [**Audio Chain**](audio-chain.md)
+3. [**Audio Parameters**](audio-params.md)
+4. [**Audio Products**](audio-products.md)
 
