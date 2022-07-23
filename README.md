@@ -4,7 +4,8 @@ Audio Setup
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated information for setting up a
-full-featured Audio processing pipeline. It consists of
+full-featured Audio processing pipeline for voice in the
+context of video-streaming. It consists of
 four essential parts:
 
 1. [**Audio Basics**](audio-basics.md)
