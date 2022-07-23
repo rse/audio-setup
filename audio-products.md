@@ -2,8 +2,8 @@
 Audio Setup
 ===========
 
-Products for Audio Chains
--------------------------
+Audio Products
+--------------
 
 Version 1.1.6 (2022-07-20)
 
