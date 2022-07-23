@@ -61,15 +61,13 @@ three alternative chains.
 
 Alternative Chain 1:
 
-- **Waves WNS** for noise suppression (phase 1)
-- **Waves NS1** for noise suppression (phase 2)
+- **Waves WNS** or **Waves NS1** for noise suppression
 - **Waves F6** for equalization and exciting
 - **Waves eMO D5** for expansion, de-essing, compression, and limiting
 
 Alternative Chain 2:
 
-- **Waves WNS** for noise suppression (phase 1)
-- **Waves NS1** for noise suppression (phase 2)
+- **Waves WNS** or **Waves NS1** for noise suppression
 - **Waves Scheps Ombi Channel** for expansion, de-essing, equalization, exciting, compression, and limiting
 
 Alternative Chain 3:
