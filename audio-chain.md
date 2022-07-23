@@ -68,7 +68,7 @@ Alternative Chain 1:
 Alternative Chain 2:
 
 - **Waves WNS** or **Waves NS1** for noise suppression
-- **Waves Scheps Ombi Channel** for expansion, de-essing, equalization, exciting, compression, and limiting
+- **Waves Scheps Omni Channel** for expansion, de-essing, equalization, exciting, compression, and limiting
 
 Alternative Chain 3:
 
