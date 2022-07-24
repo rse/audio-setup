@@ -132,9 +132,9 @@ for all the basics. Let us recap all those essential basics:
   Parameters](audio-params.md):
 
     ```txt
-    dBFS Area                        Noise   Voice
+    Vol. Area                        Noise   Voice
     ---- --------------------------- ------- -------
-       0 ==== very loud ============              (audio clipping point)
+       0 ==== very loud ============              (-1 dB TP: EBU R128)
     -  3                                     X
     -  6                                     X
     -  9                                     X
