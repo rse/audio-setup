@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.6 (2022-07-20)
+Version 1.1.7 (2022-07-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -147,7 +147,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
   [Download](https://www.waves.com/plugins/emo-d5-dynamics)
 
-- **Waves Scheps Omni Channel** 14.0:2022 ($$)<br/>
+- **Waves Scheps Omni Channel** 14.0:2022 ($$) [RECOMMENDED]<br/>
   All-In-One VST Plugin (Compressor, HPF/LPF, De-Esser, Equalizer, Gate) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
   [Download](https://www.waves.com/plugins/scheps-omni-channel)
@@ -430,7 +430,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Saturation
 
-- **Slate Digital Fresh Air** 1.0.8 (0)<br/>
+- **Slate Digital Fresh Air** 1.0.8 (0) [RECOMMENDED]<br/>
   Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
   [Homepage](https://slatedigital.com/fresh-air/)
   [Download](https://slatedigital.com/fresh-air/)
@@ -483,7 +483,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Microphone Auto-Mixing
 
-- **WTAutomixer V2** 2.01 ($$$) [RECOMMENDED]<br/>
+- **WTAutomixer V2** 2.01:2021 ($$$) [RECOMMENDED]<br/>
   Audio VST Plugin (Microphone Volume Balancer) (latency: 128smp/2.66ms)<br/>
   [Homepage](https://www.wtautomixer.com/)
   [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
@@ -568,6 +568,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Sampler/Player)<br/>
   [Homepage](https://www.onesmallclue.com/index.html)
   [Download](https://osc.sfo2.digitaloceanspaces.com/Setup_Grace_64bit_Full_1-0-4-9_Windows.exe)
+
+- **Mirax Labs vstPlayer** 2.3.3:2016 (0)<br/>
+  Audio VST Plugin (WAV Player)<br/>
+  [Homepage](https://miraxlabs.com/products/vstplayer/)
+  [Download](https://miraxlabs.com/products/vstplayer/)
 
 ### VST Plugin: Sender/Receiver
 
