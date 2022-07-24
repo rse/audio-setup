@@ -66,11 +66,13 @@ for all the basics. Let us recap all those essential basics:
   loudness. The Decibel unit accounts for this. Because of this
   logarithmic way of human hearing, the well-known dB SPL ratios for
   sound are:
-    - 1:10 -20 dB SPL (ten times as quiet)
+    - 1:10 -20 dB SPL
     - 1:2   -6 dB SPL (double as quiet)
+    - 1:1.5 -3 dB SPL
     - 1:1    0 dB SPL
+    - 1.5:1 +3 dB SPL
     - 2:1   +6 dB SPL (double as loud)
-    - 10:1 +20 dB SPL (ten times as loud)
+    - 10:1 +20 dB SPL
 
 - **Decibel** is 1/10 of a Bel and a power ratio between two values.
   Keep in mind that Decibel for Power is originally calculated `dB
@@ -82,6 +84,7 @@ for all the basics. Let us recap all those essential basics:
 - **Full Scale**: In audio there are multiple absolute units:
     - dB SPL (Decibel relative to Sound Pressure Level)
     - dB FS  (Decibel relative to Full Scale)
+    - dB TP  (Decibel relative to True Peak)
     - LUFS   (Loudness Unit relative to Full Scale)
     - RMS    (Root Mean Square)
   The relation of the absolute units is db FS == LUFS ~~ RMS.
@@ -109,46 +112,78 @@ for all the basics. Let us recap all those essential basics:
   Hence, in practice a useful target loudness is to follow EBU R128 S1 and try to reach
   -18 LUFS s and -23 LUFS i.
 
-- The audio volume scale can be somewhat segmented in 3 dB steps like this
-  and noise and voice areas marked on it for a reference configuring
-  certain [Audio Parameters](audio-params.md):
+- **Maximum True Peek Level** is the maximum db FS value which should never be exceeded.
+  EBU R128 uses -1 dB FS.
+
+- **Audio Clipping** is mainly specific to Digital Audio Processing (DSP) where usually
+  0.0 dB FS is usually the highest possible sample peak (because of
+  the usual Fixed Point Value representation), and an audio signal peaking
+  higher than that will "clip" and distort. Analog audio is a little
+  more complicated than that, but the same principle applies. As a dB FS
+  is measured per sample, a maximum of 0 dB FS in DSP can still lead to
+  clipping in analog audio because of "inter-sample peaks". Hence, dB TP
+  (Decibel relative to True Peek) is used as the unit instead of dB FS
+  for measuring and the limiting usually is recommended to be at -1.0 dB
+  TP.
+
+- **Loudness/Volume Scale**: The audio volume scale can be somewhat
+  segmented in 3 dB steps (1.5 louder/quieter) like this and noise and
+  voice areas marked on it for a reference configuring certain [Audio
+  Parameters](audio-params.md):
 
     ```txt
-    dBFS/LUFS                        NOISE   VOICE
-       0 ==== very loud
+    dBFS Area                        Noise   Voice
+    ---- --------------------------- ------- -------
+       0 ==== very loud ============              (audio clipping point)
     -  3                                     X
     -  6                                     X
     -  9                                     X
-    - 12 ==== loud                           X
+    - 12 ==== loud =================         X
     - 15                                     X
-    - 18                                     ## (-18 LUFS s: EBU R128 S1)
+    - 18                                     ##   (-18 LUFS s: EBU R128 S1)
     - 21                                     ##
-    - 24 ==== regular                        ## (-23 LUFS i: EBU R128 S1)
+    - 24 ==== regular ==============         ##   (-23 LUFS i: EBU R128 S1)
     - 27                                     X
     - 30                                     X
     - 33                                     X
-    - 36 ==== quietly                        X
+    - 36 ==== quietly ==============         X
     - 39                                     X
     - 42                                     X
     - 45                                     X
-    - 48 ==== very quietly                   X
+    - 48 ==== very quietly =========         X
     - 51                                     X
     - 54                                     X
     - 57
-    - 60 ==== Noise Floor Peeks      X
+    - 60 ==== Noise Floor Peeks ==== X
     - 63                             X
     - 66                             X
     - 69                             X
-    - 72 ==== Noise Floor Majority   X
+    - 72 ==== Noise Floor Majority = X
     - 75                             X
     - 78                             X
     - 81                             X
-    - 84 ====                        X
+    - 84 =========================== X
     - 87                             X
     - 90                             X
     - 93                             X
-    - 96 ====                        X
+    - 96 =========================== X
     - 99                             X
     -102                             X
     ```
+
+- **Visualizations**: there are multiple audio visualizations in practice:
+   - **Volume Meter** is a usual 1-D audio visualization showing the Volume (dBFS/LUFS).
+   - **Frequency Spectrum** is a usual 2-D audio visualization (of equalizers) showing on the
+     x-axis the Frequency (Hz) and on the y-axis the Volume (dBFS/LUFS).
+   - **Envelope Graph** is a usual 2-D audio visualization (or
+     expanders, de-essers, and compressors) showing on the x-axis the time
+     (s) and on the y-axis the Volume (dBFS/LUFS) of left (positive) and
+     right (negative) channels.
+   - **Spectogram** is a usual heatmap-style, colored, 2-D audio
+     visualization (of noise suppressors) showing on the x-axis the time (s), on the y-axis the
+     Frequency (Hz) and with the color the Volume (dBFS/LUFS).
+   - **Dynamics Response Graph** is a usual 2-D audio visualization (of
+     gates, expanders, compressors, and limiters) showing
+     on the x-axis the incoming signal Volume (dBFS/LUFS) and on
+     the y-axis the outgoing signal Volume (dBFS/LUFS).
 
