@@ -13,43 +13,43 @@ and [Decibels Explained](https://www.youtube.com/watch?v=F4r3WI-JXlc)
 of the [Audio University](https://www.youtube.com/hashtag/audiouniversity)
 for all the basics. Let us recap all those essential basics:
 
-- **Sound** is vibration of material, usually air particles.
-  Sound travels as waves of accoustical energy --
-  recurring air pressure changes, alternating between
+- **Sound** is a vibration of material, usually of air particles.
+  Sound travels as waves of accoustical energy, i.e.,
+  sound is based on recurring air pressure changes, alternating between
   high/positive/compression and low/negative/rarefaction.
   Sound can be visualized as a sine-like curve on a diagram where the
   x-axis is the time and the y-axis is the air pressure.
 
-- **Phase** (of the curve) is measured in degrees from 0 (zero), over 90
+- **Phase** of sound is measured in degrees from 0 (zero), over 90
   (maximum positive), 180 (zero), 270 (maximum negative), to 360 (zero).
 
-- **Frequency** (of the curve) is how many Phase cycles (0 to 360) occur
-  per second (cps, cycles per second). Frequency is measured in Hertz (Hz)
-  with 1 cps equal to 1 Hz. Human range of hearing is from 20 Hz to 20,000
+- **Frequency** of sound is how many Phase cycles (from 0 to 360 degree) occur
+  per second (cycles per second, cps). Frequency is measured in Hertz (Hz)
+  with 1 cps = 1 Hz. Human range of hearing is from 20 Hz to 20,000
   Hz. Higher Frequency corresponds to higher musical Pitch. If Frequency
   is doubled, musical Pitch increases by one Octave.
 
-- **Period** (of the curve) is the time to complete a Phase (0 to 360),
+- **Period** of sound is the time to complete a Phase (from 0 to 360 degree),
   measured in time (usually ms). A sound wave of 1 Hz has a Period of 1
-  second, a sound wave of 2 Hz has a Period of 0.5 seconds.
+  second, a sound wave of 2 Hz has a Period of 0.5 second.
 
-- **Wavelength** (of the curve) is the physical distance to complete a
-  Phase (0 to 360), measured in meters. Wavelength = (Speed of Sound) /
-  Frequency.
+- **Wavelength** of sound is the physical distance to complete a
+  Phase (from 0 to 360 degree), measured in meters. As a formula:
+  Wavelength = (Speed of Sound) / Frequency.
 
-- **Speed of Sound** is 1130 ft/s = 344 m/s = 0.344 m/ms = 34.4 cm/ms,
+- **Speed** of sound is 1130 ft/s = 344 m/s = 0.344 m/ms = 34.4 cm/ms,
   which means that in one millisecond (ms), sound travels about 34 cm in
-  a usual room of 15-20 degree celcius. This means that when a speaker is
-  1 meter away from your microphone, the ducking filter should have an
-  attack of no more than 3 ms.
+  a usual room of 15-20 degree celcius. This means in practice that when
+  a speaker is 1 meter away from your microphone, the ducking filter
+  should have an attack of no more than 3 ms.
 
-- **Amplitude** is the extend of air pressure changes and is the range
-  on the y-axis of the curve, originally measured in Pascal (ps, force
-  per square meter), but, because of the logarithmic scale of the
-  human hearing, in practice it is measured in Decibel (dB SPL), a
-  logarithmic scale mapped onto the linear Pascal scale.
+- **Amplitude** is the extend of air pressure changes, originally
+  measured in Pascal (ps, force per square meter), but, because of the
+  logarithmic scale of the human hearing, in practice is measured in
+  Decibel at Sound Pressure Level (dB SPL) -- a logarithmic scale mapped
+  onto the linear Pascal scale.
 
-- **Decibel** (Sound Pressure Level) (dB SPL) has known ranges:
+- **Decibel** at Sound Pressure Level (dB SPL) has known ranges:
 
     - Near-Zotal Silence (Threshold of Hearing): 0 dB SPL
     - Breathing: 10 dB SPL
@@ -64,7 +64,7 @@ for all the basics. Let us recap all those essential basics:
 
 - **Human Way of Hearing**: as sound pressure increases, more and more
   power is required to create the same perceived(!) increase in
-  loudness. The Decibel unit accounts for this. Because of this
+  sound loudness. The Decibel unit accounts for this. Because of this
   logarithmic way of human hearing, the well-known dB SPL ratios for
   sound are:
 
@@ -77,11 +77,12 @@ for all the basics. Let us recap all those essential basics:
     - 10:1 +20 dB SPL
 
 - **Decibel** is 1/10 of a Bel and a power ratio between two values.
-  Keep in mind that Decibel for Power is originally calculated `dB
-  = 10 * log(Power-Measured / Power-Reference)` while Decibel for
-  Voltage and Sound Pressure (our context) is calculated as `dB = 20 *
-  log(Value-Measured / Value-Reference)`. So be careful when reading
-  about dB in general and applying it in the context of audio.
+  Keep in mind that Decibel for Power is originally calculated `dB = 10
+  * log(Power-Measured / Power-Reference)` while Decibel for Voltage
+  and Sound Pressure (this context here) is calculated as `dB = 20 *
+  log(Value-Measured / Value-Reference)`. So, be careful when reading
+  about dB calculations in general and applying it in the context of
+  audio.
 
 - **Full Scale**: In audio there are multiple absolute units:
 
@@ -104,7 +105,7 @@ for all the basics. Let us recap all those essential basics:
     - LUFS s / STL (Short Term Loudness): 3 s
     - LUFS i / IL  (Integrated Loudness): total (entire audio track)
 
-- **Loudness** targets differ between organizations:
+- **Loudness Target** differs between organizations:
 
     - Netflix (Dialog): -27 LUFS i
     - EBU R128 (Cinema, TV): -23 LUFS i
@@ -116,22 +117,22 @@ for all the basics. Let us recap all those essential basics:
     - Spotify: -14 LUFS i
     - Spotify Loud: -11 LUFS i
 
-  Hence, in practice a useful target loudness is to follow EBU R128 S1 and try to reach
-  -18 LUFS s and -23 LUFS i.
+  Hence, in practice a useful loudness target is to follow EBU R128 S1
+  and try to reach -18 LUFS s and -23 LUFS i.
 
-- **Maximum True Peek Level** is the maximum db FS value which should never be exceeded.
-  EBU R128 uses -1 dB FS.
+- **Maximum True Peek Level** is the maximum db FS value which should
+  never be exceeded. EBU R128 uses -1 dB FS.
 
-- **Audio Clipping** is mainly specific to Digital Audio Processing (DSP) where usually
-  0.0 dB FS is usually the highest possible sample peak (because of
-  the usual Fixed Point Value representation), and an audio signal peaking
-  higher than that will "clip" and distort. Analog audio is a little
-  more complicated than that, but the same principle applies. As a dB FS
-  is measured per sample, a maximum of 0 dB FS in DSP can still lead to
-  clipping in analog audio because of "inter-sample peaks". Hence, dB TP
-  (Decibel relative to True Peek) is used as the unit instead of dB FS
-  for measuring and the limiting usually is recommended to be at -1.0 dB
-  TP.
+- **Audio Clipping** is mainly specific to Digital Audio Processing
+  (DSP) where usually 0.0 dB FS is usually the highest possible sample
+  peak (because of the usual Fixed Point Value representation), and
+  an audio signal peaking higher than that will "clip" and distort.
+  Analog audio is a little more complicated than that, but the same
+  principle applies. As dB FS is measured per sample, a maximum of 0
+  dB FS in DSP can still lead to clipping in analog audio because of
+  "inter-sample peaks". Hence, dB TP (Decibel relative to True Peek)
+  is used as the measured unit instead of dB FS and hence the limiting
+  usually is recommended to be at -1.0 dB TP.
 
 - **Loudness/Volume Scale**: The audio volume scale can be somewhat
   segmented in 3 dB steps (1.5 louder/quieter) like this and noise and
