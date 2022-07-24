@@ -82,11 +82,13 @@ for all the basics. Let us recap all those essential basics:
   about dB in general and applying it in the context of audio.
 
 - **Full Scale**: In audio there are multiple absolute units:
+
     - dB SPL (Decibel relative to Sound Pressure Level)
     - dB FS  (Decibel relative to Full Scale)
     - dB TP  (Decibel relative to True Peak)
     - LUFS   (Loudness Unit relative to Full Scale)
     - RMS    (Root Mean Square)
+
   The relation of the absolute units is db FS == LUFS ~~ RMS.
   The dB/LU is a relative unit with 1 dB = 1 LU.
   LUFS is about the perceived loudness according to the [Fletcher
