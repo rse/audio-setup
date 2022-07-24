@@ -50,6 +50,7 @@ for all the basics. Let us recap all those essential basics:
   logarithmic scale mapped onto the linear Pascal scale.
 
 - **Decibel** (Sound Pressure Level) (dB SPL) has known ranges:
+
     - Near-Zotal Silence (Threshold of Hearing): 0 dB SPL
     - Breathing: 10 dB SPL
     - Whispering: 15 dB SPL
@@ -66,6 +67,7 @@ for all the basics. Let us recap all those essential basics:
   loudness. The Decibel unit accounts for this. Because of this
   logarithmic way of human hearing, the well-known dB SPL ratios for
   sound are:
+
     - 1:10 -20 dB SPL
     - 1:2   -6 dB SPL (double as quiet)
     - 1:1.5 -3 dB SPL
@@ -97,11 +99,13 @@ for all the basics. Let us recap all those essential basics:
   primarily use LUFS when dealing with loudness.
 
 - **LUFS** is usually measured over different time ranges:
+
     - LUFS m / ML  (Momentary Loudness): 400 ms
     - LUFS s / STL (Short Term Loudness): 3 s
     - LUFS i / IL  (Integrated Loudness): total (entire audio track)
 
 - **Loudness** targets differ between organizations:
+
     - Netflix (Dialog): -27 LUFS i
     - EBU R128 (Cinema, TV): -23 LUFS i
     - EBU R128 S1 (TV): -23 LUFS i, -18 LUFS s
@@ -111,6 +115,7 @@ for all the basics. Let us recap all those essential basics:
     - YouTube: -14 LUFS i
     - Spotify: -14 LUFS i
     - Spotify Loud: -11 LUFS i
+
   Hence, in practice a useful target loudness is to follow EBU R128 S1 and try to reach
   -18 LUFS s and -23 LUFS i.
 
