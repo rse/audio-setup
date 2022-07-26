@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.7 (2022-07-24)
+Version 1.1.8 (2022-07-26)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -40,10 +40,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4051:2022 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4052:2022 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4050.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4052.exe)
 
 - **Audified inTone 2** 2.5.9 ($$)<br/>
   VST Host<br/>
