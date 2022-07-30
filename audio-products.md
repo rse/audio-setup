@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.8 (2022-07-26)
+Version 1.1.9 (2022-07-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -71,6 +71,11 @@ of setting up various audio chains at home and in the software industry.
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
   [Download](https://www.reaper.fm/files/6.x/reaper663_x64-install.exe)
+
+- **Ardour** 6.9:2022 ($$)<br/>
+  Digital Audio Workstation (with VST support)<br/>
+  [Homepage](https://ardour.org/)
+  [Download](https://community.ardour.org/download?platform=win&architecture=x86_64&type=compiled)
 
 - **OcenAudio** 3.11.13:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
