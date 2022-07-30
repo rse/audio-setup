@@ -591,6 +591,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
+- **NDI Tools's NDI Direct: NDI Output/Input** 5.1.4.0 (0)<br/>
+  Audio VST Plugin (1:1 Sender/Receiver)<br/>
+  [Homepage](https://www.ndi.tv/tools/)
+  [Download](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
+
 - **SonoBus** (0)<br/>
   Audio VST Plugin (High-Quality Network Audio Streaming, Conference Mode)<br/>
   [Homepage](https://www.sonobus.net/)
