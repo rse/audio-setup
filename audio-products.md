@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.9 (2022-07-30)
+Version 1.1.10 (2022-07-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -600,6 +600,23 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (High-Quality Network Audio Streaming, Conference Mode)<br/>
   [Homepage](https://www.sonobus.net/)
   [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
+
+### Companion Technology: Dante
+
+- **Dante Controller** 4.6.0.9 (0)<br/>
+  Dante Router (Between Peers Only)<br/>
+  [Homepage](https://www.audinate.com/products/software/dante-controller)
+  [Download](https://my.audinate.com/support/downloads/dante-controller)
+
+- **Dante Virtual Soundcard (DVS)** 4.2.0.2 ($$)<br/>
+  ASIO/WDM Driver (Sender/Receiver, Single Instance, Remote Only) (latency: 4/6/10ms)<br/>
+  [Homepage](https://www.audinate.com/products/software/dante-virtual-soundcard)
+  [Download](https://my.audinate.com/support/downloads/dante-virtual-soundcard)
+
+- **Dante Via** 1.3.2.1 ($$)<br/>
+  WDM Wrapper Driver (Sender/Receiver)<br/>
+  [Homepage](https://www.audinate.com/products/software/dante-via)
+  [Download](https://my.audinate.com/support/downloads/dante-via)
 
 ### Companion Tools: OSC/MIDI
 
