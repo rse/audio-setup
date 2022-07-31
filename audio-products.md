@@ -77,6 +77,8 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://ardour.org/)
   [Download](https://community.ardour.org/download?platform=win&architecture=x86_64&type=compiled)
 
+### VST Host (Standalone, Audio Editor)
+
 - **OcenAudio** 3.11.13:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
