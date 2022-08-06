@@ -50,6 +50,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://github.com/falkTX/Carla/)
   [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.0/Carla-2.5.0-win64.zip)
 
+- **Kushview Element** 0.46.3:2022 ($)<br/>
+  VST Host (fully free)<br/>
+  [Homepage](https://kushview.net/element/)
+  [Download](
+
 - **Audified inTone 2** 2.5.9 ($$)<br/>
   VST Host<br/>
   [Homepage](https://shop.audified.com/products/intone-2)
