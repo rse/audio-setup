@@ -630,6 +630,37 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.audinate.com/products/software/dante-via)
   [Download](https://my.audinate.com/support/downloads/dante-via)
 
+### Companion Technology: ASIO
+
+- **ASIO4ALL** 2.15:2022 (0)<br/>
+  Virtual ASIO Driver for WDM-KS<br/>
+  [Homepage](https://www.asio4all.org/)
+  [Download](https://www.asio4all.org/downloads_11/ASIO4ALL_2_15_English.exe)
+
+- **FlexASIO** 1.9:2022 (0)<br/>
+  Virtual ASIO Driver for PortAudio (WDM-KS, WASAPI, DirectSound, MME)<br/>
+  [Homepage](https://github.com/dechamps/FlexASIO)
+  [Download](https://github.com/dechamps/FlexASIO/releases/download/flexasio-1.9/FlexASIO-1.9.exe)
+  [Homepage](https://github.com/flipswitchingmonkey/FlexASIO_GUI)
+  [Download](https://github.com/flipswitchingmonkey/FlexASIO_GUI/releases/download/v0.34/FlexASIO.GUIInstaller_0.34.exe)
+
+- **ASIO Link Pro** 2.4.4.2:2016 (0)<br/>
+  Virtual ASIO Driver for ASIO and WDM-KS and Network<br/>
+  [Homepage](https://give.academy/downloads/2018/03/03/ODeusASIOLinkPro/)
+  [Download](https://give.academy/static/asiolinkpro.exe)
+  [Download](https://give.academy/static/AsioLinkProToolPatcher_x86.zip)
+  [Download](https://give.academy/static/AsioLinkProToolPatcher_x64.zip)
+
+- **SAR** 0.13.2:2021 (0)<br/>
+  Virtual ASIO Driver for ASIO and WDM-KS ((REQUIRES ADMIN PRIVILEGES FOR DAW AND TESTSIGNING ENABLED)<br/>
+  [Homepage](http://sar.audio/)
+  [Download](https://github.com/eiz/SynchronousAudioRouter/releases/download/v0.13.2/SynchronousAudioRouter_x64.msi)
+
+- **ASIOConfig** 1.0.1:2017 (0)<br/>
+  Opens ASIO Driver Configuration Dialog<br/>
+  [Homepage](https://github.com/jprjr/asioconfig)
+  [Download](https://github.com/jprjr/asioconfig/releases/download/v1.0.1/asioconfig-win64.zip)
+
 ### Companion Tools: OSC/MIDI
 
 - **loopMIDI** 1.0.16.27 (0)<br/>
