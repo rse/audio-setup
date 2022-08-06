@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.10 (2022-07-31)
+Version 1.1.11 (2022-08-07)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -44,6 +44,11 @@ of setting up various audio chains at home and in the software industry.
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4052.exe)
+
+- **Carla** 2.5.0:2022 (0)<br/>
+  VST Host (fully free)<br/>
+  [Homepage](https://github.com/falkTX/Carla/)
+  [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.0/Carla-2.5.0-win64.zip)
 
 - **Audified inTone 2** 2.5.9 ($$)<br/>
   VST Host<br/>
