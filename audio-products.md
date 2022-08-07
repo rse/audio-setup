@@ -45,6 +45,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4052.exe)
 
+- **Audiostrom Live professor** 2022.1.1:2022 ($$)<br/>
+  VST Host<br/>
+  [Homepage](https://audiostrom.com/)
+  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2022-1-1/LiveProfessor-win-x64.msi)
+
+- **VSL Vienna Ensemble Pro 7** 7:2022 ($$$)<br/>
+  VST Host (provides client VST plugin)<br/>
+  [Homepage](https://www.vsl.co.at/de/Vienna_Software_Package/Vienna_Ensemble_Pro)
+  [Download](https://www.vsl.co.at/de/Vienna_Software_Package/Vienna_Ensemble_Pro)
+
 - **Carla** 2.5.0:2022 (0)<br/>
   VST Host (fully free)<br/>
   [Homepage](https://github.com/falkTX/Carla/)
