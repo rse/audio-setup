@@ -652,7 +652,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://give.academy/static/AsioLinkProToolPatcher_x64.zip)
 
 - **SAR** 0.13.2:2021 (0)<br/>
-  Virtual ASIO Driver for ASIO and WDM-KS ((REQUIRES ADMIN PRIVILEGES FOR DAW AND TESTSIGNING ENABLED)<br/>
+  Virtual ASIO Driver for ASIO and WDM-KS (ATTEBTION: REQUIRES ADMIN PRIVILEGES FOR DAW AND TESTSIGNING ENABLED)<br/>
   [Homepage](http://sar.audio/)
   [Download](https://github.com/eiz/SynchronousAudioRouter/releases/download/v0.13.2/SynchronousAudioRouter_x64.msi)
 
