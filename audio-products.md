@@ -631,7 +631,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://my.audinate.com/support/downloads/dante-controller)
 
 - **Dante Virtual Soundcard (DVS)** 4.2.0.2 ($$)<br/>
-  ASIO/WDM Driver (Sender/Receiver, Single Instance, Remote Only) (latency: 4/6/10ms)<br/>
+  ASIO/WDM Driver (Sender/Receiver, Single Instance, Single-Client, Remote Only) (latency: 4/6/10ms)<br/>
   [Homepage](https://www.audinate.com/products/software/dante-virtual-soundcard)
   [Download](https://my.audinate.com/support/downloads/dante-virtual-soundcard)
 
@@ -643,7 +643,7 @@ of setting up various audio chains at home and in the software industry.
 ### Companion Technology: ASIO
 
 - **ASIO4ALL** 2.15:2022 (0)<br/>
-  Virtual ASIO Driver for WDM-KS<br/>
+  Virtual ASIO Driver for WDM-KS (Multi-Client)<br/>
   [Homepage](https://www.asio4all.org/)
   [Download](https://www.asio4all.org/downloads_11/ASIO4ALL_2_15_English.exe)
 
@@ -655,7 +655,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://github.com/flipswitchingmonkey/FlexASIO_GUI/releases/download/v0.34/FlexASIO.GUIInstaller_0.34.exe)
 
 - **ASIO Link Pro** 2.4.4.2:2016 (0)<br/>
-  Virtual ASIO Driver for ASIO and WDM-KS and Network<br/>
+  Virtual ASIO Driver for ASIO and WDM-KS and Network (Multi-Client)<br/>
   [Homepage](https://give.academy/downloads/2018/03/03/ODeusASIOLinkPro/)
   [Download](https://give.academy/static/asiolinkpro.exe)
   [Download](https://give.academy/static/AsioLinkProToolPatcher_x86.zip)
@@ -667,7 +667,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://github.com/eiz/SynchronousAudioRouter/releases/download/v0.13.2/SynchronousAudioRouter_x64.msi)
 
 - **ASIOConfig** 1.0.1:2017 (0)<br/>
-  Opens ASIO Driver Configuration Dialog<br/>
+  Opens ASIO Driver Configuration Dialog (only useful for Single-Instance ASIO drivers)<br/>
   [Homepage](https://github.com/jprjr/asioconfig)
   [Download](https://github.com/jprjr/asioconfig/releases/download/v1.0.1/asioconfig-win64.zip)
 
