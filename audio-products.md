@@ -494,14 +494,49 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://loudmax.blogspot.com/)
   [Download](https://loudmax.blogspot.com/)
 
+- **FabFilter Pro-L 2** 2.11:2022 ($$)<br/>
+  Audio VST Plugin (Limiter)<br/>
+  [Homepage](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in)
+  [Download](https://www.fabfilter.com/downloads/ffprol211x64.exe)
+
 ### VST Plugin: Channel Panning
 
+- **iZotope Ozone Imager V2** 2022 (0)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
+  [Homepage](https://www.izotope.com/en/products/ozone-imager.html)
+  [Download](https://www.izotope.com/en/products/downloads/ozone_imager2.html)
+
+- **FLUX StereoTool V3** 21.04.1:2021 (0)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
+  [Homepage](https://www.flux.audio/project/stereo-tool-v3/)
+  [Download](https://flux-caffeine.s3-accelerate.amazonaws.com/files/Flux/CENTER%20%20INSTALLERS/Flux_FluxCenter-64-bit_Windows_Installer_%2821.04.1.50040%29.exe)
+
 - **TBProAudio ST1** 2.0.11 ($)<br/>
-  Audio VST Plugin (Volume Meter) (latency: 0)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/st1)
   [Download](https://www.tbproaudio.de/assets/content/download/ST1V2_Installer_WIN_2011.zip)
 
+- **Waves S1** 14:2022 ($$)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/s1-stereo-imager)
+  [Download](https://www.waves.com/plugins/s1-stereo-imager)
+
 ### VST Plugin: Volume Leveling
+
+- **Melda Production MAutoVolume** 15.02:2022 ($$)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://www.meldaproduction.com/MAutoVolume)
+  [Download](https://meldaproduction.b-cdn.net/download/maudioplugins/maudioplugins_15_02_setup.exe)
+
+- **SoundRadix Powair** ($$$)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://www.soundradix.com/products/powair/)
+  [Download](https://www.soundradix.com/products/powair/)
+
+- **Quiet Art WaveRider Tg** 1.2.4 ($$$)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://quietart.co.nz/waveridertg/)
+  [Download](https://quietart.co.nz/download/1397/)
 
 - **Waves Vocal Rider** 2022-05 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
@@ -518,10 +553,15 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
   [Download](https://www.flux.audio/project/junger-audio-level-magic/)
 
-- **DynaRide 2** 2 ($$)<br/>
+- **TBProAudio DynaRide 2** 2.0.11:2022 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/dynaride)
-  [Download](https://www.tbproaudio.de/products/dynaride)
+  [Download](https://www.tbproaudio.de/assets/content/download/DynaRide2_Installer_WIN_2011.zip)
+
+- **TBProAudio GainRider 3** 3.0.14:2022 ($$)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
+  [Homepage](https://www.tbproaudio.de/products/gainrider)
+  [Download](https://www.tbproaudio.de/assets/content/download/GainRider3_Installer_WIN_3014.zip)
 
 ### VST Plugin: Microphone Auto-Mixing
 
