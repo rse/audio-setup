@@ -477,6 +477,13 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/loair)
   [Download](https://www.waves.com/plugins/loair)
 
+### VST Plugin: Vocoding
+
+- **Waves OVOX** 14.0 ($)<br/>
+  Audio VST Plugin (vocoder) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/ovox-vocal-resynthesis)
+  [Download](https://www.waves.com/plugins/ovox-vocal-resynthesis)
+
 ### VST Plugin: Volume Limiting
 
 - **TDR Limiter GE 6** 1.2.4 ($$) [RECOMMENDED]<br/>
@@ -528,6 +535,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/vocal-rider)
   [Download](https://www.waves.com/plugins/vocal-rider)
 
+- **Waves Playlist Rider** 2022-05 ($$)<br/>
+  Audio VST Plugin (Volume Leveler, Multiple Sources in Sequence on Bus) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/playlist-rider)
+  [Download](https://www.waves.com/plugins/playlist-rider)
+
+- **SoundRadix Powair** ($$$)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://www.soundradix.com/products/powair/)
+  [Download](https://www.soundradix.com/products/powair/)
+
 - **TBProAudio DynaRide 2** 2.0.11:2022 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/dynaride)
@@ -538,15 +555,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tbproaudio.de/products/gainrider)
   [Download](https://www.tbproaudio.de/assets/content/download/GainRider3_Installer_WIN_3014.zip)
 
-- **SoundRadix Powair** ($$$)<br/>
-  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
-  [Homepage](https://www.soundradix.com/products/powair/)
-  [Download](https://www.soundradix.com/products/powair/)
-
-- **Waves Playlist Rider** 2022-05 ($$)<br/>
-  Audio VST Plugin (Volume Leveler, Multiple Sources in Sequence on Bus) (latency: 0)<br/>
-  [Homepage](https://www.waves.com/plugins/playlist-rider)
-  [Download](https://www.waves.com/plugins/playlist-rider)
+- **TBProAudio FinalLoud 3** 3.0.17:2022 ($$)<br/>
+  Audio VST Plugin (Volume Leveler, total loudness on entire track, non-live) (latency: 0)<br/>
+  [Homepage](https://www.tbproaudio.de/products/finalloud)
+  [Download](https://www.tbproaudio.de/assets/content/download/FinalLoud3_Installer_WIN_3017.zip)
 
 - **Quiet Art WaveRider Tg** 1.2.4 ($$$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
