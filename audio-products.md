@@ -829,6 +829,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://github.com/reaby/loistoSYNC)
   [Download](http://reaby.kapsi.fi/dev/loistosync/)
 
+- **Catchin' Sync** ($)<br/>
+  Audio/Video Synchronization Tool (iOS-based)<br/>
+  [Homepage](https://quietart.co.nz/catchinsync/)
+  [Download](https://quietart.co.nz/catchinsync/)
+
 - **Voice Attack** 1.8.9 (0)<br/>
   Voice Control Commands<br/>
   [Homepage](https://voiceattack.com/)
