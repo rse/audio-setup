@@ -528,6 +528,23 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/s1-stereo-imager)
   [Download](https://www.waves.com/plugins/s1-stereo-imager)
 
+### VST Plugin: Volume Loudness Maximization
+
+- **TBProAudio FinalLoud 3** 3.0.17:2022 ($$)<br/>
+  Audio VST Plugin (Volume Leveler, total loudness on entire track, non-live) (latency: 0)<br/>
+  [Homepage](https://www.tbproaudio.de/products/finalloud)
+  [Download](https://www.tbproaudio.de/assets/content/download/FinalLoud3_Installer_WIN_3017.zip)
+
+- **Waves L1 Ultramaximizer** 14:2022 ($$)<br/>
+  Audio VST Plugin (Volume Maximizer, Re-Quantization, live) (latency: 64smp/1.33ms)<br/>
+  [Homepage](https://www.waves.com/plugins/l1-ultramaximizer)
+  [Download](https://www.waves.com/plugins/l1-ultramaximizer)
+
+- **Waves L3 (LL) Multimaximizer** 14:2022 ($$)<br/>
+  Audio VST Plugin (Volume Maximizer, Re-Quantization, Multi-Band, live) (latency: 64smp/1.33ms)<br/>
+  [Homepage](https://www.waves.com/plugins/l3-multimaximizer)
+  [Download](https://www.waves.com/plugins/l3-multimaximizer)
+
 ### VST Plugin: Volume Leveling
 
 - **Waves Vocal Rider** 2022-05 ($$)<br/>
@@ -554,11 +571,6 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/gainrider)
   [Download](https://www.tbproaudio.de/assets/content/download/GainRider3_Installer_WIN_3014.zip)
-
-- **TBProAudio FinalLoud 3** 3.0.17:2022 ($$)<br/>
-  Audio VST Plugin (Volume Leveler, total loudness on entire track, non-live) (latency: 0)<br/>
-  [Homepage](https://www.tbproaudio.de/products/finalloud)
-  [Download](https://www.tbproaudio.de/assets/content/download/FinalLoud3_Installer_WIN_3017.zip)
 
 - **Quiet Art WaveRider Tg** 1.2.4 ($$$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
