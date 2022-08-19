@@ -528,15 +528,15 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.soundradix.com/products/powair/)
   [Download](https://www.soundradix.com/products/powair/)
 
+- **Waves Playlist Rider** 2022-05 ($$)<br/>
+  Audio VST Plugin (Volume Leveler, LUFS based) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/playlist-rider)
+  [Download](https://www.waves.com/plugins/playlist-rider)
+
 - **Waves Vocal Rider** 2022-05 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/vocal-rider)
   [Download](https://www.waves.com/plugins/vocal-rider)
-
-- **Waves Playlist Rider** 2022-05 ($$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer) (latency: 0)<br/>
-  [Homepage](https://www.waves.com/plugins/playlist-rider)
-  [Download](https://www.waves.com/plugins/playlist-rider)
 
 - **TBProAudio DynaRide 2** 2.0.11:2022 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
@@ -557,6 +557,16 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
   [Homepage](https://www.meldaproduction.com/MAutoVolume)
   [Download](https://meldaproduction.b-cdn.net/download/maudioplugins/maudioplugins_15_02_setup.exe)
+
+- **WA Production Outlaw** ($$)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://www.waproduction.com/plugins/view/outlaw)
+  [Download](https://www.waproduction.com/plugins/view/outlaw)
+
+- **WA Production Outlaw Lite** (0)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://www.waproduction.com/plugins/view/outlaw-lite)
+  [Download](https://www.waproduction.com/plugins/view/outlaw-lite)
 
 - **Junger Audio-Level Magic** 2022-05 ($$$)<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
