@@ -99,7 +99,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Audio Editor)
 
-- **OcenAudio** 3.11.13:2022 (0)<br/>
+- **OcenAudio** 3.11.14:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -179,7 +179,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
   [Download](https://www.waves.com/plugins/scheps-omni-channel)
 
-- **Fuse Audio Labs VCS-1** 1.0.1 ($$)<br/>
+- **Fuse Audio Labs VCS-1** 2.3 ($$)<br/>
   All-In-One VST Plugin (HPF/LPF, Compressor, Expander, Equalizer, Gate)<br/>
   [Homepage](https://fuseaudiolabs.de/#/pages/product?id=301012112)
   [Download](https://fuseaudiolabs.de/vendor/fuseaudiolabs/php/account.php?op=downloadfile&name=fuse_audio_labs_vcs1_win_1_0_1.zip)
