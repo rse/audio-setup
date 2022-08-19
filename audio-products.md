@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.11 (2022-08-07)
+Version 1.1.12 (2022-08-19)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -428,6 +428,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproc215x64.exe)
 
+- **FLUX Solera** 3 ($$$)<br/>
+  Audio VST Plugin (Compressor, De-Compressor, Expander, De-Expander)<br/>
+  [Homepage](https://www.flux.audio/project/solera/)
+  [Download](https://www.flux.audio/project/solera/)
+
 - **Reaper ReaPlugs ReaComp** 2.36 (0)<br/>
   Audio VST Plugin (Compressor) (latency: 0)<br/>
   [Homepage](https://www.reaper.fm/reaplugs/)
@@ -439,6 +444,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Compressor/Expander) (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
+
+- **FLUX Solera** 3 ($$$)<br/>
+  Audio VST Plugin (Compressor, De-Compressor, Expander, De-Expander)<br/>
+  [Homepage](https://www.flux.audio/project/solera/)
+  [Download](https://www.flux.audio/project/solera/)
 
 - **FabFilter Pro-G** 2.15 ($$$)<br/>
   Audio VST Plugin (Expander)<br/>
@@ -503,6 +513,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/playlist-rider)
   [Download](https://www.waves.com/plugins/playlist-rider)
 
+- **Junger Audio-Level Magic** 2022-05 ($$$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
+  [Download](https://www.flux.audio/project/junger-audio-level-magic/)
+
 - **DynaRide 2** 2 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/dynaride)
@@ -514,11 +529,6 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Microphone Volume Balancer) (latency: 128smp/2.66ms)<br/>
   [Homepage](https://www.wtautomixer.com/)
   [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
-
-- **Junger Audio-Level Magic** 2022-05 ($$$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
-  [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
-  [Download](https://www.flux.audio/project/junger-audio-level-magic/)
 
 - **TBProAudio AMM2** 2.0.15 ($$)<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
