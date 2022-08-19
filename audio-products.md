@@ -523,20 +523,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Volume Leveling
 
-- **Melda Production MAutoVolume** 15.02:2022 ($$)<br/>
-  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
-  [Homepage](https://www.meldaproduction.com/MAutoVolume)
-  [Download](https://meldaproduction.b-cdn.net/download/maudioplugins/maudioplugins_15_02_setup.exe)
-
 - **SoundRadix Powair** ($$$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
   [Homepage](https://www.soundradix.com/products/powair/)
   [Download](https://www.soundradix.com/products/powair/)
-
-- **Quiet Art WaveRider Tg** 1.2.4 ($$$)<br/>
-  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
-  [Homepage](https://quietart.co.nz/waveridertg/)
-  [Download](https://quietart.co.nz/download/1397/)
 
 - **Waves Vocal Rider** 2022-05 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
@@ -548,11 +538,6 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/playlist-rider)
   [Download](https://www.waves.com/plugins/playlist-rider)
 
-- **Junger Audio-Level Magic** 2022-05 ($$$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
-  [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
-  [Download](https://www.flux.audio/project/junger-audio-level-magic/)
-
 - **TBProAudio DynaRide 2** 2.0.11:2022 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/dynaride)
@@ -562,6 +547,21 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/gainrider)
   [Download](https://www.tbproaudio.de/assets/content/download/GainRider3_Installer_WIN_3014.zip)
+
+- **Quiet Art WaveRider Tg** 1.2.4 ($$$)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://quietart.co.nz/waveridertg/)
+  [Download](https://quietart.co.nz/download/1397/)
+
+- **Melda Production MAutoVolume** 15.02:2022 ($$)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://www.meldaproduction.com/MAutoVolume)
+  [Download](https://meldaproduction.b-cdn.net/download/maudioplugins/maudioplugins_15_02_setup.exe)
+
+- **Junger Audio-Level Magic** 2022-05 ($$$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
+  [Download](https://www.flux.audio/project/junger-audio-level-magic/)
 
 ### VST Plugin: Microphone Auto-Mixing
 
