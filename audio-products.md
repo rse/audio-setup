@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.12 (2022-08-19)
+Version 1.1.13 (2022-08-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -596,6 +596,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
   [Download](https://www.flux.audio/project/junger-audio-level-magic/)
+
+- **Hornet Autogain Pro MK2** 2.1.0:2021 ($)<br/>
+  Audio VST Plugin (Volume Leveler)<br/>
+  [Homepage](https://www.hornetplugins.com/plugins/hornet-autogain-pro-mk2/)
+  [Download](https://www.hornetplugins.com/wp-content/demo/HoRNetAutoGainProMK2-2.1.0-demo.zip)
 
 ### VST Plugin: Microphone Auto-Mixing
 
