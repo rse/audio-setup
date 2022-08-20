@@ -12,6 +12,22 @@ his various real-time video streaming setups is based on a [logical audio proces
 (which you can also see again physically in the [Cantabile](audio-chain/screenshot-02-hosting.png) component)
 which sits between two speaker output channels and a microphone input channel.
 
+The general microphone audio processing chain is (in this order of individual processors):
+
+- Spectrum Processors:
+    - De-Reverber   (optional)
+    - De-Noiser     (mandatory)
+- Frequency Processors:
+    - De-Esser      (recommended)
+    - De-Plosive    (optional)
+    - Equalizer     (mandatory)
+    - Exciter       (optional)
+- Dynamics Processors:
+    - Expander/Gate (mandatory)
+    - Leveler       (optional)
+    - Compressor    (recommended)
+    - Limiter       (mandatory)
+
 ### Hosting
 
 For hosting the audio chain, the following particular products are used:
