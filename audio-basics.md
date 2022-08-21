@@ -11,8 +11,9 @@ First, see [How Sound Works](https://www.youtube.com/watch?v=mjv7O0KS1ug),
 [Properties of a Sound Wave](https://www.youtube.com/watch?v=KUMI9sqD6vc),
 and [Decibels Explained](https://www.youtube.com/watch?v=F4r3WI-JXlc)
 of the [Audio University](https://www.youtube.com/hashtag/audiouniversity)
-plus the [Fundamentals of Audio Engineering](https://www.reddit.com/r/audioengineering/wiki/fundamentals/) of
-the [Reddit Audio Engineering Community](https://www.reddit.com/r/audioengineering/)
+plus the [Fundamentals of Audio Engineering](https://www.reddit.com/r/audioengineering/wiki/fundamentals/)
+and the [Audio Engineering FAQ](https://www.reddit.com/r/audioengineering/wiki/faq/)
+of the [Reddit Audio Engineering Community](https://www.reddit.com/r/audioengineering/)
 for all the basics. Let us recap all those essential basics:
 
 - **Sound** is a vibration of material, usually of air particles.
