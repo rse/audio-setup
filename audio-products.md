@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.13 (2022-08-20)
+Version 1.1.14 (2022-08-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -484,6 +484,28 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/ovox-vocal-resynthesis)
   [Download](https://www.waves.com/plugins/ovox-vocal-resynthesis)
 
+### VST Plugin: Channel Panning
+
+- **iZotope Ozone Imager V2** 2022 (0)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
+  [Homepage](https://www.izotope.com/en/products/ozone-imager.html)
+  [Download](https://www.izotope.com/en/products/downloads/ozone_imager2.html)
+
+- **FLUX StereoTool V3** 21.04.1:2021 (0)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
+  [Homepage](https://www.flux.audio/project/stereo-tool-v3/)
+  [Download](https://flux-caffeine.s3-accelerate.amazonaws.com/files/Flux/CENTER%20%20INSTALLERS/Flux_FluxCenter-64-bit_Windows_Installer_%2821.04.1.50040%29.exe)
+
+- **TBProAudio ST1** 2.0.11 ($)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: 0)<br/>
+  [Homepage](https://www.tbproaudio.de/products/st1)
+  [Download](https://www.tbproaudio.de/assets/content/download/ST1V2_Installer_WIN_2011.zip)
+
+- **Waves S1** 14:2022 ($$)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/s1-stereo-imager)
+  [Download](https://www.waves.com/plugins/s1-stereo-imager)
+
 ### VST Plugin: Volume Limiting
 
 - **TDR Limiter GE 6** 1.2.4 ($$) [RECOMMENDED]<br/>
@@ -506,27 +528,15 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffprol211x64.exe)
 
-### VST Plugin: Channel Panning
+- **DMG Audio Limitless** 1.15:2022 ($$$)<br/>
+  Audio VST Plugin (Limiter, Multi-Band, Dual-Stage, Very Transparent)<br/>
+  [Homepage](https://www.dmgaudio.com/products_limitless.php)
+  [Download](https://www.dmgaudio.com/products_limitless.php)
 
-- **iZotope Ozone Imager V2** 2022 (0)<br/>
-  Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
-  [Homepage](https://www.izotope.com/en/products/ozone-imager.html)
-  [Download](https://www.izotope.com/en/products/downloads/ozone_imager2.html)
-
-- **FLUX StereoTool V3** 21.04.1:2021 (0)<br/>
-  Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
-  [Homepage](https://www.flux.audio/project/stereo-tool-v3/)
-  [Download](https://flux-caffeine.s3-accelerate.amazonaws.com/files/Flux/CENTER%20%20INSTALLERS/Flux_FluxCenter-64-bit_Windows_Installer_%2821.04.1.50040%29.exe)
-
-- **TBProAudio ST1** 2.0.11 ($)<br/>
-  Audio VST Plugin (Stereo Panning) (latency: 0)<br/>
-  [Homepage](https://www.tbproaudio.de/products/st1)
-  [Download](https://www.tbproaudio.de/assets/content/download/ST1V2_Installer_WIN_2011.zip)
-
-- **Waves S1** 14:2022 ($$)<br/>
-  Audio VST Plugin (Stereo Panning) (latency: 0)<br/>
-  [Homepage](https://www.waves.com/plugins/s1-stereo-imager)
-  [Download](https://www.waves.com/plugins/s1-stereo-imager)
+- **Sonible smart:limit** 1.1.0:2022 ($$)<br/>
+  Audio VST Plugin (Limiter)<br/>
+  [Homepage](https://www.sonible.com/smartlimit/)
+  [Download](https://www.sonible.com/smartlimit/)
 
 ### VST Plugin: Volume Loudness Maximization
 
