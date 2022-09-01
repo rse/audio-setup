@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.14 (2022-08-27)
+Version 1.1.15 (2022-09-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -40,10 +40,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4052:2022 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4053:2022 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4052.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4053.exe)
 
 - **Audiostrom Live professor** 2022.1.1:2022 ($$)<br/>
   VST Host<br/>
@@ -226,7 +226,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
 
-- **SPL De-Verb Plus** ($$)<br/>
+- **SPL De-Verb Plus** 1.8.1:2022 ($$)<br/>
   Audio VST Plugin (Room Reverberation Removal)<br/>
   [Homepage](https://spl.audio/en/spl-produkt/de-verb-plus-plugin/)
   [Download](https://spl.audio/en/spl-produkt/de-verb-plus-plugin/)
