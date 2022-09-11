@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.15 (2022-09-01)
+Version 1.1.16 (2022-09-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -476,6 +476,16 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/loair)
   [Download](https://www.waves.com/plugins/loair)
+
+- **Soundtoys Decapitator** ? ($$$)<br/>
+  Audio VST Plugin (analog saturation modeler) (latency: ?)<br/>
+  [Homepage](https://www.soundtoys.com/product/Decapitator/)
+  [Download](https://www.soundtoys.com/product/Decapitator/)
+
+- **FabFilter Saturn** 2.06 ($$$)<br/>
+  Audio VST Plugin (analog saturation modeler) (latency: ?)<br/>
+  [Homepage](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in)
+  [Download](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in)
 
 ### VST Plugin: Vocoding
 
