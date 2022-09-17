@@ -327,6 +327,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://oeksound.com/plugins/soothe2/)
   [Download](https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v130_Win.zip)
 
+- **Antares Sybil** 0 ($$)<br/>
+  Audio VST Plugin (Variable-Frequency De-Esser)<br/>
+  [Homepage](https://www.antarestech.com/product/sybil/)
+  [Download](https://www.antarestech.com/product/sybil/)
+
 ### VST Plugin: Equalization
 
 - **Waves F6** 14.0.0 ($$) [RECOMMENDED]<br/>
@@ -719,6 +724,18 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (WAV Player)<br/>
   [Homepage](https://miraxlabs.com/products/vstplayer/)
   [Download](https://miraxlabs.com/products/vstplayer/)
+
+### VST Plugin: Device Simulation
+
+- **Audified MixChecker Pro** 0:2022 ($$$)<br/>
+  Audio VST Plugin (Similate Devices)<br/>
+  [Homepage](https://shop.audified.com/products/mixchecker-pro)
+  [Download](https://shop.audified.com/products/mixchecker-pro)
+
+- **ADSR Speakers** 0:2022 ($$)<br/>
+  Audio VST Plugin (Similate Devices)<br/>
+  [Homepage](https://www.adsrsounds.com/product/software/audiothing-speakers-speaker-simulator-plugin/)
+  [Download](https://www.adsrsounds.com/product/software/audiothing-speakers-speaker-simulator-plugin/)
 
 ### VST Plugin: Sender/Receiver
 
