@@ -5,7 +5,7 @@ Audio Setup
 Audio Products
 --------------
 
-Version 1.1.16 (2022-09-11)
+Version 1.1.17 (2022-09-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -624,18 +624,23 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Microphone Auto-Mixing
 
-- **WTAutomixer V2** 2.01:2021 ($$$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Microphone Volume Balancer) (latency: 128smp/2.66ms)<br/>
+- **WT Automixer V2** 2.01:2021 ($$$) [RECOMMENDED]<br/>
+  Audio VST Plugin (Microphone Volume Balancer, multiple inputs/outputs) (latency: 128smp/2.66ms)<br/>
   [Homepage](https://www.wtautomixer.com/)
   [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
 
-- **TBProAudio AMM2** 2.0.15 ($$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
+- **TBProAudio AMM2** 2.0.15:2022 ($$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer, multiple inputs, single output)<br/>
   [Homepage](https://www.tbproaudio.de/products/amm)
   [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
 
-- **Waves Dugan Speech** 14 ($$$)<br/>
+- **AYAIC Mix Monolith** 0.6.0:2022 ($$$)<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
+  [Homepage](https://www.ayaicinc.com/mix-monolith)
+  [Download](https://www.ayaicinc.com/mix-monolith)
+
+- **Waves Dugan Speech** 14 ($$$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer, runs inside Waves eMotion LV1 and Waves SuperRack hosts only)<br/>
   [Homepage](https://www.waves.com/plugins/dugan-speech)
   [Download](https://www.waves.com/plugins/dugan-speech)
 
