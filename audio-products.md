@@ -465,6 +465,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
+- **Waves Primary Source Expander** 14:2022 ($$)<br/>
+  Audio VST Plugin (Expander for Microphones, Sidechain-Support) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/pse-primary-source-expander)
+  [Download](https://www.waves.com/plugins/pse-primary-source-expander)
+
 ### VST Plugin: Saturation
 
 - **Slate Digital Fresh Air** 1.0.8 (0) [RECOMMENDED]<br/>
@@ -625,17 +630,17 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Microphone Auto-Mixing
 
 - **WT Automixer V2** 2.01:2021 ($$$) [RECOMMENDED]<br/>
-  Audio VST Plugin (Microphone Volume Balancer, multiple inputs/outputs) (latency: 128smp/2.66ms)<br/>
+  Audio VST Plugin (Microphone Volume Balancer, multiple inputs/outputs, includes leveler, live-focused) (latency: 128smp/2.66ms)<br/>
   [Homepage](https://www.wtautomixer.com/)
   [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
 
 - **TBProAudio AMM2** 2.0.15:2022 ($$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer, multiple inputs, single output)<br/>
+  Audio VST Plugin (Microphone Volume Balancer, multiple inputs, single output, mixing-focused)<br/>
   [Homepage](https://www.tbproaudio.de/products/amm)
   [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
 
 - **AYAIC Mix Monolith** 0.6.0:2022 ($$$)<br/>
-  Audio VST Plugin (Microphone Volume Balancer)<br/>
+  Audio VST Plugin (Microphone Volume Balancer, mixing-focused)<br/>
   [Homepage](https://www.ayaicinc.com/mix-monolith)
   [Download](https://www.ayaicinc.com/mix-monolith)
 
