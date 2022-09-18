@@ -29,6 +29,9 @@ The general microphone audio processing chain is (in this order of individual pr
     - **Leveler**         (optional):     attenuate/boost volume to reach a target volume level
     - **Limiter**         (mandatory):    squeeze volume below a maximum true peek level
 
+Product Recommendation
+----------------------
+
 ### Hosting
 
 For hosting the audio chain, the following particular products are used:
