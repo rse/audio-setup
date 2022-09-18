@@ -15,19 +15,19 @@ which sits between two speaker output channels and a microphone input channel.
 The general microphone audio processing chain is (in this order of individual processors):
 
 - Spectrum Processors:
-    - De-Reverber   (optional)
-    - De-Noiser     (mandatory)
+    - **De-Reverber**   (optional)
+    - **De-Noiser**     (mandatory)
 - Frequency Processors:
-    - De-Esser      (recommended)
-    - De-Plosive    (optional)
-    - Equalizer     (mandatory)
-    - Exciter       (optional)
+    - **De-Esser**      (recommended)
+    - **De-Plosive**    (optional)
+    - **Equalizer**     (mandatory)
+    - **Exciter**       (optional)
 - Dynamics Processors:
-    - Expander/Gate (mandatory)
-    - Compressor    (recommended)
-    - Automixer     (optional)
-    - Leveler       (optional)
-    - Limiter       (mandatory)
+    - **Expander/Gate** (mandatory)
+    - **Compressor**    (recommended)
+    - **Automixer**     (optional)
+    - **Leveler**       (optional)
+    - **Limiter**       (mandatory)
 
 ### Hosting
 
