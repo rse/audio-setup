@@ -683,6 +683,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.hornetplugins.com/plugins/hornet-autogain-pro-mk2/)
   [Download](https://www.hornetplugins.com/wp-content/demo/HoRNetAutoGainProMK2-2.1.0-demo.zip)
 
+- **SocaLabs Huge Gain** 1.1.0:2022 (0)<br/>
+  Audio VST Plugin (Volume Gain, left/right)<br/>
+  [Homepage](https://socalabs.com/developer-tools/hugegain/)
+  [Download](https://socalabs.com/files/get.php?id=HugeGain_Win.zip)
+
 ### VST Plugin: Microphone Auto-Mixing
 
 - **WT Automixer V2** 2.01:2021 ($$$) [RECOMMENDED]<br/>
@@ -841,6 +846,33 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (JavaScript Scripting)<br/>
   [Homepage](https://www.reaper.fm/sdk/reascript/reascript.php)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
+
+- **SocaLabs Maths** 1.1.0:2022 (0)<br/>
+  Audio VST Plugin (Math Expression Scripting)<br/>
+  [Homepage](https://socalabs.com/developer-tools/maths/)
+  [Download](https://socalabs.com/files/get.php?id=Maths_Win.zip)
+
+### VST Plugin: Tone Generator
+
+- **Waves eMo Generator** 14:2022 ($$)<br/>
+  Audio VST Plugin (Tone Generator)<br/>
+  [Homepage](https://www.waves.com/plugins/emo-generator)
+  [Download](https://www.waves.com/plugins/emo-generator)
+
+- **SocaLabs Tone Generator** 1.1.0:2022 (0)<br/>
+  Audio VST Plugin (Tone Generator)<br/>
+  [Homepage](https://socalabs.com/developer-tools/tonegenerator/)
+  [Download](https://socalabs.com/files/get.php?id=ToneGenerator_Win.zip)
+
+- **SocaLabs SFX8** 1.1.0:2022 (0)<br/>
+  Audio VST Plugin (Tone Generator)<br/>
+  [Homepage](https://socalabs.com/synths/sfx8/)
+  [Download](https://socalabs.com/files/get.php?id=SFX8_Win.zip)
+
+- **Devious Machines Infiltrator** 1.2.15:2022 ($$$)<br/>
+  Audio VST Plugin (Tone Generator, Effect Generator)<br/>
+  [Homepage](https://deviousmachines.com/product/infiltrator/)
+  [Download](https://deviousmachines.com/dm_builds/latest/Install%20Infiltrator%201.2.15%20Windows.exe)
 
 ### Companion Technology: Dante
 
