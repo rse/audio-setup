@@ -118,6 +118,9 @@ for all the basics. Let us recap all those essential basics:
   LUFS s / STL | Short Term Loudness | 3 s
   LUFS i / IL  | Integrated Loudness | total (entire audio track)
 
+  Hence, the more precise relation between LUFS and RMS is `LUFS m ~~ RMS` as
+  RMS usually is measured over a time tange of 300 ms.
+
 - **Loudness Target** differs between organizations:
 
   Organization                 | Loudness Target
@@ -133,26 +136,32 @@ for all the basics. Let us recap all those essential basics:
   Spotify Loud:                | -11 LUFS i
 
   Hence, in practice a useful loudness target is to follow EBU R128 S1
-  and try to reach -18 LUFS s and -23 LUFS i.
+  and try to reach -18 LUFS s and -23 LUFS i. Also, many audio engineers
+  recommend to not target above the loudness of -12 LUFS to still
+  leave enough "headroom" before the "Maximum True Peek Level" reaches
+  the "Audio Clipping" area.
 
 - **Maximum True Peek Level** is the maximum db FS value which should
-  never be exceeded. EBU R128 uses -1 dB FS.
+  never be exceeded in order to not reach the "Audio Clipping" area.
+  EBU R128 uses -1 dB FS for the "Maximum Tree Peek Level".
 
 - **Audio Clipping** is mainly specific to Digital Audio Processing
-  (DSP) where usually 0.0 dB FS is usually the highest possible sample
+  (DSP) where  0.0 dB FS is usually the highest possible sample
   peak (because of the usual Fixed Point Value representation), and
   an audio signal peaking higher than that will "clip" and distort.
   Analog audio is a little more complicated than that, but the same
-  principle applies. As dB FS is measured per sample, a maximum of 0
-  dB FS in DSP can still lead to clipping in analog audio because of
-  "inter-sample peaks". Hence, dB TP (Decibel relative to True Peek)
-  is used as the measured unit instead of dB FS and hence the limiting
-  usually is recommended to be at -1.0 dB TP.
+  principle applies.
+
+  As dB FS is measured per sample, a maximum of 0 dB FS in DSP can still
+  lead to clipping in analog audio because of "inter-sample peaks".
+  Hence, dB TP (Decibel relative to True Peek) is usually used as the
+  measured unit for "Maximum True Peel Level" instead of dB FS and hence
+  the limiting usually is recommended to be at -1.0 dB TP.
 
 - **Loudness/Volume Scale**: The audio volume scale can be somewhat
   segmented in 3 dB steps (1.5 louder/quieter) like this and noise and
-  voice areas marked on it for a reference configuring certain [Audio
-  Parameters](audio-params.md):
+  voice areas marked on it for a reference for the configuration of
+  certain [Audio Parameters](audio-params.md):
 
     ```txt
     Vol. Area                        Noise   Voice
@@ -163,9 +172,9 @@ for all the basics. Let us recap all those essential basics:
     -  9                                     X
     - 12 ==== loud =================         X
     - 15                                     X
-    - 18                                     ##   (-18 LUFS s: EBU R128 S1)
-    - 21                                     ##
-    - 24 ==== regular ==============         ##   (-23 LUFS i: EBU R128 S1)
+    - 18                                    XXX   (-18 LUFS s: EBU R128 S1)
+    - 21                                    XXX
+    - 24 ==== regular ==============        XXX   (-23 LUFS i: EBU R128 S1)
     - 27                                     X
     - 30                                     X
     - 33                                     X
