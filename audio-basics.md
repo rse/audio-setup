@@ -5,7 +5,7 @@ Audio Setup
 Audio Basics
 ------------
 
-Version 1.1.1 (2022-08-21)
+Version 1.1.2 (2022-09-18)
 
 First, see [How Sound Works](https://www.youtube.com/watch?v=mjv7O0KS1ug),
 [Properties of a Sound Wave](https://www.youtube.com/watch?v=KUMI9sqD6vc),
