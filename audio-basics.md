@@ -97,10 +97,11 @@ for all the basics. Let us recap all those essential basics:
 
   The relation of the absolute units is db FS == LUFS ~~ RMS.
   The dB/LU is a relative unit with 1 dB = 1 LU.
-  LUFS is about the perceived loudness according to the [Fletcher
-  Munson curve](https://en.wikipedia.org/wiki/Equal-loudness_contour)
-  while RMS is a plain mathematical average loundness. Hence,
-  primarily use LUFS when dealing with loudness.
+  LUFS is about the perceived loudness according to the
+  [Fletcher Munson curve](https://en.wikipedia.org/wiki/Equal-loudness_contour)
+  while RMS is a plain mathematical average loundness. Hence, primarily
+  use LUFS when dealing with loudness and RMS only as an approximation
+  (when only RMS is monitored/reported and not LUFS).
 
 - **LUFS** is usually measured over different time ranges:
 
@@ -110,15 +111,17 @@ for all the basics. Let us recap all those essential basics:
 
 - **Loudness Target** differs between organizations:
 
-    - Netflix (Dialog): -27 LUFS i
-    - EBU R128 (Cinema, TV): -23 LUFS i
-    - EBU R128 S1 (TV): -23 LUFS i, -18 LUFS s
-    - Apple Music / Apple Podcast: -16 LUFS i
-    - Deezer: -15 LUFS i
-    - Amazon Music: -14 LUFS i
-    - YouTube: -14 LUFS i
-    - Spotify: -14 LUFS i
-    - Spotify Loud: -11 LUFS i
+  Organization                 | Loudness Target
+  ---------------------------- | ----------------------
+  Netflix (Dialog):            | -27 LUFS i
+  EBU R128 (Cinema, TV):       | -23 LUFS i
+  EBU R128 S1 (TV):            | -23 LUFS i, -18 LUFS s
+  Apple Music / Apple Podcast: | -16 LUFS i
+  Deezer:                      | -15 LUFS i
+  Amazon Music:                | -14 LUFS i
+  YouTube:                     | -14 LUFS i
+  Spotify:                     | -14 LUFS i
+  Spotify Loud:                | -11 LUFS i
 
   Hence, in practice a useful loudness target is to follow EBU R128 S1
   and try to reach -18 LUFS s and -23 LUFS i.
