@@ -54,16 +54,18 @@ for all the basics. Let us recap all those essential basics:
 
 - **Decibel** at Sound Pressure Level (dB SPL) has known ranges:
 
-    - Near-Zotal Silence (Threshold of Hearing): 0 dB SPL
-    - Breathing: 10 dB SPL
-    - Whispering: 15 dB SPL
-    - Library Room: 45 dB SPL
-    - Speech/Conversation: 60 dB SPL
-    - Music: 80 dB SPL
-    - Noisy Restaurant: 90 dB SPL
-    - Jet Engine: 120 dB SPL
-    - Threshold of Pain: 120/140 dB SPL
-    - Balloon Popping: 157 dB SPL
+  Situation                                  | dB SPL
+  ------------------------------------------ | ------
+  Near-Zotal Silence (Threshold of Hearing): | 0
+  Breathing:                                 | 10
+  Whispering:                                | 15
+  Library Room:                              | 45
+  Speech/Conversation:                       | 60
+  Music:                                     | 80
+  Noisy Restaurant:                          | 90
+  Jet Engine:                                | 120
+  Threshold of Pain:                         | 120/140
+  Balloon Popping:                           | 157
 
 - **Human Way of Hearing**: as sound pressure increases, more and more
   power is required to create the same perceived(!) increase in
