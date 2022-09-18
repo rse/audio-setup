@@ -93,14 +93,17 @@ for all the basics. Let us recap all those essential basics:
 
 - **Full Scale**: In audio there are multiple absolute units:
 
-    - dB SPL (Decibel relative to Sound Pressure Level)
-    - dB FS  (Decibel relative to Full Scale)
-    - dB TP  (Decibel relative to True Peak)
-    - LUFS   (Loudness Unit relative to Full Scale)
-    - RMS    (Root Mean Square)
+  Unit   | Meaning
+  ------ | ----------------------------------------
+  dB SPL | Decibel relative to Sound Pressure Level
+  dB FS  | Decibel relative to Full Scale
+  dB TP  | Decibel relative to True Peak
+  LUFS   | Loudness Unit relative to Full Scale
+  RMS    | Root Mean Square
 
-  The relation of the absolute units is db FS == LUFS ~~ RMS.
-  The dB/LU is a relative unit with 1 dB = 1 LU.
+  The relation of the absolute units is `db FS == LUFS ~~ RMS`.
+  The dB/LU is a relative unit with `1 dB = 1 LU`.
+
   LUFS is about the perceived loudness according to the
   [Fletcher Munson curve](https://en.wikipedia.org/wiki/Equal-loudness_contour)
   while RMS is a plain mathematical average loundness. Hence, primarily
@@ -109,9 +112,11 @@ for all the basics. Let us recap all those essential basics:
 
 - **LUFS** is usually measured over different time ranges:
 
-    - LUFS m / ML  (Momentary Loudness): 400 ms
-    - LUFS s / STL (Short Term Loudness): 3 s
-    - LUFS i / IL  (Integrated Loudness): total (entire audio track)
+  Unit         | Meaning             | Measure Time Range
+  ------------ | ------------------- | --------------------------
+  LUFS m / ML  | Momentary Loudness  | 400 ms
+  LUFS s / STL | Short Term Loudness | 3 s
+  LUFS i / IL  | Integrated Loudness | total (entire audio track)
 
 - **Loudness Target** differs between organizations:
 
