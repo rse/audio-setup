@@ -2,15 +2,10 @@
 Audio Setup
 ===========
 
-Audio Chain
------------
-
 Version 1.1.7 (2022-09-18)
 
-The opinionated real-time audio chain currently used by [Dr. Ralf S. Engelschall](https://engelschall.com) in
-his various real-time video streaming setups is based on a [logical audio processing graph](audio-chain.pdf)
-(which you can also see again physically in the [Cantabile](audio-chain/screenshot-02-hosting.png) component)
-which sits between two speaker output channels and a microphone input channel.
+Audio Chain
+-----------
 
 The general microphone audio processing chain is (in this order of individual processors):
 
@@ -28,6 +23,11 @@ The general microphone audio processing chain is (in this order of individual pr
     - **Automixer**       (optional):     balance multiple microphones (attenuates inactive ones)
     - **Leveler**         (optional):     attenuate/boost volume to reach a target volume level
     - **Limiter**         (mandatory):    squeeze volume below a maximum true peek level
+
+The opinionated real-time audio chain currently used by [Dr. Ralf S. Engelschall](https://engelschall.com) in
+his various real-time video streaming setups is based on a [logical audio processing graph](audio-chain.pdf)
+(which you can also see again physically in the [Cantabile](audio-chain/screenshot-02-hosting.png) component)
+which sits between two speaker output channels and a microphone input channel.
 
 Product Recommendation
 ----------------------
