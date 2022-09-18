@@ -158,49 +158,49 @@ for all the basics. Let us recap all those essential basics:
   measured unit for "Maximum True Peel Level" instead of dB FS and hence
   the limiting usually is recommended to be at -1.0 dB TP.
 
-- **Loudness/Volume Scale**: The audio volume scale can be somewhat
+- **Loudness/Volume Scale**: The audio volume full scale can be somewhat
   segmented in 3 dB steps (1.5 louder/quieter) like this and noise and
   voice areas marked on it for a reference for the configuration of
   certain [Audio Parameters](audio-params.md):
 
     ```txt
-    Vol. Area                        Noise   Voice Target Reference
-    ---- --------------------------- ------- ----- ------ ------------------------
-       0 ==== very loud ============                      (-1 dB TP: EBU R128)
-    -  3                                     X            
-    -  6                                     X            
-    -  9                                     X            
-    - 12 ==== loud =================         X     X      (-12 LUFS s: Usual Maximum of Mixing Engineers)
-    - 15                                     X     X      
-    - 18                                     X     XX     (-18 LUFS s: EBU R128 S1)
-    - 21                                     X     X      
-    - 24 ==== regular ==============         X     X      (-23 LUFS i: EBU R128 S1)
-    - 27                                     X
-    - 30                                     X
-    - 33                                     X
-    - 36 ==== quietly ==============         X
-    - 39                                     X
-    - 42                                     X
-    - 45                                     X
-    - 48 ==== very quietly =========         X
-    - 51                                     X
-    - 54                                     X
-    - 57
-    - 60 ==== Noise Floor Peeks ==== X
-    - 63                             X
-    - 66                             X
-    - 69                             X
-    - 72 ==== Noise Floor Majority = X
-    - 75                             X
-    - 78                             X
-    - 81                             X
-    - 84 =========================== X
-    - 87                             X
-    - 90                             X
-    - 93                             X
-    - 96 =========================== X
-    - 99                             X
-    -102                             X
+    db FS Area                        Noise   Voice Target Reference
+    ----- --------------------------- ------- ----- ------ ------------------------
+        0 ==== very loud ============                      (-1 dB TP: EBU R128)
+     -  3                                     X            
+     -  6                                     X            
+     -  9                                     X            
+     - 12 ==== loud =================         X     X      (-12 LUFS s: Usual Maximum of Mixing Engineers)
+     - 15                                     X     X      
+     - 18                                     X     XX     (-18 LUFS s: EBU R128 S1)
+     - 21                                     X     X      
+     - 24 ==== regular ==============         X     X      (-23 LUFS i: EBU R128 S1)
+     - 27                                     X
+     - 30                                     X
+     - 33                                     X
+     - 36 ==== quietly ==============         X
+     - 39                                     X
+     - 42                                     X
+     - 45                                     X
+     - 48 ==== very quietly =========         X
+     - 51                                     X
+     - 54                                     X
+     - 57
+     - 60 ==== Noise Floor Peeks ==== X
+     - 63                             X
+     - 66                             X
+     - 69                             X
+     - 72 ==== Noise Floor Majority = X
+     - 75                             X
+     - 78                             X
+     - 81                             X
+     - 84 =========================== X
+     - 87                             X
+     - 90                             X
+     - 93                             X
+     - 96 =========================== X
+     - 99                             X
+     -102                             X
     ```
 
 - **Visualizations**: there are multiple audio visualizations in practice:
