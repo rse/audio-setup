@@ -64,7 +64,7 @@ for all the basics. Let us recap all those essential basics:
   Music:                                     | 80
   Noisy Restaurant:                          | 90
   Jet Engine:                                | 120
-  Threshold of Pain:                         | 120/140
+  Threshold of Pain:                         | 120 / 140
   Balloon Popping:                           | 157
 
 - **Human Way of Hearing**: as sound pressure increases, more and more
@@ -73,13 +73,15 @@ for all the basics. Let us recap all those essential basics:
   logarithmic way of human hearing, the well-known dB SPL ratios for
   sound are:
 
-    - 1:10 -20 dB SPL
-    - 1:2   -6 dB SPL (double as quiet)
-    - 1:1.5 -3 dB SPL
-    - 1:1    0 dB SPL
-    - 1.5:1 +3 dB SPL
-    - 2:1   +6 dB SPL (double as loud)
-    - 10:1 +20 dB SPL
+  Ratio | dB SPL
+  ----- | -------
+  1:10  | -20
+  1:2   | -6 (double as quiet)
+  1:1.5 | -3
+  1:1   | 0
+  1.5:1 | +3
+  2:1   | +6 (double as loud)
+  10:1  | +20
 
 - **Decibel** is 1/10 of a Bel and a power ratio between two values.
   Keep in mind that Decibel for Power is originally calculated `dB = 10
