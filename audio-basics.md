@@ -136,8 +136,8 @@ for all the basics. Let us recap all those essential basics:
   Spotify Loud:                | -11 LUFS i
 
   Hence, in practice a useful loudness target is to follow EBU R128 S1
-  and try to reach -18 LUFS s and -23 LUFS i. Also, many audio engineers
-  recommend to not target above the loudness of -12 LUFS to still
+  and try to reach -18 LUFS s and -23 LUFS i. Also, many mixing engineers
+  recommend to not target above the loudness of -12 LUFS s to still
   leave enough "headroom" before the "Maximum True Peek Level" reaches
   the "Audio Clipping" area.
 
@@ -164,17 +164,17 @@ for all the basics. Let us recap all those essential basics:
   certain [Audio Parameters](audio-params.md):
 
     ```txt
-    Vol. Area                        Noise   Voice
-    ---- --------------------------- ------- -------
-       0 ==== very loud ============              (-1 dB TP: EBU R128)
-    -  3                                     X
-    -  6                                     X
-    -  9                                     X
-    - 12 ==== loud =================         X
-    - 15                                     X
-    - 18                                    XXX   (-18 LUFS s: EBU R128 S1)
-    - 21                                    XXX
-    - 24 ==== regular ==============        XXX   (-23 LUFS i: EBU R128 S1)
+    Vol. Area                        Noise   Voice Target Reference
+    ---- --------------------------- ------- ----- ------ ------------------------
+       0 ==== very loud ============                      (-1 dB TP: EBU R128)
+    -  3                                     X            
+    -  6                                     X            
+    -  9                                     X            
+    - 12 ==== loud =================         X     X      (-12 LUFS s: Usual Maximum of Mixing Engineers)
+    - 15                                     X     X      
+    - 18                                     X     XX     (-18 LUFS s: EBU R128 S1)
+    - 21                                     X     X      
+    - 24 ==== regular ==============         X     X      (-23 LUFS i: EBU R128 S1)
     - 27                                     X
     - 30                                     X
     - 33                                     X
@@ -207,7 +207,7 @@ for all the basics. Let us recap all those essential basics:
    - **Volume Meter** is a usual 1-D audio visualization showing the Volume (dBFS/LUFS).
    - **Frequency Spectrum** is a usual 2-D audio visualization (of equalizers) showing on the
      x-axis the Frequency (Hz) and on the y-axis the Volume (dBFS/LUFS).
-   - **Envelope Graph** is a usual 2-D audio visualization (or
+   - **Envelope Graph** (german **Hüllkurve**) is a usual 2-D audio visualization (or
      expanders, de-essers, and compressors) showing on the x-axis the time
      (s) and on the y-axis the Volume (dBFS/LUFS) of left (positive) and
      right (negative) channels.
