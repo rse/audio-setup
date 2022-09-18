@@ -4,9 +4,6 @@ Audio Chain
 
 Version 1.1.7 (2022-09-18)
 
-Audio Chain
------------
-
 The general microphone audio processing chain is (in this order of individual processors):
 
 - Spectrum Processors:
