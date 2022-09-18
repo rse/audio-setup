@@ -5,7 +5,7 @@ Audio Setup
 Audio Chain
 -----------
 
-Version 1.1.6 (2022-07-20)
+Version 1.1.7 (2022-09-18)
 
 The opinionated real-time audio chain currently used by [Dr. Ralf S. Engelschall](https://engelschall.com) in
 his various real-time video streaming setups is based on a [logical audio processing graph](audio-chain.pdf)
