@@ -332,6 +332,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.antarestech.com/product/sybil/)
   [Download](https://www.antarestech.com/product/sybil/)
 
+- **TB Sibalance** 4.0.0:2022 ($$)<br/>
+  Audio VST Plugin (Variable-Frequency De-Esser, Spectral-Based)<br/>
+  [Homepage](https://www.toneboosters.com/tb_sibalance_v4.html)
+  [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
+
 ### VST Plugin: Equalization
 
 - **Waves F6** 14.0.0 ($$) [RECOMMENDED]<br/>
@@ -389,6 +394,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.voxengo.com/product/marvelgeq/)
   [Download](https://www.voxengo.com/files/VoxengoMarvelGEQ_111_Win32_64_VST_VST3_AAX_setup.exe)
 
+- **TB Equalizer** 1.5.3:2022 ($$)<br/>
+  Audio VST Plugin (Parametric Equalizer)<br/>
+  [Homepage](https://www.toneboosters.com/tb_equalizer_v4.html)
+  [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
+
 ### VST Plugins: Ducking
 
 - **Wavesfactory Trackspacer** 2.5.9 ($$) [RECOMMENDED]<br/>
@@ -443,6 +453,28 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
+- **TB Compressor 4** 4:2022 ($$)<br/>
+  Audio VST Plugin (Compressor)<br/>
+  [Homepage](https://www.toneboosters.com/tb_compressor_v4.html)
+  [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
+
+### VST Plugin: Multi-Band Compression/Sculpting
+
+- **TB MBC** 0:2022 ($$)<br/>
+  Audio VST Plugin (10-Band Compressor Upward/Downward)<br/>
+  [Homepage](https://www.toneboosters.com/tb_mbc_v1.html)
+  [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
+
+- **FabFilter Pro-MB** 1.26:2022 ($$$)<br/>
+  Audio VST Plugin (Compressor)<br/>
+  [Homepage](https://www.fabfilter.com/products/pro-mb-multiband-compressor-plug-in)
+  [Download](https://www.fabfilter.com/downloads/ffpromb126x64.exe)
+
+- **BlueCat's MB-5 Dynamix** 2.2:2021 ($$$)<br/>
+  Audio VST Plugin (Multi-Band Compressor, Limiter, Gate, Expander, Waveshaper)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_MB5Dynamix/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_MB5Dynamix/BlueCatMB5DynamixVST3Demo-x64Setup.exe)
+
 ### VST Plugin: Expansion/Gating
 
 - **BlueCat Dynamics** 4.4 ($$) [RECOMMENDED]<br/>
@@ -475,7 +507,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/pse-primary-source-expander)
   [Download](https://www.waves.com/plugins/pse-primary-source-expander)
 
-### VST Plugin: Saturation
+### VST Plugin: Exciter/Saturation
 
 - **Slate Digital Fresh Air** 1.0.8 (0) [RECOMMENDED]<br/>
   Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
@@ -496,6 +528,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (analog saturation modeler) (latency: ?)<br/>
   [Homepage](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in)
   [Download](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in)
+
+- **TB Enhancer** 1:2022 ($$)<br/>
+  Audio VST Plugin (Exciter)<br/>
+  [Homepage](https://www.toneboosters.com/tb_enhancer_v1.html)
+  [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
 
 ### VST Plugin: Vocoding
 
@@ -538,6 +575,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tokyodawn.net/vladg-limiter-n6/)
   [Download](https://www.tokyodawn.net/labs/vladgsound/Limiter6-v102b.zip?x24775)
 
+- **TB Barricade 4** 4:2022 ($$)<br/>
+  Audio VST Plugin (Limiter)<br/>
+  [Homepage](https://www.toneboosters.com/tb_barricade_v4.html)
+  [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
+
 - **LoudMax** 1.41 (0)<br/>
   Audio VST Plugin (Limiter) (latency: 60smp/1.25ms)<br/>
   [Homepage](https://loudmax.blogspot.com/)
@@ -557,6 +599,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Limiter)<br/>
   [Homepage](https://www.sonible.com/smartlimit/)
   [Download](https://www.sonible.com/smartlimit/)
+
+- **BlueCat's Protector** 2.3:2021 ($$)<br/>
+  Audio VST Plugin (Limiter)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_Protector/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_Protector/BlueCatProtectorVST3Demo-x64Setup.exe)
 
 ### VST Plugin: Volume Loudness Maximization
 
@@ -632,6 +679,13 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.hornetplugins.com/plugins/hornet-autogain-pro-mk2/)
   [Download](https://www.hornetplugins.com/wp-content/demo/HoRNetAutoGainProMK2-2.1.0-demo.zip)
 
+### VST Plugin: Volume Control
+
+- **BlueCat's Gain Suite** 3.43:2022 (0)<br/>
+  Audio VST Plugin (Volume Gain)<br/>
+  [Homepage](https://www.hornetplugins.com/plugins/hornet-autogain-pro-mk2/)
+  [Download](https://www.hornetplugins.com/wp-content/demo/HoRNetAutoGainProMK2-2.1.0-demo.zip)
+
 ### VST Plugin: Microphone Auto-Mixing
 
 - **WT Automixer V2** 2.01:2021 ($$$) [RECOMMENDED]<br/>
@@ -698,6 +752,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalyst/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalyst/BlueCatFreqAnalystVST3-x64Setup.exe)
 
+- **TB Spectrogram** (0)<br/>
+  Audio VST Plugin (Spectrum Visualizer)<br/>
+  [Homepage](https://www.toneboosters.com/tb_spectrogram_v1.html)
+  [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
+
 - **iZotope Insight 2** ($$$)<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.izotope.com/en/products/insight.html)
@@ -728,14 +787,19 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Device Simulation
 
 - **Audified MixChecker Pro** 0:2022 ($$$)<br/>
-  Audio VST Plugin (Similate Devices)<br/>
+  Audio VST Plugin (Simulate Mic/Speaker Devices)<br/>
   [Homepage](https://shop.audified.com/products/mixchecker-pro)
   [Download](https://shop.audified.com/products/mixchecker-pro)
 
 - **ADSR Speakers** 0:2022 ($$)<br/>
-  Audio VST Plugin (Similate Devices)<br/>
+  Audio VST Plugin (Simulate Speaker Devices)<br/>
   [Homepage](https://www.adsrsounds.com/product/software/audiothing-speakers-speaker-simulator-plugin/)
   [Download](https://www.adsrsounds.com/product/software/audiothing-speakers-speaker-simulator-plugin/)
+
+- **BlueCat's Re-Head** 1.2:2022 ($$)<br/>
+  Audio VST Plugin (Simulate Headphone Devices)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_ReHead/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_ReHead/BlueCatReHeadVST3Demo-x64Setup.exe)
 
 ### VST Plugin: Sender/Receiver
 
@@ -758,6 +822,23 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (High-Quality Network Audio Streaming, Conference Mode)<br/>
   [Homepage](https://www.sonobus.net/)
   [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
+
+### VST Plugin: Scripting
+
+- **BlueCat's Plug'n'Script** 3.32:2022 ($$)<br/>
+  Audio VST Plugin (AngelScript Scripting)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_PlugNScript/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_PlugNScript/BlueCatPlugNScriptVST3Demo-x64Setup.exe)
+
+- **OSAR ProtoPlug** 1.4.0:2018 ($$)<br/>
+  Audio VST Plugin (Lua Scripting)<br/>
+  [Homepage](https://www.osar.fr/protoplug/)
+  [Download](https://github.com/pac-dev/protoplug/releases/download/v1.4.0/protoplug-1.4.0-win64.zip)
+
+- **Reaper ReaPlugs ReaJS** 2.36:2016 ($$)<br/>
+  Audio VST Plugin (JavaScript Scripting)<br/>
+  [Homepage](https://www.reaper.fm/sdk/reascript/reascript.php)
+  [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
 ### Companion Technology: Dante
 
