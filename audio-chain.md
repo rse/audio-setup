@@ -24,8 +24,9 @@ The general microphone audio processing chain is (in this order of individual pr
     - Exciter       (optional)
 - Dynamics Processors:
     - Expander/Gate (mandatory)
-    - Leveler       (optional)
     - Compressor    (recommended)
+    - Automixer     (optional)
+    - Leveler       (optional)
     - Limiter       (mandatory)
 
 ### Hosting
