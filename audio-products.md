@@ -730,6 +730,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/wlm-loudness-meter)
   [Download](https://www.waves.com/plugins/wlm-loudness-meter)
 
+- **MeterPlugs Loudness Penalty** ($$)<br/>
+  Audio VST Plugin (Volume Meter, LUFS Comparison for Target Platforms)<br/>
+  [Homepage](https://www.meterplugs.com/loudness-penalty)
+  [Download](https://www.meterplugs.com/loudness-penalty)
+
 ### VST Plugin: Spectrum Visualization
 
 - **Voxengo SPAN Plus** 3.14 ($$) [RECOMMENDED]<br/>
