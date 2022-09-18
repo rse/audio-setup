@@ -129,7 +129,9 @@ for all the basics. Let us recap all those essential basics:
   Spotify:                     | -14 LUFS i
   YouTube:                     | -14 LUFS i
   Amazon Music:                | -14 LUFS i
+  Tidal:                       | -14 LUFS i
   Deezer:                      | -15 LUFS i
+  Pandora:                     | -16 LUFS i
   Apple Music / Apple Podcast: | -16 LUFS i
   Spotify Quiet:               | -23 LUFS i
   EBU R128 S1 (TV):            | -23 LUFS i, -18 LUFS s
@@ -159,6 +161,21 @@ for all the basics. Let us recap all those essential basics:
   measured unit for "Maximum True Peel Level" instead of dB FS and hence
   the limiting usually is recommended to be at -1.0 dB TP.
 
+- **Dynamic Range**: the Decibel between the
+  Maximum Peek Level (db FS) and the Minimum Peek Level (db FS).
+  Music usually needs a much larger Dynamic Range than Voice.
+
+- **Crest Factor**: or Peak to Short Term Loudness (PSR) is the ratio
+  of the **Maximum True Peek Level** and the average loudness (usually
+  in LUFS s). The Crest Factor indicates how large the (upper part of
+  the) dynamic range is or how extreme the (upper) peaks are. A Crest
+  Factor of 1 indicates no peaks at all. Higher Crest Factors indicate
+  stronger peaks and hence a wider dynamic range. The art of audio
+  mastering is to find a reasonable balance between Crest Factor (wide
+  dynamic range) and Loudness. Crest itself is sometimes also the name
+  for the plain db FS difference between Maximum True Peek Level and the
+  average loudness.
+
 - **Loudness/Volume Scale**: The audio volume full scale can be somewhat
   segmented in 3 dB steps (1.5 louder/quieter) like this and noise and
   voice areas marked on it for a reference for the configuration of
@@ -168,13 +185,13 @@ for all the basics. Let us recap all those essential basics:
     db FS Area                        Noise   Voice Target Reference
     ----- --------------------------- ------- ----- ------ ------------------------
         0 ==== very loud ============                      (-1 dB TP: EBU R128)
-     -  3                                     X            
-     -  6                                     X            
-     -  9                                     X            
+     -  3                                     X
+     -  6                                     X
+     -  9                                     X
      - 12 ==== loud =================         X     X      (-12 LUFS s: Usual Maximum of Mixing Engineers)
-     - 15                                     X     X      
+     - 15                                     X     X
      - 18                                     X     XX     (-18 LUFS s: EBU R128 S1)
-     - 21                                     X     X      
+     - 21                                     X     X
      - 24 ==== regular ==============         X     X      (-23 LUFS i: EBU R128 S1)
      - 27                                     X
      - 30                                     X
