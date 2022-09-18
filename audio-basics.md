@@ -125,15 +125,16 @@ for all the basics. Let us recap all those essential basics:
 
   Organization                 | Loudness Target
   ---------------------------- | ----------------------
-  Netflix (Dialog):            | -27 LUFS i
-  EBU R128 (Cinema, TV):       | -23 LUFS i
-  EBU R128 S1 (TV):            | -23 LUFS i, -18 LUFS s
-  Apple Music / Apple Podcast: | -16 LUFS i
-  Deezer:                      | -15 LUFS i
-  Amazon Music:                | -14 LUFS i
-  YouTube:                     | -14 LUFS i
-  Spotify:                     | -14 LUFS i
   Spotify Loud:                | -11 LUFS i
+  Spotify:                     | -14 LUFS i
+  YouTube:                     | -14 LUFS i
+  Amazon Music:                | -14 LUFS i
+  Deezer:                      | -15 LUFS i
+  Apple Music / Apple Podcast: | -16 LUFS i
+  Spotify Quiet:               | -23 LUFS i
+  EBU R128 S1 (TV):            | -23 LUFS i, -18 LUFS s
+  EBU R128 (Cinema, TV):       | -23 LUFS i
+  Netflix (Dialog):            | -27 LUFS i
 
   Hence, in practice a useful loudness target is to follow EBU R128 S1
   and try to reach -18 LUFS s and -23 LUFS i. Also, many mixing engineers
