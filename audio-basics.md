@@ -84,8 +84,8 @@ for all the basics. Let us recap all those essential basics:
   10 : 1  | +20
 
 - **Decibel** is 1/10 of a Bel and a power ratio between two values.
-  Keep in mind that Decibel for Power is originally calculated `dB = 10
-  * log(Power-Measured / Power-Reference)` while Decibel for Voltage
+  Keep in mind that Decibel for Power is originally calculated `dB = 10 *
+  log(Power-Measured / Power-Reference)` while Decibel for Voltage
   and Sound Pressure (this context here) is calculated as `dB = 20 *
   log(Value-Measured / Value-Reference)`. So, be careful when reading
   about dB calculations in general and applying it in the context of
