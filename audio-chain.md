@@ -17,6 +17,7 @@ The general microphone audio processing chain is (in this order of individual pr
 - Dynamics Processors:
     - **Expander/Gate**   (mandatory):    expand   dynamic range (attenuate volume below a threshold)
     - **Compressor**      (recommended):  compress dynamic range (makeup and then attenuate volume above a threshold)
+- Dynamics Processors (mix):
     - **Automixer**       (optional):     balance multiple microphones (attenuates inactive ones)
     - **Leveler**         (optional):     smoothly attenuate/boost volume to reach a target volume level
     - **Limiter**         (mandatory):    squeeze volume below a maximum true peek level
