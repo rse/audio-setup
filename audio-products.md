@@ -159,6 +159,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://kilohearts.com/products/kilohearts_essentials)
   [Download](https://kilohearts.com/products/kilohearts_essentials)
 
+- **Dead Duck Software Free Effects** :2021 (0)<br/>
+  Comprehensive Audio VST Plugin-Suite (VST2 only)<br/>
+  [Homepage](https://www.kvraudio.com/product/free-effects-by-dead-duck-software)
+  [Download](https://www.kvraudio.com/product/free-effects-by-dead-duck-software)
+
 ### VST Plugin: All-In-One
 
 - **Speachy** 1.0:2020 ($$) [RECOMMENDED]<br/>
@@ -873,6 +878,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Tone Generator, Effect Generator)<br/>
   [Homepage](https://deviousmachines.com/product/infiltrator/)
   [Download](https://deviousmachines.com/dm_builds/latest/Install%20Infiltrator%201.2.15%20Windows.exe)
+
+- **Credland Audio Pink** 1.1.1:2021 (0)<br/>
+  Audio VST Plugin (Pink Noise Generator)<br/>
+  [Homepage](https://www.credland.net/pink.html)
+  [Download](https://www.credland.net/downloads/Install%20Pink%201.1.1%20Windows.exe)
 
 ### Companion Technology: Dante
 
