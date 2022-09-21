@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.17 (2022-09-17)
+Version 1.1.18 (2022-09-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -564,6 +564,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Stereo Panning) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/s1-stereo-imager)
   [Download](https://www.waves.com/plugins/s1-stereo-imager)
+
+- **Credland Audio Stereo Savage** 14:2022 ($$)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
+  [Homepage](https://www.credland.net/stereoSavage.html)
+  [Download](https://www.credland.net/stereoSavage.html)
 
 ### VST Plugin: Volume Limiting
 
