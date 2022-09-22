@@ -870,7 +870,7 @@ of setting up various audio chains at home and in the software industry.
 ### VST Plugin: Tone Generator
 
 - **Waves eMo Generator** 14:2022 ($$)<br/>
-  Audio VST Plugin (Tone Generator)<br/>
+  Audio VST Plugin (Tone Generator, Sine/White/Pink)<br/>
   [Homepage](https://www.waves.com/plugins/emo-generator)
   [Download](https://www.waves.com/plugins/emo-generator)
 
