@@ -169,6 +169,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.kvraudio.com/product/free-effects-by-dead-duck-software)
   [Download](https://www.kvraudio.com/product/free-effects-by-dead-duck-software)
 
+- **Analog Obsession Free Plugins** :2022 (0)<br/>
+  Comprehensive Audio VST Plugin-Suite<br/>
+  [Homepage](https://www.patreon.com/analogobsession)
+  [Download](https://www.patreon.com/analogobsession/posts)
+
+- **Variety Of Sound Free Plugins** :2022 (0)<br/>
+  Comprehensive Audio VST Plugin-Suite<br/>
+  [Homepage](https://varietyofsound.wordpress.com/
+  [Download](https://varietyofsound.wordpress.com/downloads)
+
 ### VST Plugin: All-In-One
 
 - **Speachy** 1.0:2020 ($$) [RECOMMENDED]<br/>
