@@ -455,6 +455,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
+- **Waves C14** 14:2022 ($$)<br/>
+  Audio VST Plugin (Compressor, Expander, Gate)<br/>
+  [Homepage](https://www.waves.com/plugins/c1-compressor)
+  [Download](https://www.waves.com/plugins/c1-compressor)
+
 - **TB Compressor 4** 4:2022 ($$)<br/>
   Audio VST Plugin (Compressor)<br/>
   [Homepage](https://www.toneboosters.com/tb_compressor_v4.html)
