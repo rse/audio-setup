@@ -159,6 +159,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://kilohearts.com/products/kilohearts_essentials)
   [Download](https://kilohearts.com/products/kilohearts_essentials)
 
+- **Voxengo Free VST Plugin** :2022 (0)<br/>
+  Comprehensive Audio VST Plugin-Suite<br/>
+  [Homepage](https://www.voxengo.com/group/free-vst-plugin-download/)
+  [Download](https://www.voxengo.com/group/free-vst-plugin-download/)
+
 - **Dead Duck Software Free Effects** :2021 (0)<br/>
   Comprehensive Audio VST Plugin-Suite (VST2 only)<br/>
   [Homepage](https://www.kvraudio.com/product/free-effects-by-dead-duck-software)
@@ -893,6 +898,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Pink Noise Generator)<br/>
   [Homepage](https://www.credland.net/pink.html)
   [Download](https://www.credland.net/downloads/Install%20Pink%201.1.1%20Windows.exe)
+
+- **Voxengo Beeper** 2.10:2022 (0)<br/>
+  Audio VST Plugin (Beep Generator)<br/>
+  [Homepage](https://www.voxengo.com/product/beeper/)
+  [Download](https://www.voxengo.com/files/VoxengoBeeper_210_Win32_64_VST_VST3_AAX_setup.exe)
 
 ### Companion Technology: Dante
 
