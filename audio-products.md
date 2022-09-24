@@ -37,15 +37,15 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4053:2022 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4054:2022 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4053.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4054.exe)
 
-- **Audiostrom Live professor** 2022.1.1:2022 ($$)<br/>
+- **Audiostrom Live professor** 2022.1.4:2022 ($$)<br/>
   VST Host<br/>
   [Homepage](https://audiostrom.com/)
-  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2022-1-1/LiveProfessor-win-x64.msi)
+  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2022-1-4/LiveProfessor-win-x64.msi)
 
 - **VSL Vienna Ensemble Pro 7** 7:2022 ($$$)<br/>
   VST Host (provides client VST plugin)<br/>
@@ -57,10 +57,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://github.com/falkTX/Carla/)
   [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.0/Carla-2.5.0-win64.zip)
 
-- **Kushview Element** 0.46.3:2022 ($)<br/>
+- **Kushview Element** 0.46.6:2022 ($)<br/>
   VST Host (fully free)<br/>
   [Homepage](https://kushview.net/element/)
-  [Download](
+  [Download](https://github.com/kushview/Element/releases/download/0.46.6/element-win64-0.46.6.exe)
 
 - **Audified inTone 2** 2.5.9 ($$)<br/>
   VST Host<br/>
