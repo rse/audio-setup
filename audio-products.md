@@ -416,6 +416,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.toneboosters.com/tb_equalizer_v4.html)
   [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
 
+- **lkjb QRange** 1.1.4:2020 ($$)<br/>
+  Audio VST Plugin (Parametric Equalizer, 12-band)<br/>
+  [Homepage](https://lkjbdsp.wordpress.com/qrange/)
+  [Download](https://static.kvraudio.com/files/1924/lkjb_qrange_win_114.zip)
+
+- **Manda Audio 7Q** 1.0.1:2020 ($$)<br/>
+  Audio VST Plugin (Graphical Equalizer, 7-band)<br/>
+  [Homepage](https://www.manda-audio.com/products.php)
+  [Download](https://downloads.manda-audio.com/download76187/7Q/1.0.1/en/7Q-1.0.1-VST-64bit-Win-FULL.zip)
+
 ### VST Plugins: Ducking
 
 - **Wavesfactory Trackspacer** 2.5.9 ($$) [RECOMMENDED]<br/>
