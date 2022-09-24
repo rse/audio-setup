@@ -270,7 +270,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.accentize.com/voicegate/)
   [Download](https://www.accentize.com/voicegate/)
 
-- **Acon Digital Extract Dialog** 1.1.6 ($$)<br/>
+- **Acon Digital Extract Dialog** 1.2.0 ($$)<br/>
   Audio VST Plugin (Voice Cleaner, separates voice via AI/ML) (latency: 6144smp/128ms)<br/>
   [Homepage](https://acondigital.de/produkte/extract-dialogue/)
   [Download](https://acondigital.de/produkte/extract-dialogue/)
@@ -292,15 +292,15 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
+- **Bertom Denoiser** 2.1.0 (0/$)<br/>
+  Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
+  [Homepage](https://bertom.gumroad.com/l/denoiser)
+  [Download](https://bertom.gumroad.com/l/denoiser)
+
 - **Acon Digital Restoration Suite DeNoise** 2.1.2 ($$)<br/>
   Audio VST Plugin (Noise Suppressor)<br/>
   [Homepage](https://acondigital.de/produkte/restoration-suite/)
   [Download](https://acondigital.de/produkte/restoration-suite/)
-
-- **Bertom Denoiser** 2.0.2 (0/$)<br/>
-  Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
-  [Homepage](https://bertom.gumroad.com/l/denoiser)
-  [Download](https://bertom.gumroad.com/l/denoiser)
 
 - **Reaper ReaPlugs ReaFIR** 2.36 (0)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 512smp/10ms)<br/>
@@ -536,6 +536,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://slatedigital.com/fresh-air/)
   [Download](https://slatedigital.com/fresh-air/)
 
+- **Bertom Air Shelf** 1.2.0 (0/$)<br/>
+  Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
+  [Homepage](https://bertom.gumroad.com/l/air-shelf)
+  [Download](https://bertom.gumroad.com/l/air-shelf)
+
 - **Waves LoAir** 14.0 ($)<br/>
   Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/loair)
@@ -589,6 +594,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
   [Homepage](https://www.credland.net/stereoSavage.html)
   [Download](https://www.credland.net/stereoSavage.html)
+
+- **Bertom Phantom Center** 1.0.3 (0/$)<br/>
+  Audio VST Plugin (stereo to mono conversion) (latency: ?)<br/>
+  [Homepage](https://bertom.gumroad.com/l/phantom-center)
+  [Download](https://bertom.gumroad.com/l/phantom-center)
 
 ### VST Plugin: Volume Limiting
 
@@ -798,6 +808,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.izotope.com/en/products/insight.html)
   [Download](https://www.izotope.com/en/products/insight.html)
+
+- **Bertom EQ Curve Analyzer** 1.3.5 (0/$)<br/>
+  Audio VST Plugin (frequency change analyzer) (latency: ?)<br/>
+  [Homepage](https://bertom.gumroad.com/l/eq-curve-analyzer)
+  [Download](https://bertom.gumroad.com/l/eq-curve-analyzer)
 
 ### VST Plugin: Playing/Recording
 
