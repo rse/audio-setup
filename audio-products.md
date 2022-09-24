@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.18 (2022-09-20)
+Version 1.1.19 (2022-09-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -292,7 +292,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
-- **Bertom Denoiser** 2.1.0 (0/$)<br/>
+- **Bertom Denoiser** 2.1.0:2022 (0/$)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
   [Homepage](https://bertom.gumroad.com/l/denoiser)
   [Download](https://bertom.gumroad.com/l/denoiser)
@@ -329,9 +329,9 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.fabfilter.com/products/pro-ds-de-esser-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffprods119x64.exe)
 
-- **Sleepy-Time Lisp** 1.0 (0)<br/>
+- **Sleepy-Time Lisp** 1.0:2014 (0)<br/>
   Audio VST Plugin (De-Esser)<br/>
-  [Homepage](https://plugins4free.com/plugin/1662/)
+  [Homepage](https://sleepytimedsp.tumblr.com/downloads)
   [Download](https://plugins4free.com/get_plug/STDSP_Lisp_x64.zip)
 
 - **Analog Obsession LOADES** 1.0 (0)<br/>
@@ -366,6 +366,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
   [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
 
+- **FabFilter Pro-Q 3** 3.21 ($$$)<br/>
+  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
+  [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
+
 - **TDR Nova GE** 2.1.5 ($$)<br/>
   Audio VST Plugin (Parallel Dynamic Parametric Equalizer) (latency: 187smp/3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-nova-ge/)
@@ -390,11 +395,6 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
-
-- **FabFilter Pro-Q 3** 3.21 ($$$)<br/>
-  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
-  [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
-  [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
 
 - **Eventide SplitEQ** 1.0.12 ($$)<br/>
   Audio VST Plugin (Parameteric Equalizer, seperate tonal and transient) (latency: 80ms)<br/>
@@ -536,7 +536,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://slatedigital.com/fresh-air/)
   [Download](https://slatedigital.com/fresh-air/)
 
-- **Bertom Air Shelf** 1.2.0 (0/$)<br/>
+- **Bertom Air Shelf** 1.2.0:2022 (0/$)<br/>
   Audio VST Plugin (dynamic high frequency processor) (latency: 0)<br/>
   [Homepage](https://bertom.gumroad.com/l/air-shelf)
   [Download](https://bertom.gumroad.com/l/air-shelf)
@@ -595,7 +595,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.credland.net/stereoSavage.html)
   [Download](https://www.credland.net/stereoSavage.html)
 
-- **Bertom Phantom Center** 1.0.3 (0/$)<br/>
+- **Bertom Phantom Center** 1.0.3:2022 (0/$)<br/>
   Audio VST Plugin (stereo to mono conversion) (latency: ?)<br/>
   [Homepage](https://bertom.gumroad.com/l/phantom-center)
   [Download](https://bertom.gumroad.com/l/phantom-center)
@@ -809,7 +809,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.izotope.com/en/products/insight.html)
   [Download](https://www.izotope.com/en/products/insight.html)
 
-- **Bertom EQ Curve Analyzer** 1.3.5 (0/$)<br/>
+- **Bertom EQ Curve Analyzer** 1.3.5:2022 (0/$)<br/>
   Audio VST Plugin (frequency change analyzer) (latency: ?)<br/>
   [Homepage](https://bertom.gumroad.com/l/eq-curve-analyzer)
   [Download](https://bertom.gumroad.com/l/eq-curve-analyzer)
