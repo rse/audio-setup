@@ -62,12 +62,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://kushview.net/element/)
   [Download](https://github.com/kushview/Element/releases/download/0.46.6/element-win64-0.46.6.exe)
 
-- **Audified inTone 2** 2.5.9 ($$)<br/>
+- **Audified inTone 2** 2.5.9:2022 ($$)<br/>
   VST Host<br/>
   [Homepage](https://shop.audified.com/products/intone-2)
   [Download](https://shop.audified.com/products/intone-2)
 
-- **Audified inTone 2 Solo** 2.5.9 ($)<br/>
+- **Audified inTone 2 Solo** 2.5.9:2022 ($)<br/>
   VST Host (reduced funtionality)<br/>
   [Homepage](https://shop.audified.com/products/intone-2-solo-1)
   [Download](https://shop.audified.com/products/intone-2-solo-1)
@@ -96,15 +96,15 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Audio Editor)
 
-- **OcenAudio** 3.11.14:2022 (0)<br/>
+- **OcenAudio** 3.11.15:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.1.3:2022 (0)<br/>
+- **Audacity** 3.2.0:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.1.3/audacity-win-3.1.3-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.2.0/audacity-win-3.2.0-x64.exe)
 
 ### VST Host (Standalone or Plugin)
 
@@ -137,10 +137,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Melda Production MFreeFXBundle** 15.02:2022 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 16.00:2022 (0/$$)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
-  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.00&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_00_setup.exe&checksum=9a1682eb9f2af682f8d47739fd0aef854746c97c)
 
 - **BlueCat Freeware Plug-Ins Pack II** :2022 (0) [RECOMMENDED]<br/>
   Small Audio VST Plugin-Bundle (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
@@ -176,7 +176,7 @@ of setting up various audio chains at home and in the software industry.
 
 - **Variety Of Sound Free Plugins** :2022 (0)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
-  [Homepage](https://varietyofsound.wordpress.com/
+  [Homepage](https://varietyofsound.wordpress.com/)
   [Download](https://varietyofsound.wordpress.com/downloads)
 
 ### VST Plugin: All-In-One
