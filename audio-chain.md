@@ -11,7 +11,9 @@ The general microphone audio processing chain is (in this order of individual pr
     - **De-Noiser**       (mandatory):    reduce background noise
 - Frequency Processors:
     - **De-Esser**        (recommended):  reduce harsh sibilances of voice
-    - **De-Plosive**      (optional):     reduce harsh plosives   of voice
+    - **De-Plosiver**     (optional):     reduce harsh plosives   of voice
+    - **De-Clicker**      (optional):     reduce click sounds     of voice
+    - **De-Breather**     (optional):     reduce breath sounds    of voice
     - **Equalizer**       (mandatory):    attenuate and/or boost volume of certain frequencies
     - **Exciter**         (optional):     optimize high frequences
 - Dynamics Processors:
