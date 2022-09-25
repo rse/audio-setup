@@ -669,6 +669,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/l3-multimaximizer)
   [Download](https://www.waves.com/plugins/l3-multimaximizer)
 
+- **Sonnox Oxford Inflator** 4 ($$$)<br/>
+  Audio VST Plugin (Volume Maximizer)<br/>
+  [Homepage](https://www.sonnox.com/plugin/oxford-inflator-v4)
+  [Download](https://www.sonnox.com/plugin/oxford-inflator-v4)
+
+- **Sonic Anomaly Unlimited** 1.0 (0)<br/>
+  Audio VST Plugin (Volume Maximizer)<br/>
+  [Homepage](https://plugins4free.com/plugin/2843/)
+  [Download](https://plugins4free.com/get_plug/Unlimited_x64.zip)
+
 ### VST Plugin: Volume Leveling
 
 - **Waves Vocal Rider** 2022-05 ($$)<br/>
