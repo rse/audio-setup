@@ -14,8 +14,8 @@ The general microphone audio processing chain is (in this order of individual pr
     - **De-Plosiver**     (optional):     reduce harsh plosives   of voice
     - **De-Clicker**      (optional):     reduce click sounds     of voice
     - **De-Breather**     (optional):     reduce breath sounds    of voice
-    - **Equalizer**       (mandatory):    attenuate and/or boost volume of certain frequencies
-    - **Exciter**         (optional):     optimize high frequences
+    - **Equalizer**       (mandatory):    attenuate and/or boost volume of certain frequencies (static EQ)
+    - **Exciter**         (optional):     optimize high frequences (dynamic EQ)
 - Dynamics Processors:
     - **Expander/Gate**   (mandatory):    expand   dynamic range (attenuate volume below a threshold)
     - **Compressor**      (recommended):  compress dynamic range (makeup and then attenuate volume above a threshold)
