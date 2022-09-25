@@ -22,7 +22,7 @@ The general microphone audio processing chain is (in this order of individual pr
 - Dynamics Processors (mix):
     - **Automixer**       (optional):     balance multiple microphones (attenuates inactive ones)
     - **Leveler**         (optional):     smoothly attenuate/boost volume to reach a target volume level
-    - **Limiter**         (mandatory):    squeeze volume below a maximum true peek level
+    - **Limiter**         (mandatory):    squeeze volume below a maximum true peak level
 
 Audio Graph
 -----------
