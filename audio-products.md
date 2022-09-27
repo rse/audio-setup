@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.19 (2022-09-25)
+Version 1.1.20 (2022-09-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -77,7 +77,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
-### VST Host (Standalone, DAW)
+### VST Host (Standalone, Digital Audio Workstation)
 
 - **BandLab Cakewalk** 2022.02.1:2022 (0)<br/>
   Digital Audio Workstation (with VST support)<br/>
@@ -94,7 +94,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://ardour.org/)
   [Download](https://community.ardour.org/download?platform=win&architecture=x86_64&type=compiled)
 
-### VST Host (Standalone, Audio Editor)
+### VST Host (Standalone, Digital Audio Editor)
 
 - **OcenAudio** 3.11.15:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
@@ -178,6 +178,11 @@ of setting up various audio chains at home and in the software industry.
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://varietyofsound.wordpress.com/)
   [Download](https://varietyofsound.wordpress.com/downloads)
+
+- **GVST Plugins** :2021 (0)<br/>
+  Comprehensive Audio VST Plugin-Suite<br/>
+  [Homepage](https://www.gvst.co.uk/)
+  [Download](https://www.gvst.co.uk/downloads.htm)
 
 ### VST Plugin: All-In-One
 
