@@ -235,15 +235,16 @@ for all the basics. Let us recap all those essential basics:
      the y-axis the outgoing signal Volume (dBFS/LUFS).
 
 - **Generated Sound**: audio engineers sometimes use different generated sounds:
-  **White Noise** consists of random amplitudes across the entire
-  frequency range and can be compared to a waterfall with water falling
-  at different speeds and hitting different surfaces; **Pink Noise**
-  consists of random amplitudes across the entire frequency range where
-  the amplitudes of the higher frequences are less strong than the low
-  frequences and can be compared of a light to medium rainfall; **Brown
-  Noise** consists of random amplitudes across the low and mid frequency
-  range where the amplitudes of the higher frequences are less strong
-  than the low frequences, and can be compared to the hard, gentle surf
-  that comes with a storm; and **Sine Tone** is an amplitude at just a
-  single frequency, and is considered the fundamental sound.
+   - **White Noise** consists of random amplitudes across the entire
+     frequency range and can be compared to a waterfall with water falling
+     at different speeds and hitting different surfaces
+   - **Pink Noise** consists of random amplitudes across the entire frequency range where
+     the amplitudes of the higher frequences are less strong than the low
+     frequences and can be compared of a light to medium rainfall
+   - **Brown Noise** consists of random amplitudes across the low and mid frequency
+     range where the amplitudes of the higher frequences are less strong
+     than the low frequences, and can be compared to the hard, gentle surf
+     that comes with a storm
+   - **Sine Tone** is an amplitude at just a single frequency, and is considered
+     the fundamental sound.
 
