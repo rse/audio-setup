@@ -23,25 +23,27 @@ for all the basics. Let us recap all those essential basics:
 - **Phase** of sound is measured in degrees from 0 (zero), over 90
   (maximum positive), 180 (zero), 270 (maximum negative), to 360 (zero).
 
-- **Frequency** of sound is how many Phase cycles (from 0 to 360 degree) occur
-  per second (cycles per second, cps). Frequency is measured in Hertz (Hz)
-  with 1 cps = 1 Hz. Human range of hearing is from 20 Hz to 20,000
-  Hz. Higher Frequency corresponds to higher musical Pitch. If Frequency
-  is doubled, musical Pitch increases by one Octave.
-
 - **Period** of sound is the time to complete a Phase (from 0 to 360 degree),
   measured in time (usually ms). A sound wave of 1 Hz has a Period of 1
   second, a sound wave of 2 Hz has a Period of 0.5 second.
 
-- **Wavelength** of sound is the physical distance to complete a
-  Phase (from 0 to 360 degree), measured in meters. As a formula:
-  Wavelength = (Speed of Sound) / Frequency.
+- **Frequency** of sound is how many Phase cycles (from 0 to 360 degree) occur
+  per second (cycles per second, cps). Frequency is measured in *Hertz*
+  (Hz) with 1 cps = 1 Hz. Human range of hearing is from 20 Hz to 20,000
+  Hz. Higher Frequency corresponds to higher musical Pitch. If Frequency
+  is doubled, musical Pitch increases by one Octave (a logarithmic unit
+  for ratios between frequencies, with one Octave corresponding exactly
+  to the doubling of Frequency).
 
 - **Speed** of sound is 1130 ft/s = 344 m/s = 0.344 m/ms = 34.4 cm/ms,
   which means that in one millisecond (ms), sound travels about 34 cm in
   a usual room of 15-20 degree celcius. This means in practice that when
   a speaker is 1 meter away from your microphone, the ducking filter
   should have an attack of no more than 3 ms.
+
+- **Wavelength** of sound is the physical distance to complete a
+  Phase (from 0 to 360 degree), measured in meters. As a formula:
+  Wavelength = Speed / Frequency.
 
 - **Amplitude** is the extend of air pressure changes, originally
   measured in Pascal (ps, force per square meter), but, because of the
@@ -53,7 +55,7 @@ for all the basics. Let us recap all those essential basics:
 
   Situation                                  | dB SPL
   ------------------------------------------ | ------
-  Near-Zotal Silence (Threshold of Hearing): | 0
+  Near-Total Silence (Threshold of Hearing): | 0
   Breathing:                                 | 10
   Whispering:                                | 15
   Library Room:                              | 45
@@ -104,8 +106,7 @@ for all the basics. Let us recap all those essential basics:
   LUFS is about the perceived loudness according to the
   [Fletcher Munson curve](https://en.wikipedia.org/wiki/Equal-loudness_contour)
   while RMS is a plain mathematical average loundness. Hence, primarily
-  use LUFS when dealing with loudness and RMS only as an approximation
-  (when only RMS is monitored/reported and not LUFS).
+  use LUFS when dealing with loudness and RMS only as a rough approximation.
 
 - **LUFS** is usually measured over different time ranges:
 
@@ -146,7 +147,7 @@ for all the basics. Let us recap all those essential basics:
   EBU R128 uses -1 dB FS for the "Maximum Tree Peek Level".
 
 - **Audio Clipping** is mainly specific to Digital Audio Processing
-  (DSP) where  0.0 dB FS is usually the highest possible sample
+  (DSP) where 0.0 dB FS is usually the highest possible sample
   peak (because of the usual Fixed Point Value representation), and
   an audio signal peaking higher than that will "clip" and distort.
   Analog audio is a little more complicated than that, but the same
@@ -155,8 +156,8 @@ for all the basics. Let us recap all those essential basics:
   As dB FS is measured per sample, a maximum of 0 dB FS in DSP can still
   lead to clipping in analog audio because of "inter-sample peaks".
   Hence, dB TP (Decibel relative to True Peek) is usually used as the
-  measured unit for "Maximum True Peel Level" instead of dB FS and hence
-  the limiting usually is recommended to be at -1.0 dB TP.
+  measured unit for "Maximum True Peek Level" instead of dB FS and hence
+  the sound limiting usually is recommended to be at -1.0 dB TP.
 
 - **Dynamic Range**: the Decibel between the
   Maximum Peek Level (db FS) and the Minimum Peek Level (db FS).
@@ -219,32 +220,32 @@ for all the basics. Let us recap all those essential basics:
     ```
 
 - **Visualizations**: there are multiple audio visualizations in practice:
-   - **Volume Meter** is a usual 1-D audio visualization showing the Volume (dBFS/LUFS).
+   - **Volume Meter** is a usual 1-D audio visualization showing the Volume (dB FS / LUFS).
    - **Frequency Spectrum** is a usual 2-D audio visualization (of equalizers) showing on the
-     x-axis the Frequency (Hz) and on the y-axis the Volume (dBFS/LUFS).
+     x-axis the Frequency (Hz) and on the y-axis the Volume (dB FS / LUFS).
    - **Envelope Graph** (german **Hüllkurve**) is a usual 2-D audio visualization (of
      expanders, de-essers, and compressors) showing on the x-axis the time
-     (s) and on the y-axis the Volume (dBFS/LUFS) of left (positive) and
+     (s) and on the y-axis the Volume (dB FS / LUFS) of left (positive) and
      right (negative) channels.
    - **Spectogram** is a usual heatmap-style, colored, 2-D audio
      visualization (of noise suppressors) showing on the x-axis the time (s), on the y-axis the
-     Frequency (Hz), and with the color the Volume (dBFS/LUFS).
+     Frequency (Hz), and with the color the Volume (dB FS / LUFS).
    - **Dynamics Response Graph** is a usual static 2-D audio configuration visualization (of
      gates, expanders, compressors, and limiters) showing
-     on the x-axis the incoming signal Volume (dBFS/LUFS) and on
-     the y-axis the outgoing signal Volume (dBFS/LUFS).
+     on the x-axis the incoming signal Volume (dB FS / LUFS) and on
+     the y-axis the outgoing signal Volume (dB FS / LUFS).
 
-- **Generated Sound**: audio engineers sometimes use different generated sounds:
+- **Generated Sound**: audio engineers sometimes use different generated sounds for testing purposes:
    - **White Noise** consists of random amplitudes across the entire
      frequency range and can be compared to a waterfall with water falling
-     at different speeds and hitting different surfaces
+     at different speeds and hitting different surfaces.
    - **Pink Noise** consists of random amplitudes across the entire frequency range where
      the amplitudes of the higher frequences are less strong than the low
-     frequences and can be compared of a light to medium rainfall
+     frequences and can be compared of a light to medium rainfall.
    - **Brown Noise** consists of random amplitudes across the low and mid frequency
      range where the amplitudes of the higher frequences are less strong
      than the low frequences, and can be compared to the hard, gentle surf
-     that comes with a storm
+     that comes with a storm.
    - **Sine Tone** is an amplitude at just a single frequency, and is considered
      the fundamental sound.
 
