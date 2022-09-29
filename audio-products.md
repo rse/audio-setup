@@ -108,7 +108,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone or Plugin)
 
-- **BlueCat PatchWork** 2.52:2022 ($$) [RECOMMENDED]<br/>
+- **BlueCat PatchWork** 2.6:2022 ($$) [RECOMMENDED]<br/>
   VST Host (can act standalone or as a VST plugin itself, even as a VST2 to VST3 converter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
