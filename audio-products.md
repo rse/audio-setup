@@ -453,6 +453,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://shop.audified.com/products/speakup)
   [Download](https://shop.audified.com/products/speakup)
 
+- **SoundRadix Muteomatic** 1.0.3:2022 ($)<br/>
+  Audio VST Plugin (Ducking, VST Host State based)<br/>
+  [Homepage](https://www.soundradix.com/products/muteomatic/)
+  [Download](https://www.soundradix.com/products/muteomatic/)
+
 ### VST Plugin: Compression
 
 - **BlueCat Dynamics** 4.4 ($$) [RECOMMENDED]<br/>
@@ -752,6 +757,18 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Volume Gain, left/right)<br/>
   [Homepage](https://socalabs.com/developer-tools/hugegain/)
   [Download](https://socalabs.com/files/get.php?id=HugeGain_Win.zip)
+
+### VST Plugin: Microphone Auto-Alignment
+
+- **SoundRadix Auto-Align** 1.6:2022 ($$$)<br/>
+  Audio VST Plugin (Microphone Frequence-based De-Comp-Filtering and Phase-Alignment) (latency: ?)<br/>
+  [Homepage](https://www.soundradix.com/products/auto-align/)
+  [Download](https://www.soundradix.com/products/auto-align/)
+
+- **SoundRadix Auto-Align Post 2** 2.0.2:2022 ($$$)<br/>
+  Audio VST Plugin (Post-Production Microphone Frequence-based De-Comp-Filtering and Phase-Alignment) (latency: ?)<br/>
+  [Homepage](https://www.soundradix.com/products/auto-align-post/)
+  [Download](https://www.soundradix.com/products/auto-align-post/)
 
 ### VST Plugin: Microphone Auto-Mixing
 
