@@ -458,6 +458,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.soundradix.com/products/muteomatic/)
   [Download](https://www.soundradix.com/products/muteomatic/)
 
+- **Waves X-FDBK** 14:2022 ($)<br/>
+  Audio VST Plugin (Ducking, automatic one-time-setup, frequency cutting to stop feedback loops)<br/>
+  [Homepage](https://www.soundradix.com/products/muteomatic/)
+  [Download](https://www.soundradix.com/products/muteomatic/)
+
 ### VST Plugin: Compression
 
 - **BlueCat Dynamics** 4.4 ($$) [RECOMMENDED]<br/>
@@ -760,15 +765,25 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Microphone Auto-Alignment
 
+- **SoundRadix PI** 1.1.2:2022 ($$$)<br/>
+  Audio VST Plugin (Dynamic Microphone Frequency-based Phase-Alignment) (latency: ?)<br/>
+  [Homepage](https://www.soundradix.com/products/pi/)
+  [Download](https://www.soundradix.com/products/pi/)
+
 - **SoundRadix Auto-Align** 1.6:2022 ($$$)<br/>
-  Audio VST Plugin (Microphone Frequence-based De-Comp-Filtering and Phase-Alignment) (latency: ?)<br/>
+  Audio VST Plugin (One-Time Microphone Frequency-based De-Comp-Filtering and Phase-Alignment) (latency: ?)<br/>
   [Homepage](https://www.soundradix.com/products/auto-align/)
   [Download](https://www.soundradix.com/products/auto-align/)
 
 - **SoundRadix Auto-Align Post 2** 2.0.2:2022 ($$$)<br/>
-  Audio VST Plugin (Post-Production Microphone Frequence-based De-Comp-Filtering and Phase-Alignment) (latency: ?)<br/>
+  Audio VST Plugin (One-Time Post-Production Microphone Frequency-based De-Comp-Filtering and Phase-Alignment) (latency: ?)<br/>
   [Homepage](https://www.soundradix.com/products/auto-align-post/)
   [Download](https://www.soundradix.com/products/auto-align-post/)
+
+- **Waves TRACT System Calibration** 14:2022 ($$$)<br/>
+  Audio VST Plugin (One-Time Auto-Correction EQ and Time-Alignment)
+  [Homepage](https://www.waves.com/plugins/tract-system-calibration)
+  [Download](https://www.waves.com/plugins/tract-system-calibration)
 
 ### VST Plugin: Microphone Auto-Mixing
 

@@ -16,7 +16,7 @@ for all the basics. Let us recap all those essential basics:
 - **Sound** is a vibration of material, usually of air particles.
   Sound travels as waves of accoustical energy, i.e.,
   sound is based on recurring air pressure changes, alternating between
-  high/positive/compression and low/negative/rarefaction.
+  high/positive/compression/pushed and low/negative/rarefaction/pulled.
   Sound can be visualized as a sine-like curve on a diagram where the
   x-axis is the time and the y-axis is the air pressure.
 
@@ -50,6 +50,14 @@ for all the basics. Let us recap all those essential basics:
   logarithmic scale of the human hearing, in practice is measured in
   Decibel at Sound Pressure Level (dB SPL) -- a logarithmic scale mapped
   onto the linear Pascal scale.
+
+- **Polarity** is the pushing and pulling of air in a Phase.
+  When the Polarity is inverted, the air is being pushed and pulled
+  simultaneously, which means that two opposite Phases counter-position
+  against each other, creating a so-called Phase Cancellation. An
+  alignment of two sounds with 90 degree out of phase effectively halfs
+  the Amplitude. An alignment of two sounds with 180 degree out of phase
+  effectively results in a complete cancellation.
 
 - **Decibel** at Sound Pressure Level (dB SPL) has known ranges:
 
