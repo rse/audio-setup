@@ -863,10 +863,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Spectrum Visualization
 
-- **Voxengo SPAN Plus** 3.14 ($$) [RECOMMENDED]<br/>
+- **Voxengo SPAN Plus** 1.20 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.voxengo.com/product/spanplus/)
-  [Download](https://www.voxengo.com/files/VoxengoSPANPlus_118_Win32_64_VST_VST3_AAX_setup.exe)
+  [Download](https://www.voxengo.com/files/VoxengoSPANPlus_120_Win32_64_VST_VST3_AAX_setup.exe)
 
 - **Voxengo SPAN** 3.14 (0) [RECOMMENDED]<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
