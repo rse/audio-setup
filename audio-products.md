@@ -184,7 +184,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.gvst.co.uk/)
   [Download](https://www.gvst.co.uk/downloads.htm)
 
-### VST Plugin: All-In-One
+### VST Plugin: All-In-One (Channel Strips)
 
 - **Speachy** 1.0:2020 ($$) [RECOMMENDED]<br/>
   All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, Noise Suppressor, Equalizer, Limiter) (latency: 0)<br/>
@@ -201,6 +201,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/scheps-omni-channel)
   [Download](https://www.waves.com/plugins/scheps-omni-channel)
 
+- **Waves Audiotrack** 14.0:2022 ($$) [RECOMMENDED]<br/>
+  All-In-One VST Plugin (EQ, Gate, Compressor) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/audiotrack)
+  [Download](https://www.waves.com/plugins/audiotrack)
+
+- **Waves Renaissance Channel** 14.0:2022 ($$) [RECOMMENDED]<br/>
+  All-In-One VST Plugin (EQ, Gate, Compressor) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/renaissance-channel)
+  [Download](https://www.waves.com/plugins/renaissance-channel)
+
 - **Fuse Audio Labs VCS-1** 2.3 ($$)<br/>
   All-In-One VST Plugin (HPF/LPF, Compressor, Expander, Equalizer, Gate)<br/>
   [Homepage](https://fuseaudiolabs.de/#/pages/product?id=301012112)
@@ -215,6 +225,11 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate, etc) (latency: 384-1024smp/7-21ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
+
+- **Waves CLA MixHub** 14:2022 ($$)<br/>
+  All-In-One VST Plugin (Multi-Track, Compressor, Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/cla-mixhub)
+  [Download](https://www.waves.com/plugins/cla-mixhub)
 
 ### VST Plugin: Reverberation Removal
 
@@ -358,6 +373,18 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Variable-Frequency De-Esser, Spectral-Based)<br/>
   [Homepage](https://www.toneboosters.com/tb_sibalance_v4.html)
   [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
+
+### VST Plugin: De-Breathing
+
+- **Waves DeBreath** 14.0:2022 ($$)<br/>
+  Audio VST Plugin (De-Breather) (latency: 32384smp/674ms)<br/>
+  [Homepage](https://www.waves.com/plugins/debreath)
+  [Download](https://www.waves.com/plugins/debreath)
+
+- **iZotope RX 10 Breath Control** 10:2022 ($$$)<br/>
+  Audio VST Plugin (De-Breather) (latency: ?)<br/>
+  [Homepage](https://www.izotope.com/en/products/rx/features/breath-control.html)
+  [Download](https://www.izotope.com/en/products/rx/features/breath-control.html)
 
 ### VST Plugin: Equalization
 
@@ -588,7 +615,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Vocoding
 
-- **Waves OVOX** 14.0 ($)<br/>
+- **Waves OVox Vocal Resynthesis** 14.0 ($)<br/>
   Audio VST Plugin (vocoder) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ovox-vocal-resynthesis)
   [Download](https://www.waves.com/plugins/ovox-vocal-resynthesis)
