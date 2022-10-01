@@ -404,7 +404,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
 
 - **TDR Nova GE** 2.1.5 ($$)<br/>
-  Audio VST Plugin (Parallel Dynamic Parametric Equalizer) (latency: 187smp/3ms)<br/>
+  Audio VST Plugin (Parallel Dynamic Parametric Equalizer, EQ+Compressor) (latency: 187smp/3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-nova-ge/)
   [Download](https://www.tokyodawn.net/labs/NovaGE/2.1.5/TDR%20Nova%20GE%20Demo%20(installer).zip?x24775)
 
