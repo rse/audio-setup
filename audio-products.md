@@ -790,6 +790,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://socalabs.com/developer-tools/hugegain/)
   [Download](https://socalabs.com/files/get.php?id=HugeGain_Win.zip)
 
+- **MeterPlugs Perception AB** 1.0.3:2022 ($$$)<br/>
+  Audio VST Plugin (A/B Loudness Measurement, Gain Staging Support)<br/>
+  [Homepage](https://www.meterplugs.com/perception-ab)
+  [Download](https://www.meterplugs.com/perception-ab)
+
 ### VST Plugin: Microphone Auto-Alignment
 
 - **SoundRadix PI** 1.1.2:2022 ($$$)<br/>
