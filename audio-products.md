@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.20 (2022-09-27)
+Version 1.1.21 (2022-10-13)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -487,8 +487,8 @@ of setting up various audio chains at home and in the software industry.
 
 - **Waves X-FDBK** 14:2022 ($)<br/>
   Audio VST Plugin (Ducking, automatic one-time-setup, frequency cutting to stop feedback loops)<br/>
-  [Homepage](https://www.soundradix.com/products/muteomatic/)
-  [Download](https://www.soundradix.com/products/muteomatic/)
+  [Homepage](https://www.waves.com/plugins/x-fdbk)
+  [Download](https://www.waves.com/plugins/x-fdbk)
 
 ### VST Plugin: Compression
 
