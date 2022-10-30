@@ -52,10 +52,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.vsl.co.at/de/Vienna_Software_Package/Vienna_Ensemble_Pro)
   [Download](https://www.vsl.co.at/de/Vienna_Software_Package/Vienna_Ensemble_Pro)
 
-- **Carla** 2.5.0:2022 (0)<br/>
+- **Carla** 2.5.2:2022 (0)<br/>
   VST Host (fully free)<br/>
   [Homepage](https://github.com/falkTX/Carla/)
-  [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.0/Carla-2.5.0-win64.zip)
+  [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.2/Carla-2.5.2-win64.zip)
 
 - **Kushview Element** 0.46.6:2022 ($)<br/>
   VST Host (fully free)<br/>
@@ -89,7 +89,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/)
   [Download](https://www.reaper.fm/files/6.x/reaper663_x64-install.exe)
 
-- **Ardour** 6.9:2022 ($$)<br/>
+- **Ardour** 7.0:2022 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://ardour.org/)
   [Download](https://community.ardour.org/download?platform=win&architecture=x86_64&type=compiled)
@@ -101,10 +101,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.2.0:2022 (0)<br/>
+- **Audacity** 3.2.1:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.2.0/audacity-win-3.2.0-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.2.1/audacity-win-3.2.1-x64.exe)
 
 ### VST Host (Standalone or Plugin)
 
@@ -137,10 +137,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Melda Production MFreeFXBundle** 16.00:2022 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 16.01:2022 (0/$$)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
-  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.00&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_00_setup.exe&checksum=9a1682eb9f2af682f8d47739fd0aef854746c97c)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.01&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_01_setup.exe&checksum=9a1682eb9f2af682f8d47739fd0aef854746c97c)
 
 - **BlueCat Freeware Plug-Ins Pack II** :2022 (0) [RECOMMENDED]<br/>
   Small Audio VST Plugin-Bundle (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
@@ -275,12 +275,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://audionamix.com/instant-dialogue-cleaner/)
   [Download](https://audionamix.com/instant-dialogue-cleaner/)
 
-- **Waves Clarity Vx Pro** 2022-05 ($$$)<br/>
+- **Waves Clarity Vx Pro** 14:2022-10 ($$$)<br/>
   Audio VST Plugin (Voice Cleaner, separates voice via AI/ML, CPU-heavy) (latency: 2048smp/48ms)<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx-pro)
   [Download](https://www.waves.com/plugins/clarity-vx-pro)
 
-- **Waves Clarity Vx** 2022-05 ($$)<br/>
+- **Waves Clarity Vx** 14:2022-10 ($$)<br/>
   Audio VST Plugin (Voice Cleaner, separates voice via AI/ML, CPU-heavy) (latency: 2048smp/48ms)<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx)
   [Download](https://www.waves.com/plugins/clarity-vx)
@@ -1095,7 +1095,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://hautetechnique.com/midi/midiview/)
   [Download](https://hautetechnique.com/apps/backend/v1/apps/midiview/latest/win64)
 
-- **TouchOSC** 1.1.4.143 ($) [RECOMMENDED]<br/>
+- **TouchOSC** 1.1.6.150 ($) [RECOMMENDED]<br/>
   OSC/MIDI Control Surface<br/>
   [Homepage](https://hexler.net/touchosc)
   [Download](https://hexler.net/pub/touchosc/touchosc-1.1.4.143-win64.exe)
