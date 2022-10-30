@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.21 (2022-10-13)
+Version 1.1.22 (2022-10-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -612,6 +612,13 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Exciter)<br/>
   [Homepage](https://www.toneboosters.com/tb_enhancer_v1.html)
   [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
+
+### VST Plugin: Transient Shaper
+
+- **Sonic Anomaly Transpire** 170705 (0)<br/>
+  Audio VST Plugin (transient shaper) (latency: ?)<br/>
+  [Homepage](https://plugins4free.com/plugin/2777/)
+  [Download](https://plugins4free.com/get_plug/Transpire_x64.zip)
 
 ### VST Plugin: Vocoding
 
