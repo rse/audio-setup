@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.22 (2022-10-30)
+Version 1.1.23 (2022-10-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -230,6 +230,11 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (Multi-Track, Compressor, Equalizer) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/cla-mixhub)
   [Download](https://www.waves.com/plugins/cla-mixhub)
+
+- **PSP InfiniStrip WIND** :2022 ($$)<br/>
+  All-In-One VST Plugin (Multi-Track, Compressor, Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.pspaudioware.com/products/psp-infinistrip)
+  [Download](https://www.pspaudioware.com/products/psp-infinistrip)
 
 ### VST Plugin: Reverberation Removal
 
