@@ -42,6 +42,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4054.exe)
 
+- **Steinberg VST Live** :2022 ($$)<br/>
+  VST Host (from the inventor of VST)<br/>
+  [Homepage](https://www.steinberg.net/de/vst-live/)
+  [Download](https://www.steinberg.net/de/vst-live/)
+
 - **Audiostrom Live professor** 2022.1.4:2022 ($$)<br/>
   VST Host<br/>
   [Homepage](https://audiostrom.com/)
