@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.23 (2022-10-31)
+Version 1.1.24 (2022-11-18)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -15,7 +15,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### Audio Mixer/Routing
 
-- **VB-Audio VoiceMeeter Potato** 3.0.2.2:2022 ($) [RECOMMENDED]<br/>
+- **VB-Audio VoiceMeeter Potato** 3.0.2.8:2022 ($) [RECOMMENDED]<br/>
   Audio Channel Mixer (including four built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
@@ -37,10 +37,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4054:2022 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4055:2022 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4054.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4055.exe)
 
 - **Steinberg VST Live** :2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
@@ -89,10 +89,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bandlab.com/products/cakewalk)
   [Download](https://downloads.bandlab.com/cakewalk/setup/CakewalkSetup.exe)
 
-- **Cockos Reaper** 6.63:2022 ($$)<br/>
+- **Cockos Reaper** 6.70:2022 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
-  [Download](https://www.reaper.fm/files/6.x/reaper663_x64-install.exe)
+  [Download](https://www.reaper.fm/files/6.x/reaper670_x64-install.exe)
 
 - **Ardour** 7.0:2022 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
@@ -1075,7 +1075,7 @@ of setting up various audio chains at home and in the software industry.
 
 - **SAR** 0.13.2:2021 (0)<br/>
   Virtual ASIO Driver for ASIO and WDM-KS (ATTEBTION: REQUIRES ADMIN PRIVILEGES FOR DAW AND TESTSIGNING ENABLED)<br/>
-  [Homepage](http://sar.audio/)
+  [Homepage](https://github.com/eiz/SynchronousAudioRouter/)
   [Download](https://github.com/eiz/SynchronousAudioRouter/releases/download/v0.13.2/SynchronousAudioRouter_x64.msi)
 
 - **ASIOConfig** 1.0.1:2017 (0)<br/>
@@ -1095,37 +1095,37 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tobias-erichsen.de/software/rtpmidi.html)
   [Download](https://www.tobias-erichsen.de/wp-content/uploads/2020/01/rtpMIDISetup_1_1_14_247.zip)
 
-- **Protokol** 0.4.5.89 (0)<br/>
+- **Protokol** 0.4.8.93 (0)<br/>
   MIDI/OSC Event Viewer<br/>
   [Homepage](https://hexler.net/protokol)
-  [Download](https://hexler.net/pub/protokol/protokol-0.4.5.89-win64.exe)
+  [Download](https://hexler.net/pub/protokol/protokol-0.4.8.93-win64.exe)
 
-- **MIDIView** 1.2.0 (0)<br/>
+- **MIDIView** 1.3.0 (0)<br/>
   MIDI Event Viewer<br/>
   [Homepage](https://hautetechnique.com/midi/midiview/)
   [Download](https://hautetechnique.com/apps/backend/v1/apps/midiview/latest/win64)
 
-- **TouchOSC** 1.1.6.150 ($) [RECOMMENDED]<br/>
+- **TouchOSC** 1.1.7.154 ($) [RECOMMENDED]<br/>
   OSC/MIDI Control Surface<br/>
   [Homepage](https://hexler.net/touchosc)
-  [Download](https://hexler.net/pub/touchosc/touchosc-1.1.4.143-win64.exe)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.1.7.154-win64.exe)
 
-- **Open Stage Control** 1.17.0 (0)<br/>
+- **Open Stage Control** 1.20.0 (0)<br/>
   OSC/MIDI Control Surface<br/>
   [Homepage](https://openstagecontrol.ammd.net/)
-  [Download](https://github.com/jean-emmanuel/open-stage-control/releases/download/v1.17.0/open-stage-control-1.17.0-win32-x64.zip)
+  [Download](https://github.com/jean-emmanuel/open-stage-control/releases/download/v1.20.0/open-stage-control-1.20.0-win32-x64.zip)
 
-- **OSC/Pilot** 1.8.8 ($$)<br/>
+- **OSC/Pilot** 1.9.3 ($$)<br/>
   OSC Control Surface<br/>
   [Homepage](https://oscpilot.com/)
-  [Download](https://software.mau5trap.com/OSCpilot-Installer-v1.8.8.exe)
+  [Download](https://software.mau5trap.com/OSCpilot-Installer-v1.9.3.exe)
 
 - **OSC/PAR** 1.1.2 ($$)<br/>
   VST Plugin sending MIDI and automation events as OSC messages<br/>
   [Homepage](https://oscpilot.com/pages/osc-par)
   [Download](https://software.mau5trap.com/OSCpar-v1.1.2.exe)
 
-- **BlueCat's Remote Control** 3.0 ($$)<br/>
+- **BlueCat's Remote Control** 3.1 ($$)<br/>
   MIDI Control Surface (VST Plugin)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_RemoteControl/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_RemoteControl/BlueCatRemoteControlVST3Demo-x64Setup.exe)
@@ -1162,7 +1162,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://quietart.co.nz/catchinsync/)
   [Download](https://quietart.co.nz/catchinsync/)
 
-- **Voice Attack** 1.8.9 (0)<br/>
+- **Voice Attack** 1.10.3 (0)<br/>
   Voice Control Commands<br/>
   [Homepage](https://voiceattack.com/)
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
