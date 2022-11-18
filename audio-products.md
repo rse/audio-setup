@@ -1035,6 +1035,18 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.voxengo.com/product/beeper/)
   [Download](https://www.voxengo.com/files/VoxengoBeeper_210_Win32_64_VST_VST3_AAX_setup.exe)
 
+### VST Plugin: Voice Tone Adjustment
+
+- **Auto-Tune Pro X** :2022 ($$$)<br/>
+  Audio VST Plugin (Pitch Correction)<br/>
+  [Homepage](https://www.antarestech.com/products/auto-tune/pro)
+  [Download](https://www.antarestech.com/products/auto-tune/pro)
+
+- **Melodyne** :2022 ($$)<br/>
+  Audio VST Plugin (Pitch Correction)<br/>
+  [Homepage](https://www.celemony.com/en/melodyne/what-is-melodyne)
+  [Download](https://www.celemony.com/en/melodyne/what-is-melodyne)
+
 ### Companion Technology: Dante
 
 - **Dante Controller** 4.6.0.9 (0)<br/>
