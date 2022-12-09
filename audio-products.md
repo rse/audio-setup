@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.24 (2022-11-18)
+Version 1.1.25 (2022-12-09)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -37,10 +37,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4055:2022 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4057:2022 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4055.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4057.exe)
 
 - **Steinberg VST Live** :2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
@@ -84,32 +84,32 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Digital Audio Workstation)
 
-- **BandLab Cakewalk** 2022.02.1:2022 (0)<br/>
+- **BandLab Cakewalk** 2022.11.1:2022 (0)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.bandlab.com/products/cakewalk)
   [Download](https://downloads.bandlab.com/cakewalk/setup/CakewalkSetup.exe)
 
-- **Cockos Reaper** 6.70:2022 ($$)<br/>
+- **Cockos Reaper** 6.71:2022 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
-  [Download](https://www.reaper.fm/files/6.x/reaper670_x64-install.exe)
+  [Download](https://www.reaper.fm/files/6.x/reaper671_x64-install.exe)
 
-- **Ardour** 7.0:2022 ($$)<br/>
+- **Ardour** 7.1:2022 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://ardour.org/)
   [Download](https://community.ardour.org/download?platform=win&architecture=x86_64&type=compiled)
 
 ### VST Host (Standalone, Digital Audio Editor)
 
-- **OcenAudio** 3.11.15:2022 (0)<br/>
+- **OcenAudio** 3.11.18:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.2.1:2022 (0)<br/>
+- **Audacity** 3.2.2:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.2.1/audacity-win-3.2.1-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.2.2/audacity-win-3.2.2-x64.exe)
 
 ### VST Host (Standalone or Plugin)
 
@@ -125,7 +125,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Plugin Only)
 
-- **BlueCat MB-7 Mixer** 3.42:2022 ($$)<br/>
+- **BlueCat MB-7 Mixer** 3.5:2022 ($$)<br/>
   7-Band VST Host (acts as a VST plugin itself)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
   [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
@@ -142,10 +142,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Melda Production MFreeFXBundle** 16.01:2022 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 16.02:2022 (0/$$)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
-  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.01&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_01_setup.exe&checksum=9a1682eb9f2af682f8d47739fd0aef854746c97c)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_02_setup.exe&checksum=45d212c7fa859131cdc60ed91a91896309127467)
 
 - **BlueCat Freeware Plug-Ins Pack II** :2022 (0) [RECOMMENDED]<br/>
   Small Audio VST Plugin-Bundle (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
@@ -322,7 +322,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
-- **Bertom Denoiser** 2.1.0:2022 (0/$)<br/>
+- **Bertom Denoiser** 2.1.2:2022 (0/$)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
   [Homepage](https://bertom.gumroad.com/l/denoiser)
   [Download](https://bertom.gumroad.com/l/denoiser)
@@ -637,6 +637,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/ovox-vocal-resynthesis)
   [Download](https://www.waves.com/plugins/ovox-vocal-resynthesis)
 
+- **iZotope VocalSynth 2** 0.0 ($)<br/>
+  Audio VST Plugin (vocoder) (latency: ?)<br/>
+  [Homepage](https://www.izotope.com/en/products/vocalsynth.html)
+  [Download](https://www.izotope.com/en/products/vocalsynth.html)
+
 ### VST Plugin: Channel Panning
 
 - **iZotope Ozone Imager V2** 2022 (0)<br/>
@@ -799,8 +804,8 @@ of setting up various audio chains at home and in the software industry.
 
 - **BlueCat's Gain Suite** 3.43:2022 (0)<br/>
   Audio VST Plugin (Volume Gain)<br/>
-  [Homepage](https://www.hornetplugins.com/plugins/hornet-autogain-pro-mk2/)
-  [Download](https://www.hornetplugins.com/wp-content/demo/HoRNetAutoGainProMK2-2.1.0-demo.zip)
+  [Homepage](https://www.bluecataudio.com/Products/Product_GainSuite/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_GainSuite/BlueCatGainSuiteVST3-x64Setup.exe)
 
 - **SocaLabs Huge Gain** 1.1.0:2022 (0)<br/>
   Audio VST Plugin (Volume Gain, left/right)<br/>
@@ -895,12 +900,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.voxengo.com/product/span/)
   [Download](https://www.voxengo.com/files/VoxengoSPAN_314_Win32_64_VST_VST3_AAX_setup.exe)
 
-- **BlueCat FreqAnalysis Pro** ($$)<br/>
+- **BlueCat FreqAnalysis Pro** 2.1 ($$)<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalystPro/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalystPro/BlueCatFreqAnalystProVST3Demo-x64Setup.exe)
 
-- **BlueCat FreqAnalysis** (0)<br/>
+- **BlueCat FreqAnalysis** 2.1 (0)<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalyst/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalyst/BlueCatFreqAnalystVST3-x64Setup.exe)
@@ -976,7 +981,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **SonoBus** (0)<br/>
+- **SonoBus** 1.5.1 (0)<br/>
   Audio VST Plugin (High-Quality Network Audio Streaming, Conference Mode)<br/>
   [Homepage](https://www.sonobus.net/)
   [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
@@ -1117,10 +1122,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://hautetechnique.com/midi/midiview/)
   [Download](https://hautetechnique.com/apps/backend/v1/apps/midiview/latest/win64)
 
-- **TouchOSC** 1.1.7.154 ($) [RECOMMENDED]<br/>
+- **TouchOSC** 1.1.9.157 ($) [RECOMMENDED]<br/>
   OSC/MIDI Control Surface<br/>
   [Homepage](https://hexler.net/touchosc)
-  [Download](https://hexler.net/pub/touchosc/touchosc-1.1.7.154-win64.exe)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.1.8.157-win64.exe)
 
 - **Open Stage Control** 1.20.0 (0)<br/>
   OSC/MIDI Control Surface<br/>
