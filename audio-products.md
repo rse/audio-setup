@@ -1162,6 +1162,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://github.com/gbevin/ReceiveMIDI)
   [Download](https://github.com/gbevin/ReceiveMIDI/releases/download/1.2.0/receivemidi-windows-1.2.0.zip)
 
+- **MIDI Mixer** 2.7.3 (0)<br/>
+  MIDI to System/App Action Mapping<br/>
+  [Homepage](https://www.midi-mixer.com/)
+  [Download](https://storage.midi-mixer.com/releases/MIDI%20Mixer%20Setup%202.7.3.exe)
+
 ### Companion Tools: Misc
 
 - **OBS Audio Sync** 2019 (0)<br/>
