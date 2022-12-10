@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.25 (2022-12-09)
+Version 1.1.26 (2022-12-10)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -742,6 +742,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Volume Maximizer)<br/>
   [Homepage](https://plugins4free.com/plugin/2843/)
   [Download](https://plugins4free.com/get_plug/Unlimited_x64.zip)
+
+- **Slate Digital FG-x2** ($$$)<br/>
+  Audio VST Plugin (dynamic high frequency processor) (latency: ?)<br/>
+  [Homepage](https://slatedigital.com/fg-x-2/)
+  [Download](https://slatedigital.com/fg-x-2/)
 
 ### VST Plugin: Volume Leveling
 
