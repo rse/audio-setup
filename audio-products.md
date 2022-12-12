@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.26 (2022-12-10)
+Version 1.1.27 (2022-12-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -895,15 +895,15 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Spectrum Visualization
 
-- **Voxengo SPAN Plus** 1.20 ($$) [RECOMMENDED]<br/>
+- **Voxengo SPAN Plus** 1.21 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.voxengo.com/product/spanplus/)
-  [Download](https://www.voxengo.com/files/VoxengoSPANPlus_120_Win32_64_VST_VST3_AAX_setup.exe)
+  [Download](https://www.voxengo.com/files/VoxengoSPANPlus_121_Win32_64_VST_VST3_AAX_setup.exe)
 
-- **Voxengo SPAN** 3.14 (0) [RECOMMENDED]<br/>
+- **Voxengo SPAN** 3.15 (0) [RECOMMENDED]<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.voxengo.com/product/span/)
-  [Download](https://www.voxengo.com/files/VoxengoSPAN_314_Win32_64_VST_VST3_AAX_setup.exe)
+  [Download](https://www.voxengo.com/files/VoxengoSPAN_315_Win32_64_VST_VST3_AAX_setup.exe)
 
 - **BlueCat FreqAnalysis Pro** 2.1 ($$)<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
