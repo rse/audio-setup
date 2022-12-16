@@ -805,6 +805,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.hornetplugins.com/plugins/hornet-autogain-pro-mk2/)
   [Download](https://www.hornetplugins.com/wp-content/demo/HoRNetAutoGainProMK2-2.1.0-demo.zip)
 
+- **Melda Productions MAutoVolume** :2022 ($)<br/>
+  Audio VST Plugin (Volume Leveler)<br/>
+  [Homepage](https://www.meldaproduction.com/MAutoVolume)
+  [Download](https://www.meldaproduction.com/MAutoVolume)
+
 ### VST Plugin: Volume Control
 
 - **BlueCat's Gain Suite** 3.43:2022 (0)<br/>
