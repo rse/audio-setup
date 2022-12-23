@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.27 (2022-12-12)
+Version 1.1.28 (2022-12-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -956,6 +956,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (WAV Player)<br/>
   [Homepage](https://miraxlabs.com/products/vstplayer/)
   [Download](https://miraxlabs.com/products/vstplayer/)
+
+- **4drX LoopRecorder** 0:2022 ($$)<br/>
+  Audio VST Plugin (WAV Recorder)<br/>
+  [Homepage](https://4drx.com/plugins/product.php?p=LoopRecorder)
+  [Download](https://4drx.com/plugins/product.php?p=LoopRecorder)
 
 ### VST Plugin: Device Simulation
 
