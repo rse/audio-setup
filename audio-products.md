@@ -942,6 +942,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.meldaproduction.com/MRecorder)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
 
+- **Mirax Labs vstPlayer** 2.3.3:2016 (0)<br/>
+  Audio VST Plugin (WAV Player)<br/>
+  [Homepage](https://miraxlabs.com/products/vstplayer/)
+  [Download](https://miraxlabs.com/products/vstplayer/)
+
+- **MeldaProductions MSuperLooper** 16.02:2022 ($$)<br/>
+  Audio VST Plugin (Recorder and Loop Player)<br/>
+  [Homepage](https://www.meldaproduction.com/MSuperLooper)
+  [Download](https://www.meldaproduction.com/MSuperLooper)
+
 - **Voxengo Recorder** 2.20 (0)<br/>
   Audio VST Plugin (WAV-Recorder)<br/>
   [Homepage](https://www.voxengo.com/product/recorder/)
@@ -952,13 +962,8 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.onesmallclue.com/index.html)
   [Download](https://osc.sfo2.digitaloceanspaces.com/Setup_Grace_64bit_Full_1-0-4-9_Windows.exe)
 
-- **Mirax Labs vstPlayer** 2.3.3:2016 (0)<br/>
-  Audio VST Plugin (WAV Player)<br/>
-  [Homepage](https://miraxlabs.com/products/vstplayer/)
-  [Download](https://miraxlabs.com/products/vstplayer/)
-
 - **4drX LoopRecorder** 0:2022 ($$)<br/>
-  Audio VST Plugin (WAV Recorder)<br/>
+  Audio VST Plugin (Looper only)<br/>
   [Homepage](https://4drx.com/plugins/product.php?p=LoopRecorder)
   [Download](https://4drx.com/plugins/product.php?p=LoopRecorder)
 
