@@ -37,10 +37,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4057:2022 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4059:2022 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4057.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4059.exe)
 
 - **Steinberg VST Live** :2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
