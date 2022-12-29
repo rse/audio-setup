@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.28 (2022-12-23)
+Version 1.1.29 (2022-12-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -19,6 +19,11 @@ of setting up various audio chains at home and in the software industry.
   Audio Channel Mixer (including four built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
+
+- **SteelSeries Sonar** 29.2.0:2022 (0)<br/>
+  Audio Channel Mixer (including built-in Virtual Audio Cable devices)<br/>
+  [Homepage](https://steelseries.com/gg/sonar/)
+  [Download](https://steelseries.com/gg/downloads/gg/latest/windows)
 
 - **Virtual Audio Cable (VAC)** 4.67:2022 ($$) [RECOMMENDED]<br/>
   Virtual Audio Cable (arbitrary number of cable devices)<br/>
@@ -1208,6 +1213,11 @@ of setting up various audio chains at home and in the software industry.
   Voice Control Commands<br/>
   [Homepage](https://voiceattack.com/)
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
+
+- **VoiceMod** :2022 (0)<br/>
+  Voice Modificatio<br/>
+  [Homepage](https://www.voicemod.net/)
+  [Download](https://www.voicemod.net/)
 
 - **Auto-Duck** 3.0.0-RC4.1 ($)<br/>
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
