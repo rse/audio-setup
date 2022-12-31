@@ -832,6 +832,26 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://socalabs.com/developer-tools/hugegain/)
   [Download](https://socalabs.com/files/get.php?id=HugeGain_Win.zip)
 
+- **Letimix GainMatch** 1.4:2022 ($)<br/>
+  Audio VST Plugin (A/B Loudness Measurement, Gain Staging) (latency: ?)<br/>
+  [Homepage](https://letimix.com/products/gainmatch)
+  [Download](https://files.letimix.com/gainmatch/GainMatch%20Win64%20VST3%20v1.403%20b221028.zip)
+
+- **Melda Production MCompare** 16.02 (0/$$)<br/>
+  Audio VST Plugin (A/B Loudness Measurement, Gain Staging)<br/>
+  [Homepage](https://www.meldaproduction.com/MCompare)
+  [Download](https://www.meldaproduction.com/MCompare)
+
+- **TBProAudio ABLM 2** 2:2022 ($$)<br/>
+  Audio VST Plugin (A/B Loudness Measurement, Gain Staging) (latency: ?)<br/>
+  [Homepage](https://www.tbproaudio.de/products/ablm)
+  [Download](https://www.tbproaudio.de/products/ablm)
+
+- **Hornet Normalize** 1.3.2:2022 ($)<br/>
+  Audio VST Plugin (A/B Loudness Measurement, Gain Staging) (latency: ?)<br/>
+  [Homepage](https://www.hornetplugins.com/plugins/hornet-thenormalizer/)
+  [Download](https://www.hornetplugins.com/plugins/hornet-thenormalizer/)
+
 - **MeterPlugs Perception AB** 1.0.3:2022 ($$$)<br/>
   Audio VST Plugin (A/B Loudness Measurement, Gain Staging Support)<br/>
   [Homepage](https://www.meterplugs.com/perception-ab)
