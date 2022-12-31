@@ -118,8 +118,13 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone or Plugin)
 
+- **VST3Shell** 1.2.1:2021 (0)<br/>
+  VST Host (VST3 to VST2 converter)<br/>
+  [Homepage](https://www.xlutop.com/buzz/zip/)
+  [Download](https://www.xlutop.com/buzz/zip/vst3shell_v1.2.1.zip)
+
 - **BlueCat PatchWork** 2.6:2022 ($$) [RECOMMENDED]<br/>
-  VST Host (can act standalone or as a VST plugin itself, even as a VST2 to VST3 converter)<br/>
+  VST Host (can act standalone or as a VST plugin itself, even as a VST3 to VST2 converter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
 
