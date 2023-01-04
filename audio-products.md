@@ -47,11 +47,6 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4059.exe)
 
-- **Kushview Element** 0.47.0:2022 (0)<br/>
-  VST Host (fully free)<br/>
-  [Homepage](https://kushview.net/element/)
-  [Download](https://github.com/kushview/Element/releases/download/0.46.6/element-win64-0.46.6.exe)
-
 - **Steinberg VST Live** :2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
   [Homepage](https://www.steinberg.net/de/vst-live/)
@@ -118,15 +113,20 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone or Plugin)
 
-- **VST3Shell** 1.2.1:2021 (0)<br/>
-  VST Host (VST3 to VST2 converter)<br/>
-  [Homepage](https://www.xlutop.com/buzz/zip/)
-  [Download](https://www.xlutop.com/buzz/zip/vst3shell_v1.2.1.zip)
-
 - **BlueCat PatchWork** 2.61:2022 ($$) [RECOMMENDED]<br/>
   VST Host (can act standalone or as a VST plugin itself, even as a VST3 to VST2 converter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
+
+- **Kushview Element** 0.47.0:2022 (0)<br/>
+  VST Host (fully free)<br/>
+  [Homepage](https://kushview.net/element/)
+  [Download](https://github.com/kushview/Element/releases/download/0.46.6/element-win64-0.46.6.exe)
+
+- **VST3Shell** 1.2.1:2021 (0)<br/>
+  VST Host (VST3 to VST2 converter)<br/>
+  [Homepage](https://www.xlutop.com/buzz/zip/)
+  [Download](https://www.xlutop.com/buzz/zip/vst3shell_v1.2.1.zip)
 
 - **Waves StudioRack** 14.0:2022 (0)<br/>
   Multi-Band VST Host (acts as a VST plugin itself, but just for Waves plugins)<br/>
