@@ -106,7 +106,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Digital Audio Editor)
 
-- **OcenAudio** 3.11.18:2022 (0)<br/>
+- **OcenAudio** 3.11.21:2022 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -152,10 +152,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Melda Production MFreeFXBundle** 16.02:2022 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 16.03:2022 (0/$$)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
-  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_02_setup.exe&checksum=45d212c7fa859131cdc60ed91a91896309127467)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.03&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_03_setup.exe&checksum=2d6e443431d8391018e2496e39d00d39b1b252ff)
 
 - **BlueCat Freeware Plug-Ins Pack II** :2022 (0) [RECOMMENDED]<br/>
   Small Audio VST Plugin-Bundle (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
@@ -270,15 +270,15 @@ of setting up various audio chains at home and in the software industry.
 
 - **Sonible proximity:EQ+** 1.0.4 ($$$)<br/>
   Audio VST Plugin (Room Reverberation Removal) (latency: 4096smp/85ms)<br/>
-  [Homepage](https://www.izotope.com/en/products/neutron.html)
-  [Download](https://www.izotope.com/en/products/neutron.html)
+  [Homepage](https://www.sonible.com/proximityeq/)
+  [Download](https://www.sonible.com/proximityeq/)
 
 - **Zynaptiq Unveil** ($$$)<br/>
   Audio VST Plugin (Room Reverberation Removal) (latency: 4096smp/85ms)<br/>
-  [Homepage](https://www.izotope.com/en/products/neutron.html)
-  [Download](https://www.izotope.com/en/products/neutron.html)
+  [Homepage](https://www.zynaptiq.com/unveil/)
+  [Download](https://www.zynaptiq.com/unveil/)
 
-- **iZotope RX 9 De-Reverb** ($$$)<br/>
+- **iZotope RX 10 De-Reverb** ($$$)<br/>
   Audio VST Plugin (Room Reverberation Removal) (latency: 9727smp/203ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
@@ -542,7 +542,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Waves C14** 14:2022 ($$)<br/>
+- **Waves C1** 14:2022 ($$)<br/>
   Audio VST Plugin (Compressor, Expander, Gate)<br/>
   [Homepage](https://www.waves.com/plugins/c1-compressor)
   [Download](https://www.waves.com/plugins/c1-compressor)
