@@ -123,7 +123,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.xlutop.com/buzz/zip/)
   [Download](https://www.xlutop.com/buzz/zip/vst3shell_v1.2.1.zip)
 
-- **BlueCat PatchWork** 2.6:2022 ($$) [RECOMMENDED]<br/>
+- **BlueCat PatchWork** 2.61:2022 ($$) [RECOMMENDED]<br/>
   VST Host (can act standalone or as a VST plugin itself, even as a VST3 to VST2 converter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
@@ -512,7 +512,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Compression
 
-- **BlueCat Dynamics** 4.4 ($$) [RECOMMENDED]<br/>
+- **BlueCat Dynamics** 4.41 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Compressor/Expander) (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
@@ -564,14 +564,14 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.fabfilter.com/products/pro-mb-multiband-compressor-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffpromb126x64.exe)
 
-- **BlueCat's MB-5 Dynamix** 2.2:2021 ($$$)<br/>
+- **BlueCat's MB-5 Dynamix** 2.21:2021 ($$$)<br/>
   Audio VST Plugin (Multi-Band Compressor, Limiter, Gate, Expander, Waveshaper)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_MB5Dynamix/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_MB5Dynamix/BlueCatMB5DynamixVST3Demo-x64Setup.exe)
 
 ### VST Plugin: Expansion/Gating
 
-- **BlueCat Dynamics** 4.4 ($$) [RECOMMENDED]<br/>
+- **BlueCat Dynamics** 4.41 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Compressor/Expander) (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
@@ -721,7 +721,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.sonible.com/smartlimit/)
   [Download](https://www.sonible.com/smartlimit/)
 
-- **BlueCat's Protector** 2.3:2021 ($$)<br/>
+- **BlueCat's Protector** 2.31:2021 ($$)<br/>
   Audio VST Plugin (Limiter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Protector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Protector/BlueCatProtectorVST3Demo-x64Setup.exe)
@@ -822,7 +822,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Volume Control
 
-- **BlueCat's Gain Suite** 3.43:2022 (0)<br/>
+- **BlueCat's Gain Suite** 3.44:2022 (0)<br/>
   Audio VST Plugin (Volume Gain)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_GainSuite/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_GainSuite/BlueCatGainSuiteVST3-x64Setup.exe)
@@ -940,12 +940,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.voxengo.com/product/span/)
   [Download](https://www.voxengo.com/files/VoxengoSPAN_315_Win32_64_VST_VST3_AAX_setup.exe)
 
-- **BlueCat FreqAnalysis Pro** 2.1 ($$)<br/>
+- **BlueCat FreqAnalysis Pro** 2.11 ($$)<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalystPro/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalystPro/BlueCatFreqAnalystProVST3Demo-x64Setup.exe)
 
-- **BlueCat FreqAnalysis** 2.1 (0)<br/>
+- **BlueCat FreqAnalysis** 2.11 (0)<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalyst/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalyst/BlueCatFreqAnalystVST3-x64Setup.exe)
@@ -1009,14 +1009,14 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.adsrsounds.com/product/software/audiothing-speakers-speaker-simulator-plugin/)
   [Download](https://www.adsrsounds.com/product/software/audiothing-speakers-speaker-simulator-plugin/)
 
-- **BlueCat's Re-Head** 1.2:2022 ($$)<br/>
+- **BlueCat's Re-Head** 1.21:2022 ($$)<br/>
   Audio VST Plugin (Simulate Headphone Devices)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_ReHead/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_ReHead/BlueCatReHeadVST3Demo-x64Setup.exe)
 
 ### VST Plugin: Sender/Receiver
 
-- **BlueCat Connector** 1.1 ($$) [RECOMMENDED]<br/>
+- **BlueCat Connector** 1.11 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (1:1 Sender/Receiver)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
@@ -1038,7 +1038,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Scripting
 
-- **BlueCat's Plug'n'Script** 3.32:2022 ($$)<br/>
+- **BlueCat's Plug'n'Script** 3.33:2022 ($$)<br/>
   Audio VST Plugin (AngelScript Scripting)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PlugNScript/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PlugNScript/BlueCatPlugNScriptVST3Demo-x64Setup.exe)
@@ -1192,7 +1192,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://oscpilot.com/pages/osc-par)
   [Download](https://software.mau5trap.com/OSCpar-v1.1.2.exe)
 
-- **BlueCat's Remote Control** 3.1 ($$)<br/>
+- **BlueCat's Remote Control** 3.11 ($$)<br/>
   MIDI Control Surface (VST Plugin)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_RemoteControl/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_RemoteControl/BlueCatRemoteControlVST3Demo-x64Setup.exe)
