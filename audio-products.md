@@ -123,11 +123,6 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://kushview.net/element/)
   [Download](https://github.com/kushview/Element/releases/download/0.46.6/element-win64-0.46.6.exe)
 
-- **VST3Shell** 1.2.1:2021 (0)<br/>
-  VST Host (VST3 to VST2 converter)<br/>
-  [Homepage](https://www.xlutop.com/buzz/zip/)
-  [Download](https://www.xlutop.com/buzz/zip/vst3shell_v1.2.1.zip)
-
 - **Waves StudioRack** 14.0:2022 (0)<br/>
   Multi-Band VST Host (acts as a VST plugin itself, but just for Waves plugins)<br/>
   [Homepage](https://www.waves.com/plugins/studiorack)
@@ -144,6 +139,11 @@ of setting up various audio chains at home and in the software industry.
   VST Host (acts a VST plugin itself, even as a VST2 to VST3 converter)<br/>
   [Homepage](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/)
   [Download](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/)
+
+- **VST3Shell** 1.2.1:2021 (0)<br/>
+  VST Host (VST3 to VST2 converter)<br/>
+  [Homepage](https://www.xlutop.com/buzz/zip/)
+  [Download](https://www.xlutop.com/buzz/zip/vst3shell_v1.2.1.zip)
 
 ### VST Plugin: Suites/Bundles
 
