@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.29 (2022-12-30)
+Version 1.1.30 (2023-01-03)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -47,6 +47,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4059.exe)
 
+- **Kushview Element** 0.47.0:2022 (0)<br/>
+  VST Host (fully free)<br/>
+  [Homepage](https://kushview.net/element/)
+  [Download](https://github.com/kushview/Element/releases/download/0.46.6/element-win64-0.46.6.exe)
+
 - **Steinberg VST Live** :2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
   [Homepage](https://www.steinberg.net/de/vst-live/)
@@ -66,11 +71,6 @@ of setting up various audio chains at home and in the software industry.
   VST Host (fully free)<br/>
   [Homepage](https://github.com/falkTX/Carla/)
   [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.2/Carla-2.5.2-win64.zip)
-
-- **Kushview Element** 0.46.6:2022 ($)<br/>
-  VST Host (fully free)<br/>
-  [Homepage](https://kushview.net/element/)
-  [Download](https://github.com/kushview/Element/releases/download/0.46.6/element-win64-0.46.6.exe)
 
 - **Audified inTone 2** 2.5.9:2022 ($$)<br/>
   VST Host<br/>
