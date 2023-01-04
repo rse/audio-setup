@@ -121,7 +121,7 @@ of setting up various audio chains at home and in the software industry.
 - **Kushview Element** 0.47.0:2022 (0)<br/>
   VST Host (fully free)<br/>
   [Homepage](https://kushview.net/element/)
-  [Download](https://github.com/kushview/Element/releases/download/0.46.6/element-win64-0.46.6.exe)
+  [Download](https://kushview-builds.s3.amazonaws.com/element/windows/element-w64-0.47.0_r479.exe)
 
 - **Waves StudioRack** 14.0:2022 (0)<br/>
   Multi-Band VST Host (acts as a VST plugin itself, but just for Waves plugins)<br/>
