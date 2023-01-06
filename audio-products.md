@@ -807,11 +807,6 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://quietart.co.nz/waveridertg/)
   [Download](https://quietart.co.nz/download/1397/)
 
-- **Melda Production MAutoVolume** 15.02:2022 ($$)<br/>
-  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
-  [Homepage](https://www.meldaproduction.com/MAutoVolume)
-  [Download](https://meldaproduction.b-cdn.net/download/maudioplugins/maudioplugins_15_02_setup.exe)
-
 - **WA Production Outlaw** ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
   [Homepage](https://www.waproduction.com/plugins/view/outlaw)
@@ -969,20 +964,25 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Spectrogram Visualization
 
-- **BlueCat FreqAnalysis Pro** 2.11 ($$)<br/>
-  Audio VST Plugin (Spectrogram Visualizer)<br/>
-  [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalystPro/)
-  [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalystPro/BlueCatFreqAnalystProVST3Demo-x64Setup.exe)
-
 - **TB Spectrogram** (0)<br/>
   Audio VST Plugin (Spectrogram Visualizer)<br/>
   [Homepage](https://www.toneboosters.com/tb_spectrogram_v1.html)
   [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
 
+- **MeldaProductions MAnalyzer** 16.02:2022 ($$)<br/>
+  Audio VST Plugin (Spectrogram Visualizer)<br/>
+  [Homepage](https://www.meldaproduction.com/MAnalyzer)
+  [Download](https://www.meldaproduction.com/Analyzer)
+
 - **IK Multimedia T-TrackS 5 Metering** ($$)<br/>
   Audio VST Plugin (Spectrogram Visualizer)<br/>
   [Homepage](https://www.ikmultimedia.com/products/tr5metering/)
   [Download](https://www.ikmultimedia.com/products/tr5metering/)
+
+- **BlueCat FreqAnalysis Pro** 2.11 ($$)<br/>
+  Audio VST Plugin (Spectrogram Visualizer)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalystPro/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalystPro/BlueCatFreqAnalystProVST3Demo-x64Setup.exe)
 
 - **iZotope Insight 2** ($$$)<br/>
   Audio VST Plugin (Spectrogram Visualizer)<br/>
