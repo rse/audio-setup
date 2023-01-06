@@ -246,10 +246,27 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/cla-mixhub)
   [Download](https://www.waves.com/plugins/cla-mixhub)
 
-- **PSP InfiniStrip WIND** :2022 ($$)<br/>
+- **PSP InfiniStrip WIND** :2022 ($$$)<br/>
   All-In-One VST Plugin (Multi-Track, Compressor, Equalizer) (latency: 0)<br/>
   [Homepage](https://www.pspaudioware.com/products/psp-infinistrip)
   [Download](https://www.pspaudioware.com/products/psp-infinistrip)
+
+### VST Plugin: Reverberation Creation
+
+- **FabFilter Pro-R** :2022 ($$)<br/>
+  Audio VST Plugin (Room Reverbaration Creation)<br/>
+  [Homepage](https://www.fabfilter.com/products/pro-r-reverb-plug-in)
+  [Download](https://www.fabfilter.com/products/pro-r-reverb-plug-in)
+
+- **Valhalla Room** 1.5.1 ($$)<br/>
+  Audio VST Plugin (Room Reverberation Creation) (latency: ?)<br/>
+  [Homepage](https://valhalladsp.com/shop/reverb/valhalla-room/)
+  [Download](https://valhalladsp.com/shop/reverb/valhalla-room/)
+
+- **Acon Digital Verberate** 2.2.1 ($$)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: ?)<br/>
+  [Homepage](https://acondigital.de/produkte/verberate/)
+  [Download](https://acondigital.de/produkte/verberate/)
 
 ### VST Plugin: Reverberation Removal
 
@@ -379,7 +396,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.patreon.com/posts/loades-62370686)
   [Download](https://analogobsession.com/wp-content/uploads/2022/02/LOADES_1.0.exe)
 
-- **Oeaksound Soothe2** 1.3.0 ($$$)<br/>
+- **Oeaksound Soothe 2** 1.3.0 ($$$)<br/>
   Audio VST Plugin (Dynamic Resonance Suppressor for De-Essing, Uneven Tonal Balance, etc)<br/>
   [Homepage](https://oeksound.com/plugins/soothe2/)
   [Download](https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v130_Win.zip)
