@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.30 (2023-01-03)
+Version 1.1.31 (2023-01-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -957,30 +957,42 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.voxengo.com/product/span/)
   [Download](https://www.voxengo.com/files/VoxengoSPAN_315_Win32_64_VST_VST3_AAX_setup.exe)
 
-- **BlueCat FreqAnalysis Pro** 2.11 ($$)<br/>
-  Audio VST Plugin (Spectrum Visualizer)<br/>
-  [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalystPro/)
-  [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalystPro/BlueCatFreqAnalystProVST3Demo-x64Setup.exe)
-
 - **BlueCat FreqAnalysis** 2.11 (0)<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalyst/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalyst/BlueCatFreqAnalystVST3-x64Setup.exe)
 
-- **TB Spectrogram** (0)<br/>
-  Audio VST Plugin (Spectrum Visualizer)<br/>
-  [Homepage](https://www.toneboosters.com/tb_spectrogram_v1.html)
-  [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
-
-- **iZotope Insight 2** ($$$)<br/>
-  Audio VST Plugin (Spectrum Visualizer)<br/>
-  [Homepage](https://www.izotope.com/en/products/insight.html)
-  [Download](https://www.izotope.com/en/products/insight.html)
-
 - **Bertom EQ Curve Analyzer** 1.3.5:2022 (0/$)<br/>
   Audio VST Plugin (frequency change analyzer) (latency: ?)<br/>
   [Homepage](https://bertom.gumroad.com/l/eq-curve-analyzer)
   [Download](https://bertom.gumroad.com/l/eq-curve-analyzer)
+
+### VST Plugin: Spectrogram Visualization
+
+- **BlueCat FreqAnalysis Pro** 2.11 ($$)<br/>
+  Audio VST Plugin (Spectrogram Visualizer)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalystPro/)
+  [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalystPro/BlueCatFreqAnalystProVST3Demo-x64Setup.exe)
+
+- **TB Spectrogram** (0)<br/>
+  Audio VST Plugin (Spectrogram Visualizer)<br/>
+  [Homepage](https://www.toneboosters.com/tb_spectrogram_v1.html)
+  [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
+
+- **IK Multimedia T-TrackS 5 Metering** ($$)<br/>
+  Audio VST Plugin (Spectrogram Visualizer)<br/>
+  [Homepage](https://www.ikmultimedia.com/products/tr5metering/)
+  [Download](https://www.ikmultimedia.com/products/tr5metering/)
+
+- **iZotope Insight 2** ($$$)<br/>
+  Audio VST Plugin (Spectrogram Visualizer)<br/>
+  [Homepage](https://www.izotope.com/en/products/insight.html)
+  [Download](https://www.izotope.com/en/products/insight.html)
+
+- **DMG Audio TrackMeter** ($$)<br/>
+  Audio VST Plugin (Spectrogram Visualizer)<br/>
+  [Homepage](https://www.izotope.com/en/products/insight.html)
+  [Download](https://www.izotope.com/en/products/insight.html)
 
 ### VST Plugin: Playing/Recording
 
