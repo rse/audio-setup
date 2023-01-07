@@ -152,7 +152,7 @@ for all the basics. Let us recap all those essential basics:
 
 - **Maximum True Peek Level** is the maximum db FS value which should
   never be exceeded in order to not reach the "Audio Clipping" area.
-  EBU R128 uses -1 dB FS for the "Maximum Tree Peek Level".
+  EBU R128 uses -1 dB FS for the "Maximum True Peek Level".
 
 - **Audio Clipping** is mainly specific to Digital Audio Processing
   (DSP) where 0.0 dB FS is usually the highest possible sample
