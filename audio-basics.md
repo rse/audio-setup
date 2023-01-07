@@ -71,8 +71,9 @@ for all the basics. Let us recap all those essential basics:
   Speech/Conversation:                       | 60
   Music:                                     | 80
   Noisy Restaurant:                          | 90
+  (Ear Damage Potential):                    | 120
   Jet Engine:                                | 120
-  Threshold of Pain:                         | 120 / 140
+  (Threshold of Pain):                       | 140
   Balloon Popping:                           | 157
 
 - **Human Way of Hearing**: as sound pressure increases, more and more
@@ -90,6 +91,10 @@ for all the basics. Let us recap all those essential basics:
   1.5 : 1 | +3
   2 : 1   | +6 (double as loud)
   10 : 1  | +20
+
+  The reason simply is the formula `diff = (20 * log_10(2 / (2^16-1)))
+  - (20 * log_10(1 / (2^16-1))) = 6.02 dB`. Every time we add 6 dB to a
+  signal, we actually double the Amplitude of the signal.
 
 - **Decibel** is 1/10 of a Bel and a power ratio between two values.
   Decibel is a relative, logarithmic unit. Keep in mind that Decibel
