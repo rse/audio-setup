@@ -2,7 +2,7 @@
 Audio Basics
 ============
 
-Version 1.1.2 (2022-09-18)
+Version 1.1.3 (2023-01-07)
 
 First, see [How Sound Works](https://www.youtube.com/watch?v=mjv7O0KS1ug),
 [Properties of a Sound Wave](https://www.youtube.com/watch?v=KUMI9sqD6vc),
@@ -11,6 +11,7 @@ of the [Audio University](https://www.youtube.com/hashtag/audiouniversity)
 plus the [Fundamentals of Audio Engineering](https://www.reddit.com/r/audioengineering/wiki/fundamentals/)
 and the [Audio Engineering FAQ](https://www.reddit.com/r/audioengineering/wiki/faq/)
 of the [Reddit Audio Engineering Community](https://www.reddit.com/r/audioengineering/)
+plus the excellent book [Web Audio API](https://webaudioapi.com/book/Web_Audio_API_Boris_Smus.pdf)
 for all the basics. Let us recap all those essential basics:
 
 - **Sound** is a vibration of material, usually of air particles.
@@ -91,6 +92,7 @@ for all the basics. Let us recap all those essential basics:
   10 : 1  | +20
 
 - **Decibel** is 1/10 of a Bel and a power ratio between two values.
+  Decibel is a relative, logarithmic unit.
   Keep in mind that Decibel for Power is originally calculated `dB = 10 *
   log(Power-Measured / Power-Reference)` while Decibel for Voltage
   and Sound Pressure (this context here) is calculated as `dB = 20 *
@@ -126,6 +128,12 @@ for all the basics. Let us recap all those essential basics:
 
   Hence, the more precise relation between LUFS and RMS is `LUFS m ~~ RMS` as
   RMS usually is measured over a time tange of 300 ms.
+
+- **Loudness, Gain, Volume**: **Loudness** is a subjective measure of how
+  intensely our ears perceive the sound (**Human Way of Hearing**, dB
+  SPL). **Volume** is a measure of the physical **Amplitude** of the
+  sound wave. **Gain** is a scale multiplier (1.0 means no change)
+  affecting the sound Amplitude as it is being processed.
 
 - **Loudness Target** differs between organizations:
 
