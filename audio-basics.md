@@ -92,13 +92,13 @@ for all the basics. Let us recap all those essential basics:
   10 : 1  | +20
 
 - **Decibel** is 1/10 of a Bel and a power ratio between two values.
-  Decibel is a relative, logarithmic unit.
-  Keep in mind that Decibel for Power is originally calculated `dB = 10 *
-  log(Power-Measured / Power-Reference)` while Decibel for Voltage
-  and Sound Pressure (this context here) is calculated as `dB = 20 *
-  log(Value-Measured / Value-Reference)`. So, be careful when reading
+  Decibel is a relative, logarithmic unit. Keep in mind that Decibel
+  for Power is originally calculated `dB = 10 * log_10(Power-Measured
+  / Power-Reference)` while Decibel for Amplitude (of Voltage and
+  Sound Pressure -- this context here) is calculated as `dB = 20 *
+  log_10(Value-Measured / Value-Reference)`. So, be careful when reading
   about dB calculations in general and applying it in the context of
-  audio.
+  audio!
 
 - **Full Scale**: In audio there are multiple absolute units:
 
@@ -174,6 +174,16 @@ for all the basics. Let us recap all those essential basics:
   Hence, dB TP (Decibel relative to True Peek) is usually used as the
   measured unit for "Maximum True Peek Level" instead of dB FS and hence
   the sound limiting usually is recommended to be at -1.0 dB TP.
+
+  As dBFS is described mathematically as `dBFS = 20 *
+  log_10(Sample-Level / Max-Level)`, the maximum dBFS value in 16-bit
+  DSP is `20 * log_10(1111 1111 1111 1111 / 1111 1111 1111 1111) =
+  log_10(1) = 0`. So, the maximum dBFS value will always be 0 by
+  definition, since `log_10(1) = 0`. Similarly, the minimum dBFS value
+  in the same DSP is `20 * log_10(0000 0000 0000 0001 / 1111 1111 1111
+  1111) = -96.32 dBFS`. For the usual high-fidelity 24-bit DSP scenario,
+  the corresponding minimum dBFS value is `20 * log_10(0000 0000 0000
+  0000 0000 0001 / 1111 1111 1111 1111 1111 1111) = -144.49 dBFS`.
 
 - **Dynamic Range**: the Decibel between the
   Maximum Peek Level (db FS) and the Minimum Peek Level (db FS).
