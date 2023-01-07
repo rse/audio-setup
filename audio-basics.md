@@ -231,13 +231,16 @@ for all the basics. Let us recap all those essential basics:
    - **Volume Meter** is a usual 1-D audio visualization showing the Volume (dB FS / LUFS).
    - **Frequency Spectrum** is a usual 2-D audio visualization (of equalizers) showing on the
      x-axis the Frequency (Hz) and on the y-axis the Volume (dB FS / LUFS).
+     This visualization is called to be in the frequency domain.
    - **Envelope Graph** (german **Hüllkurve**) is a usual 2-D audio visualization (of
      expanders, de-essers, and compressors) showing on the x-axis the time
      (s) and on the y-axis the Volume (dB FS / LUFS) of left (positive) and
      right (negative) channels.
+     This visualization is called to be in the time domain.
    - **Spectogram** is a usual heatmap-style, colored, 2-D audio
      visualization (of noise suppressors) showing on the x-axis the time (s), on the y-axis the
      Frequency (Hz), and with the color the Volume (dB FS / LUFS).
+     This visualization is called to be in the time domain.
    - **Dynamics Response Graph** is a usual static 2-D audio configuration visualization (of
      gates, expanders, compressors, and limiters) showing
      on the x-axis the incoming signal Volume (dB FS / LUFS) and on
