@@ -92,8 +92,8 @@ for all the basics. Let us recap all those essential basics:
   2 : 1   | +6 (double as loud)
   10 : 1  | +20
 
-  The reason simply is the formula `diff = (20 * log_10(2 / (2^16-1)))
-  - (20 * log_10(1 / (2^16-1))) = 6.02 dB`. Every time we add 6 dB to a
+  The reason simply is the formula `diff = (20 * log_10(2 / (2^16-1))) -
+  (20 * log_10(1 / (2^16-1))) = 6.02 dB`. Every time we add 6 dB to a
   signal, we actually double the Amplitude of the signal.
 
 - **Decibel** is 1/10 of a Bel and a power ratio between two values.
