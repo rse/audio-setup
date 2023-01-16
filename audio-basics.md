@@ -112,13 +112,18 @@ for all the basics. Let us recap all those essential basics:
   dB SPL | Decibel relative to Sound Pressure Level
   dB FS  | Decibel relative to Full Scale
   dB TP  | Decibel relative to True Peak
-  LUFS   | Loudness Unit relative to Full Scale
+  LUFS   | Loudness Unit relative to Full Scale       (EBU R 128)
+  LKFS   | Loudness K-weighted relative to Full Scale (ITU-R BS.1770)
   RMS    | Root Mean Square
 
-  The relation of the absolute units is `db FS == LUFS ~~ RMS`.
-  The dB/LU is a relative unit with `1 dB = 1 LU`.
+  The dB/LU is a relative unit with `1 dB = 1 LU`. Actually, each unit of
+  dB XX, LUFS, LKFS or RMS is equal to 1 dB.
 
-  LUFS is about the perceived loudness according to the
+  The relation of the absolute units is `db FS ~~ LUFS ~~ LKFS ~~ RMS`.
+  The differences are how the unit is measured (LUFS/LKFS is based on a
+  K-weighted calculation, RMS is simple average).
+
+  So, LUFS is about the perceived loudness according to the
   [Fletcher Munson curve](https://en.wikipedia.org/wiki/Equal-loudness_contour)
   while RMS is a plain mathematical average loundness. Hence, primarily
   use LUFS when dealing with loudness and RMS only as a rough approximation.
@@ -160,12 +165,12 @@ for all the basics. Let us recap all those essential basics:
   Hence, in practice a useful loudness target is to follow EBU R128 S1
   and try to reach -18 LUFS s and -23 LUFS i. Also, many mixing engineers
   recommend to not target above the loudness of -12 LUFS s to still
-  leave enough "headroom" before the "Maximum True Peek Level" reaches
+  leave enough "headroom" before the "Maximum True Peak Level" reaches
   the "Audio Clipping" area.
 
-- **Maximum True Peek Level** is the maximum db FS value which should
+- **Maximum True Peak Level** is the maximum db FS value which should
   never be exceeded in order to not reach the "Audio Clipping" area.
-  EBU R128 uses -1 dB FS for the "Maximum True Peek Level".
+  EBU R128 uses -1 dB FS for the "Maximum True Peak Level".
 
 - **Audio Clipping** is mainly specific to Digital Audio Processing
   (DSP) where 0.0 dB FS is usually the highest possible sample
@@ -176,8 +181,8 @@ for all the basics. Let us recap all those essential basics:
 
   As dB FS is measured per sample, a maximum of 0 dB FS in DSP can still
   lead to clipping in analog audio because of "inter-sample peaks".
-  Hence, dB TP (Decibel relative to True Peek) is usually used as the
-  measured unit for "Maximum True Peek Level" instead of dB FS and hence
+  Hence, dB TP (Decibel relative to True Peak) is usually used as the
+  measured unit for "Maximum True Peak Level" instead of dB FS and hence
   the sound limiting usually is recommended to be at -1.0 dB TP.
 
   As dBFS is described mathematically as `dBFS = 20 *
@@ -191,18 +196,18 @@ for all the basics. Let us recap all those essential basics:
   0000 0000 0001 / 1111 1111 1111 1111 1111 1111) = -144.49 dBFS`.
 
 - **Dynamic Range**: the Decibel between the
-  Maximum Peek Level (db FS) and the Minimum Peek Level (db FS).
+  Maximum Peak Level (db FS) and the Minimum Peak Level (db FS).
   Music usually needs a much larger Dynamic Range than Voice.
 
 - **Crest Factor**: or Peak to Short Term Loudness (PSR) is the ratio
-  of the **Maximum True Peek Level** and the average loudness (usually
+  of the **Maximum True Peak Level** and the average loudness (usually
   in LUFS s). The Crest Factor indicates how large the (upper part of
   the) dynamic range is or how extreme the (upper) peaks are. A Crest
   Factor of 1 indicates no peaks at all. Higher Crest Factors indicate
   stronger peaks and hence a wider dynamic range. The art of audio
   mastering is to find a reasonable balance between Crest Factor (wide
   dynamic range) and Loudness. Crest itself is sometimes also the name
-  for the plain db FS difference between Maximum True Peek Level and the
+  for the plain db FS difference between Maximum True Peak Level and the
   average loudness.
 
 - **Loudness/Volume Scale**: The audio volume full scale can be somewhat
@@ -233,7 +238,7 @@ for all the basics. Let us recap all those essential basics:
      - 51                                     X
      - 54                                     X
      - 57
-     - 60 ==== Noise Floor Peeks ==== X
+     - 60 ==== Noise Floor Peaks ==== X
      - 63                             X
      - 66                             X
      - 69                             X
