@@ -105,6 +105,13 @@ for all the basics. Let us recap all those essential basics:
   about dB calculations in general and applying it in the context of
   audio!
 
+  When dealing with Loundness, the relative units are dB and LU with `1 dB = 1 LU`:
+
+  Unit   | Meaning
+  ------ | ----------------------------------------
+  dB     | Decibel
+  LU     | Loudness Unit
+
 - **Full Scale**: In audio there are multiple absolute units:
 
   Unit   | Meaning
@@ -116,12 +123,10 @@ for all the basics. Let us recap all those essential basics:
   LKFS   | Loudness K-weighted relative to Full Scale (ITU-R BS.1770)
   RMS    | Root Mean Square
 
-  The dB/LU is a relative unit with `1 dB = 1 LU`. Actually, each unit of
-  dB XX, LUFS, LKFS or RMS is equal to 1 dB.
-
-  The relation of the absolute units is `db FS ~~ LUFS ~~ LKFS ~~ RMS`.
-  The differences are how the unit is measured (LUFS/LKFS is based on a
-  K-weighted calculation, RMS is simple average).
+  The relation of the absolute units is `db FS ~~ LUFS ~~ LKFS ~~
+  RMS`. The subtle differences are how the unit is actually measured
+  (LUFS/LKFS is based on a K-weighted calculation, RMS is simple
+  average).
 
   So, LUFS is about the perceived loudness according to the
   [Fletcher Munson curve](https://en.wikipedia.org/wiki/Equal-loudness_contour)
