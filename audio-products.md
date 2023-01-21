@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.31 (2023-01-06)
+Version 1.1.32 (2023-01-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -251,6 +251,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.pspaudioware.com/products/psp-infinistrip)
   [Download](https://www.pspaudioware.com/products/psp-infinistrip)
 
+- **Voxengo Voxformer** :2022 ($$)<br/>
+  All-In-One VST Plugin (Compressor, Equalizer, De-Esser, Saturator, Noise Gate) (latency: 0)<br/>
+  [Homepage](https://www.voxengo.com/product/voxformer/)
+  [Download](https://www.voxengo.com/files/VoxengoVoxformer_221_Win32_64_VST_VST3_AAX_setup.exe)
+
 ### VST Plugin: Reverberation Creation
 
 - **FabFilter Pro-R** :2022 ($$)<br/>
@@ -411,6 +416,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.toneboosters.com/tb_sibalance_v4.html)
   [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
 
+- **Weiss Deess** ?:2023 ($$$)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://www.softube.com/deess)
+  [Download](https://www.softube.com/deess)
+
 ### VST Plugin: De-Breathing
 
 - **Waves DeBreath** 14.0:2022 ($$)<br/>
@@ -563,6 +573,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Compressor, Expander, Gate)<br/>
   [Homepage](https://www.waves.com/plugins/c1-compressor)
   [Download](https://www.waves.com/plugins/c1-compressor)
+
+- **Waves Renaissance Vox** 14:2022 ($$)<br/>
+  Audio VST Plugin (Compressor, Expander, Gate)<br/>
+  [Homepage](https://www.waves.com/plugins/renaissance-vox)
+  [Download](https://www.waves.com/plugins/renaissance-vox)
 
 - **TB Compressor 4** 4:2022 ($$)<br/>
   Audio VST Plugin (Compressor)<br/>
@@ -1011,10 +1026,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.meldaproduction.com/MSuperLooper)
   [Download](https://www.meldaproduction.com/MSuperLooper)
 
-- **Voxengo Recorder** 2.20 (0)<br/>
+- **Voxengo Recorder** 1.4:2008 (0)<br/>
   Audio VST Plugin (WAV-Recorder)<br/>
   [Homepage](https://www.voxengo.com/product/recorder/)
-  [Download](https://www.voxengo.com/files/VoxengoVoxformer_220_Win32_64_VST_VST3_AAX_setup.exe)
+  [Download](https://www.voxengo.com/files/VoxengoRecorder_14_WinVST_setup.zip)
 
 - **One Small Clue: Grace** 1.0.4.9 (0)<br/>
   Audio VST Plugin (Sampler/Player)<br/>
