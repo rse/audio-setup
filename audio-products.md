@@ -421,6 +421,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.softube.com/deess)
   [Download](https://www.softube.com/deess)
 
+- **T-De-Esser** 0:2023 (0)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://techivation.com/t-de-esser/)
+  [Download](https://techivation.com/t-de-esser/)
+
+- **T-De-Esser Pro** 0:2023 ($$)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://techivation.com/t-de-esser/)
+  [Download](https://techivation.com/t-de-esser/)
+
 ### VST Plugin: De-Breathing
 
 - **Waves DeBreath** 14.0:2022 ($$)<br/>
