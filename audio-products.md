@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.32 (2023-01-22)
+Version 1.1.33 (2023-03-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -20,7 +20,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **SteelSeries Sonar** 29.2.0:2022 (0)<br/>
+- **SteelSeries Sonar** 33.0.0:2023 (0)<br/>
   Audio Channel Mixer (including built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://steelseries.com/gg/sonar/)
   [Download](https://steelseries.com/gg/downloads/gg/latest/windows)
@@ -42,30 +42,30 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4059:2022 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4062:2023 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4059.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4062.exe)
 
 - **Steinberg VST Live** :2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
   [Homepage](https://www.steinberg.net/de/vst-live/)
   [Download](https://www.steinberg.net/de/vst-live/)
 
-- **Audiostrom Live professor** 2022.1.4:2022 ($$)<br/>
+- **Audiostrom Live professor** 2022.2.1:2023 ($$)<br/>
   VST Host<br/>
   [Homepage](https://audiostrom.com/)
-  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2022-1-4/LiveProfessor-win-x64.msi)
+  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2022-2-1/LiveProfessor-win-x64.msi)
 
 - **VSL Vienna Ensemble Pro 7** 7:2022 ($$$)<br/>
   VST Host (provides client VST plugin)<br/>
   [Homepage](https://www.vsl.co.at/de/Vienna_Software_Package/Vienna_Ensemble_Pro)
   [Download](https://www.vsl.co.at/de/Vienna_Software_Package/Vienna_Ensemble_Pro)
 
-- **Carla** 2.5.2:2022 (0)<br/>
+- **Carla** 2.5.4:2023 (0)<br/>
   VST Host (fully free)<br/>
   [Homepage](https://github.com/falkTX/Carla/)
-  [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.2/Carla-2.5.2-win64.zip)
+  [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.4/Carla-2.5.4-win64.zip)
 
 - **Audified inTone 2** 2.5.9:2022 ($$)<br/>
   VST Host<br/>
@@ -89,27 +89,27 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bandlab.com/products/cakewalk)
   [Download](https://downloads.bandlab.com/cakewalk/setup/CakewalkSetup.exe)
 
-- **Cockos Reaper** 6.71:2022 ($$)<br/>
+- **Cockos Reaper** 6.78:2023 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
-  [Download](https://www.reaper.fm/files/6.x/reaper671_x64-install.exe)
+  [Download](https://www.reaper.fm/files/6.x/reaper678_x64-install.exe)
 
-- **Ardour** 7.1:2022 ($$)<br/>
+- **Ardour** 7.3:2023 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://ardour.org/)
   [Download](https://community.ardour.org/download?platform=win&architecture=x86_64&type=compiled)
 
 ### VST Host (Standalone, Digital Audio Editor)
 
-- **OcenAudio** 3.11.21:2022 (0)<br/>
+- **OcenAudio** 3.11.22:2023 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.2.2:2022 (0)<br/>
+- **Audacity** 3.2.5:2023 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.2.2/audacity-win-3.2.2-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.2.5/audacity-win-3.2.5-x64.exe)
 
 ### VST Host (Standalone or Plugin)
 
@@ -152,10 +152,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Melda Production MFreeFXBundle** 16.03:2022 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 16.04:2023 (0/$$)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
-  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.03&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_03_setup.exe&checksum=2d6e443431d8391018e2496e39d00d39b1b252ff)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.04&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_03_setup.exe&checksum=2d6e443431d8391018e2496e39d00d39b1b252ff)
 
 - **BlueCat Freeware Plug-Ins Pack II** :2022 (0) [RECOMMENDED]<br/>
   Small Audio VST Plugin-Bundle (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
@@ -1070,12 +1070,12 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Sender/Receiver
 
-- **BlueCat Connector** 1.11 ($$) [RECOMMENDED]<br/>
+- **BlueCat Connector** 1.12 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (1:1 Sender/Receiver)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
 
-- **NDI Tools's NDI Direct: NDI Output/Input** 5.5.1.0 (0)<br/>
+- **NDI Tools's NDI Direct: NDI Output/Input** 5.5.3.0 (0)<br/>
   Audio VST Plugin (1:1 Sender/Receiver)<br/>
   [Homepage](https://www.ndi.tv/tools/)
   [Download](https://downloads.ndi.tv/Tools/NDI%205%20Tools.exe)
@@ -1085,10 +1085,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **SonoBus** 1.5.1 (0)<br/>
+- **SonoBus** 1.6.2:2023 (0)<br/>
   Audio VST Plugin (High-Quality Network Audio Streaming, Conference Mode)<br/>
   [Homepage](https://www.sonobus.net/)
-  [Download](https://www.sonobus.net/releases/sonobus-1.5.1-win.exe)
+  [Download](https://www.sonobus.net/releases/sonobus-1.6.2-win.exe)
 
 ### VST Plugin: Scripting
 
@@ -1216,7 +1216,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tobias-erichsen.de/software/rtpmidi.html)
   [Download](https://www.tobias-erichsen.de/wp-content/uploads/2020/01/rtpMIDISetup_1_1_14_247.zip)
 
-- **Protokol** 0.4.8.93 (0)<br/>
+- **Protokol** 0.4.10.97 (0)<br/>
   MIDI/OSC Event Viewer<br/>
   [Homepage](https://hexler.net/protokol)
   [Download](https://hexler.net/pub/protokol/protokol-0.4.8.93-win64.exe)
@@ -1226,10 +1226,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://hautetechnique.com/midi/midiview/)
   [Download](https://hautetechnique.com/apps/backend/v1/apps/midiview/latest/win64)
 
-- **TouchOSC** 1.1.9.157 ($) [RECOMMENDED]<br/>
+- **TouchOSC** 1.1.9.163 ($) [RECOMMENDED]<br/>
   OSC/MIDI Control Surface<br/>
   [Homepage](https://hexler.net/touchosc)
-  [Download](https://hexler.net/pub/touchosc/touchosc-1.1.8.157-win64.exe)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.1.9.163-win64.exe)
 
 - **Open Stage Control** 1.20.0 (0)<br/>
   OSC/MIDI Control Surface<br/>
