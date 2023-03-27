@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.33 (2023-03-15)
+Version 1.1.34 (2023-03-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -82,6 +82,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://github.com/rolandoislas/LightHost)
   [Download](https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip)
 
+- **Deskew Gig Performer** 4.5.8:2022 ($$$)<br/>
+  VST Host<br/>
+  [Homepage](https://gigperformer.com/)
+  [Download](https://gigperformer.com/downloads.html)
+
 ### VST Host (Standalone, Digital Audio Workstation)
 
 - **BandLab Cakewalk** 2022.11.1:2022 (0)<br/>
@@ -113,7 +118,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone or Plugin)
 
-- **BlueCat PatchWork** 2.61:2022 ($$) [RECOMMENDED]<br/>
+- **BlueCat PatchWork** 2.65:2023 ($$) [RECOMMENDED]<br/>
   VST Host (can act standalone or as a VST plugin itself, even as a VST3 to VST2 converter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
