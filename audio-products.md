@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.34 (2023-03-27)
+Version 1.1.35 (2023-04-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -20,7 +20,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **SteelSeries Sonar** 33.0.0:2023 (0)<br/>
+- **SteelSeries Sonar** 35.0.0:2023 (0)<br/>
   Audio Channel Mixer (including built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://steelseries.com/gg/sonar/)
   [Download](https://steelseries.com/gg/downloads/gg/latest/windows)
@@ -47,7 +47,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4062.exe)
 
-- **Steinberg VST Live** :2022 ($$)<br/>
+- **Steinberg VST Live** 1.1:2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
   [Homepage](https://www.steinberg.net/de/vst-live/)
   [Download](https://www.steinberg.net/de/vst-live/)
@@ -106,7 +106,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Digital Audio Editor)
 
-- **OcenAudio** 3.11.22:2023 (0)<br/>
+- **OcenAudio** 3.11.23:2023 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
