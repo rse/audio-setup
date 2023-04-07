@@ -938,7 +938,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tbproaudio.de/products/amm)
   [Download](https://www.tbproaudio.de/assets/content/download/AMM2_Installer_WIN_2015.zip)
 
-- **AYAIC Mix Monolith** 0.6.0:2022 ($$$)<br/>
+- **AYAIC Mix Monolith** 0.6.2:2022 ($$$)<br/>
   Audio VST Plugin (Microphone Volume Balancer, mixing-focused)<br/>
   [Homepage](https://www.ayaicinc.com/mix-monolith)
   [Download](https://www.ayaicinc.com/mix-monolith)
@@ -1078,9 +1078,14 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_ReHead/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_ReHead/BlueCatReHeadVST3Demo-x64Setup.exe)
 
+- **Steven Slate Audio's VSX** 0 ($$$)<br/>
+  Audio VST Plugin (Simulate Rooms on Headphones)<br/>
+  [Homepage](https://stevenslateaudio.com/vsx)
+  [Download](https://stevenslateaudio.com/vsx)
+
 ### VST Plugin: Sender/Receiver
 
-- **BlueCat Connector** 1.12 ($$) [RECOMMENDED]<br/>
+- **BlueCat Connector** 1.12:2023 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (1:1 Sender/Receiver)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
@@ -1304,7 +1309,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://voiceattack.com/FileSend.aspx?id=VoiceAttackInstaller64.exe)
 
 - **VoiceMod** :2022 (0)<br/>
-  Voice Modificatio<br/>
+  Voice Modification<br/>
   [Homepage](https://www.voicemod.net/)
   [Download](https://www.voicemod.net/)
 
