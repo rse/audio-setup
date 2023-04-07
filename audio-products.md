@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.35 (2023-04-01)
+Version 1.1.36 (2023-04-07)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -236,10 +236,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://fuseaudiolabs.de/#/pages/product?id=301012112)
   [Download](https://fuseaudiolabs.de/vendor/fuseaudiolabs/php/account.php?op=downloadfile&name=fuse_audio_labs_vcs1_win_1_0_1.zip)
 
-- **Voxessor** 0 ($$$)<br/>
+- **UnitedPlugins Voxessor** 2.7 ($$$)<br/>
   All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, etc)<br/>
-  [Homepage](https://www.waproduction.com/plugins/view/voxessor)
-  [Download](https://www.waproduction.com/plugins/view/voxessor)
+  [Homepage](https://unitedplugins.com/Voxessor/)
+  [Download](https://unitedplugins.com/Voxessor/)
 
 - **iZotope Neutron 4** 4:2022 ($$$)<br/>
   All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate, etc) (latency: 384-1024smp/7-21ms)<br/>
@@ -536,6 +536,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Ducking, Frequency Cutting) (latency: 1024smp/21ms)<br/>
   [Homepage](https://www.izotope.com/en/products/neutron.html)
   [Download](https://www.izotope.com/en/products/neutron.html)
+
+- **UnitedPlugins VoxDucker** 1.2 ($$)<br/>
+  Audio VST Plugin (Ducking, Frequency/Spectrum Ducking) (latency: high)<br/>
+  [Homepage](https://unitedplugins.com/VoxDucker/)
+  [Download](https://unitedplugins.com/VoxDucker/)
 
 - **Audified SpeakUp** 1.0.1 ($)<br/>
   Audio VST Plugin (Ducking, Frequency Ducking)<br/>
