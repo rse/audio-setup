@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.36 (2023-04-07)
+Version 1.1.37 (2023-05-28)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -20,12 +20,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **SteelSeries Sonar** 35.0.0:2023 (0)<br/>
+- **SteelSeries Sonar** 38.0.0:2023 (0)<br/>
   Audio Channel Mixer (including built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://steelseries.com/gg/sonar/)
   [Download](https://steelseries.com/gg/downloads/gg/latest/windows)
 
-- **Virtual Audio Cable (VAC)** 4.67:2022 ($$) [RECOMMENDED]<br/>
+- **Virtual Audio Cable (VAC)** 4.70:2023 ($$) [RECOMMENDED]<br/>
   Virtual Audio Cable (arbitrary number of cable devices)<br/>
   [Homepage](https://vac.muzychenko.net/en/)
   [Download](https://software.muzychenko.net/trials/vac466.exe)
@@ -52,10 +52,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.steinberg.net/de/vst-live/)
   [Download](https://www.steinberg.net/de/vst-live/)
 
-- **Audiostrom Live professor** 2022.2.1:2023 ($$)<br/>
+- **Audiostrom Live professor** 2022.2.3:2023 ($$)<br/>
   VST Host<br/>
   [Homepage](https://audiostrom.com/)
-  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2022-2-1/LiveProfessor-win-x64.msi)
+  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2022-2-3/LiveProfessor-win-x64.msi)
 
 - **VSL Vienna Ensemble Pro 7** 7:2022 ($$$)<br/>
   VST Host (provides client VST plugin)<br/>
@@ -94,27 +94,27 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bandlab.com/products/cakewalk)
   [Download](https://downloads.bandlab.com/cakewalk/setup/CakewalkSetup.exe)
 
-- **Cockos Reaper** 6.78:2023 ($$)<br/>
+- **Cockos Reaper** 6.80:2023 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
-  [Download](https://www.reaper.fm/files/6.x/reaper678_x64-install.exe)
+  [Download](https://www.reaper.fm/files/6.x/reaper680_x64-install.exe)
 
-- **Ardour** 7.3:2023 ($$)<br/>
+- **Ardour** 7.4:2023 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://ardour.org/)
   [Download](https://community.ardour.org/download?platform=win&architecture=x86_64&type=compiled)
 
 ### VST Host (Standalone, Digital Audio Editor)
 
-- **OcenAudio** 3.11.23:2023 (0)<br/>
+- **OcenAudio** 3.11.27:2023 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.2.5:2023 (0)<br/>
+- **Audacity** 3.3.2:2023 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.2.5/audacity-win-3.2.5-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.3.2/audacity-win-3.3.2-x64.exe)
 
 ### VST Host (Standalone or Plugin)
 
@@ -135,7 +135,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Plugin Only)
 
-- **BlueCat MB-7 Mixer** 3.5:2022 ($$)<br/>
+- **BlueCat MB-7 Mixer** 3.55:2022 ($$)<br/>
   7-Band VST Host (acts as a VST plugin itself)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
   [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
@@ -157,7 +157,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Melda Production MFreeFXBundle** 16.04:2023 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 16.05:2023 (0/$$)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.04&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_03_setup.exe&checksum=2d6e443431d8391018e2496e39d00d39b1b252ff)
@@ -359,10 +359,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
-- **Bertom Denoiser** 2.1.2:2022 (0/$)<br/>
+- **Bertom Denoiser** 3.0.3:2023 (0/$)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
-  [Homepage](https://bertom.gumroad.com/l/denoiser)
-  [Download](https://bertom.gumroad.com/l/denoiser)
+  [Homepage](https://bertomaudio.com/denoiser-classic.html)
+  [Download](https://bertomaudio.com/denoiser-classic.html)
 
 - **Acon Digital Restoration Suite DeNoise** 2.1.2 ($$)<br/>
   Audio VST Plugin (Noise Suppressor)<br/>
@@ -465,12 +465,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
 
-- **TDR Nova GE** 2.1.5 ($$)<br/>
+- **TDR Nova GE** 2.1.6 ($$)<br/>
   Audio VST Plugin (Parallel Dynamic Parametric Equalizer, EQ+Compressor) (latency: 187smp/3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-nova-ge/)
   [Download](https://www.tokyodawn.net/labs/NovaGE/2.1.5/TDR%20Nova%20GE%20Demo%20(installer).zip?x24775)
 
-- **TDR Nova** 2.1.5 (0)<br/>
+- **TDR Nova** 2.1.6 (0)<br/>
   Audio VST Plugin (Parallel Dynamic Parametric Equalizer) (latency: 187smp/3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-nova/)
   [Download](https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova%20(installer).zip?x24775)
@@ -738,7 +738,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Volume Limiting
 
-- **TDR Limiter GE 6** 1.2.4 ($$) [RECOMMENDED]<br/>
+- **TDR Limiter GE 6** 1.2.6 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Limiter) (latency: 14smp/0.3ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-limiter6-ge/)
   [Download](https://www.tokyodawn.net/labs/Limiter6GE/1.2.4/TDR%20Limiter%206%20GE%20Demo%20(installer).zip?x24775)
@@ -862,7 +862,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.hornetplugins.com/plugins/hornet-autogain-pro-mk2/)
   [Download](https://www.hornetplugins.com/wp-content/demo/HoRNetAutoGainProMK2-2.1.0-demo.zip)
 
-- **Melda Productions MAutoVolume** :2022 ($)<br/>
+- **Melda Productions MAutoVolume** 16.05:2023 ($)<br/>
   Audio VST Plugin (Volume Leveler)<br/>
   [Homepage](https://www.meldaproduction.com/MAutoVolume)
   [Download](https://www.meldaproduction.com/MAutoVolume)
@@ -884,7 +884,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://letimix.com/products/gainmatch)
   [Download](https://files.letimix.com/gainmatch/GainMatch%20Win64%20VST3%20v1.403%20b221028.zip)
 
-- **Melda Production MCompare** 16.02 (0/$$)<br/>
+- **Melda Production MCompare** 16.05:2023 (0/$$)<br/>
   Audio VST Plugin (A/B Loudness Measurement, Gain Staging)<br/>
   [Homepage](https://www.meldaproduction.com/MCompare)
   [Download](https://www.meldaproduction.com/MCompare)
@@ -977,12 +977,12 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Spectrum Visualization
 
-- **Voxengo SPAN Plus** 1.21 ($$) [RECOMMENDED]<br/>
+- **Voxengo SPAN Plus** 1.23 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.voxengo.com/product/spanplus/)
   [Download](https://www.voxengo.com/files/VoxengoSPANPlus_121_Win32_64_VST_VST3_AAX_setup.exe)
 
-- **Voxengo SPAN** 3.15 (0) [RECOMMENDED]<br/>
+- **Voxengo SPAN** 3.18 (0) [RECOMMENDED]<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.voxengo.com/product/span/)
   [Download](https://www.voxengo.com/files/VoxengoSPAN_315_Win32_64_VST_VST3_AAX_setup.exe)
@@ -1004,7 +1004,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.toneboosters.com/tb_spectrogram_v1.html)
   [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
 
-- **MeldaProductions MAnalyzer** 16.02:2022 ($$)<br/>
+- **MeldaProductions MAnalyzer** 16.05:2023 ($$)<br/>
   Audio VST Plugin (Spectrogram Visualizer)<br/>
   [Homepage](https://www.meldaproduction.com/MAnalyzer)
   [Download](https://www.meldaproduction.com/Analyzer)
@@ -1031,7 +1031,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Playing/Recording
 
-- **Melda Production MRecorder** 15.02 (0/$$)<br/>
+- **Melda Production MRecorder** 16.05:2023 (0/$$)<br/>
   Audio VST Plugin (WAV-Recorder)<br/>
   [Homepage](https://www.meldaproduction.com/MRecorder)
   [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=15.02&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_15_02_setup.exe&checksum=e960c04e1f3d1e1b066eee9ca43eddc3ad9ffab0)
@@ -1041,7 +1041,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://miraxlabs.com/products/vstplayer/)
   [Download](https://miraxlabs.com/products/vstplayer/)
 
-- **MeldaProductions MSuperLooper** 16.02:2022 ($$)<br/>
+- **MeldaProductions MSuperLooper** 16.05:2023 ($$)<br/>
   Audio VST Plugin (Recorder and Loop Player)<br/>
   [Homepage](https://www.meldaproduction.com/MSuperLooper)
   [Download](https://www.meldaproduction.com/MSuperLooper)
