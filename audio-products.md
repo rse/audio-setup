@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.37 (2023-05-28)
+Version 1.1.38 (2023-06-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -279,6 +279,16 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://acondigital.de/produkte/verberate/)
 
 ### VST Plugin: Reverberation Removal
+
+- **Waves Clarity Vx DeReverb Pro** 14.0 ($$$)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: 2048smp42ms)<br/>
+  [Homepage](https://www.waves.com/plugins/clarity-vx-dereverb-pro)
+  [Download](https://www.waves.com/plugins/clarity-vx-dereverb-pro)
+
+- **Waves Clarity Vx DeReverb** 14.0 ($$)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: 2048smp42ms)<br/>
+  [Homepage](https://www.waves.com/plugins/clarity-vx-dereverb)
+  [Download](https://www.waves.com/plugins/clarity-vx-dereverb)
 
 - **Acon Digital DeVerberate** 3.0.4 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Room Reverberation Removal) (latency: 2560smp/53ms)<br/>
