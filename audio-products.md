@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.38 (2023-06-06)
+Version 1.1.39 (2023-06-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -260,6 +260,31 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (Compressor, Equalizer, De-Esser, Saturator, Noise Gate) (latency: 0)<br/>
   [Homepage](https://www.voxengo.com/product/voxformer/)
   [Download](https://www.voxengo.com/files/VoxengoVoxformer_221_Win32_64_VST_VST3_AAX_setup.exe)
+
+- **JST Howard Benson Vocals** :2023 ($$)<br/>
+  All-In-One VST Plugin (Compressor, Equalizer, Saturator) (latency: ?)<br/>
+  [Homepage](https://joeysturgistones.com/products/howard-benson-vocals)
+  [Download](https://joeysturgistones.com/products/howard-benson-vocals)
+
+- **Izotope Nectar** :2023 ($$$)<br/>
+  All-In-One VST Plugin (Compressor, Equalizer, De-Esser, Saturator, Noise Gate, Delay, Breath, Reverb, Pitch, Unmask) (latency: 193ms)<br/>
+  [Homepage](https://www.izotope.com/en/products/nectar.html)
+  [Download](https://www.izotope.com/en/products/nectar.html)
+
+- **RC-20 Retro Color** :2023 ($$)<br/>
+  All-In-One VST Plugin (Noise, Wobble, Distort, Digital, Space, etc) (latency: ?)<br/>
+  [Homepage](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
+  [Download](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
+
+- **TBProAudio CS-5501** 2.7.4:20233 ($$)<br/>
+  All-In-One VST Plugin (Compressor, Equalizer, Gate/Expander, De-Esser, Saturation, Limiter, etc) (latency: 0)<br/>
+  [Homepage](https://www.tbproaudio.de/products/cs-5501)
+  [Download](https://www.tbproaudio.de/products/cs-5501)
+
+- **SSL Native Vocalstrip 2** :20233 ($$)<br/>
+  All-In-One VST Plugin (Compressor, Equalizer, Gate/Expander, De-Esser, De-Ploser) (latency: ?)<br/>
+  [Homepage](https://store.solidstatelogic.com/plug-ins/ssl-native-vocalstrip-2)
+  [Download](https://store.solidstatelogic.com/plug-ins/ssl-native-vocalstrip-2)
 
 ### VST Plugin: Reverberation Creation
 
