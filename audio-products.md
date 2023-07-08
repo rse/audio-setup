@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.39 (2023-06-17)
+Version 1.1.40 (2023-07-08)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -393,6 +393,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Noise Suppressor, reduces background noise, single-knob control, adaptive) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
+
+- **GOYO** 0.9.3:2023 (0/$)<br/>
+  Audio VST Plugin (Noise Suppressor, De-Reverberation, Voice-Separation) (latency: ?)<br/>
+  [Homepage](https://goyo.app/)
+  [Download](https://goyo.app/)
 
 - **Bertom Denoiser** 3.0.3:2023 (0/$)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
