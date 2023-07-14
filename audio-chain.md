@@ -2,7 +2,7 @@
 Audio Chain
 ===========
 
-Version 1.1.7 (2022-09-18)
+Version 1.1.8 (2023-07-15)
 
 The general microphone audio processing chain is (in this order of individual processors):
 
@@ -56,7 +56,7 @@ For microphone ducking and voice-over, the following pre-processing products are
 
 For the primary audio processing chain, the following products are used:
 
-- **Acon Digital DeVerberate** for [room reverb removal](audio-chain/screenshot-07-de-reverb.png)<br/>
+- **Waves Clarity Vx DeReverb Pro** for [room reverb removal](audio-chain/screenshot-07-de-reverb.png)<br/>
   Rationale: zero latency, cheaper and as good in quality as DeRoom
 - **Waves WNS** for [noise suppression (phase 1)](audio-chain/screenshot-08-de-noiser-1.png)<br/>
   Rationale: zero latency, no noticable voice distortions, works good as a pre-suppressor
