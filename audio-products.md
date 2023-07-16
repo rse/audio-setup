@@ -124,7 +124,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
 
 - **Kushview Element** 0.47.0:2022 (0)<br/>
-  VST Host (fully free)<br/>
+  VST Host (fully free, can act standalone or as a VST plugin itself, even as a VST3 to VST2 converter)<br/>
   [Homepage](https://kushview.net/element/)
   [Download](https://kushview-builds.s3.amazonaws.com/element/windows/element-w64-0.47.0_r479.exe)
 
