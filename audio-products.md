@@ -436,6 +436,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.fabfilter.com/products/pro-ds-de-esser-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffprods119x64.exe)
 
+- **HOFA IQ-DeEsser** 0:2023 ($$)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://hofa-plugins.de/plugins/iq-deesser/)
+  [Download](https://hofa-plugins.de/plugins/iq-deesser/)
+
 - **Sleepy-Time Lisp** 1.0:2014 (0)<br/>
   Audio VST Plugin (De-Esser)<br/>
   [Homepage](https://sleepytimedsp.tumblr.com/downloads)
@@ -817,6 +822,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Limiter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Protector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Protector/BlueCatProtectorVST3Demo-x64Setup.exe)
+
+- **HOFA IQ-Limiter V2** 2:2023 ($$)<br/>
+  Audio VST Plugin (Limiter)<br/>
+  [Homepage](https://hofa-plugins.de/plugins/iq-limiter/)
+  [Download](https://hofa-plugins.de/plugins/iq-limiter/)
 
 ### VST Plugin: Volume Loudness Maximization
 
