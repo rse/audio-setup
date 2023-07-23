@@ -426,13 +426,13 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: De-Esser
 
-- **Waves Sibilance** 14.0 ($$) [RECOMMENDED]<br/>
+- **Waves Sibilance** 14.0:2023 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (De-Esser) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/sibilance)
   [Download](https://www.waves.com/plugins/sibilance)
 
-- **FabFilter Pro-DS** 1.19 ($$)<br/>
-  Audio VST Plugin (De-Esser)<br/>
+- **FabFilter Pro-DS** 1.21:2023 ($$)<br/>
+  Audio VST Plugin (De-Esser) (latency: 0 or 15ms)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-ds-de-esser-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffprods119x64.exe)
 
