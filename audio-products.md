@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.41 (2023-08-30)
+Version 1.1.42 (2023-08-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -211,6 +211,16 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.neverdieaudio.com)
   [Download](https://ccf23558-eb52-443e-bd9b-6383d021f85b.filesusr.com/archives/5f8f59_43f328c2f70043d29795b549ac0810ee.zip?dn=Speachy_1_0_setup_WIN.ZIP)
 
+- **Vocalator** :2023 ($$) [RECOMMENDED]<br/>
+  All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, Noise Suppressor, Equalizer, Limiter) (latency: 0)<br/>
+  [Homepage](https://anarchyaudioworx.com/vocalator-pro/)
+  [Download](https://anarchyaudioworx.com/vocalator-pro/)
+
+- **UnitedPlugins Voxessor** 2.7 ($$$)<br/>
+  All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, etc)<br/>
+  [Homepage](https://unitedplugins.com/Voxessor/)
+  [Download](https://unitedplugins.com/Voxessor/)
+
 - **Waves eMo D5 Dynamics** 14.0:2022 ($$) [RECOMMENDED]<br/>
   All-In-One VST Plugin (Gate/Expander, De-Esser, Compressor, Leveler, Limiter) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/emo-d5-dynamics)
@@ -235,11 +245,6 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (HPF/LPF, Compressor, Expander, Equalizer, Gate)<br/>
   [Homepage](https://fuseaudiolabs.de/#/pages/product?id=301012112)
   [Download](https://fuseaudiolabs.de/vendor/fuseaudiolabs/php/account.php?op=downloadfile&name=fuse_audio_labs_vcs1_win_1_0_1.zip)
-
-- **UnitedPlugins Voxessor** 2.7 ($$$)<br/>
-  All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, etc)<br/>
-  [Homepage](https://unitedplugins.com/Voxessor/)
-  [Download](https://unitedplugins.com/Voxessor/)
 
 - **iZotope Neutron 4** 4:2022 ($$$)<br/>
   All-In-One VST Plugin (Compressor, Expander, Equalizer, Gate, etc) (latency: 384-1024smp/7-21ms)<br/>
@@ -276,15 +281,20 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
   [Download](https://www.xlnaudio.com/products/addictive_fx/effect/rc-20_retro_color)
 
-- **TBProAudio CS-5501** 2.7.4:20233 ($$)<br/>
+- **TBProAudio CS-5501** 2.7.4:2023 ($$)<br/>
   All-In-One VST Plugin (Compressor, Equalizer, Gate/Expander, De-Esser, Saturation, Limiter, etc) (latency: 0)<br/>
   [Homepage](https://www.tbproaudio.de/products/cs-5501)
   [Download](https://www.tbproaudio.de/products/cs-5501)
 
-- **SSL Native Vocalstrip 2** :20233 ($$)<br/>
+- **SSL Native Vocalstrip 2** :2023 ($$)<br/>
   All-In-One VST Plugin (Compressor, Equalizer, Gate/Expander, De-Esser, De-Ploser) (latency: ?)<br/>
   [Homepage](https://store.solidstatelogic.com/plug-ins/ssl-native-vocalstrip-2)
   [Download](https://store.solidstatelogic.com/plug-ins/ssl-native-vocalstrip-2)
+
+- **Lindell Audio 80 Series** :2023 ($$)<br/>
+  All-In-One VST Plugin (Compressor, Equalizer, Gate/Expander, De-Esser, De-Ploser) (latency: ?)<br/>
+  [Homepage](https://www.plugin-alliance.com/en/products/lindell_80_series.html)
+  [Download](https://www.plugin-alliance.com/en/products/lindell_80_series.html)
 
 ### VST Plugin: Reverberation Creation
 
@@ -781,6 +791,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://bertom.gumroad.com/l/phantom-center)
   [Download](https://bertom.gumroad.com/l/phantom-center)
 
+- **WA Vocal Splitter** :2023 ($$)<br/>
+  Audio VST Plugin (mono to stero conversion) (latency: ?)<br/>
+  [Homepage](https://www.waproduction.com/plugins/view/vocal-splitter)
+  [Download](https://www.waproduction.com/plugins/view/vocal-splitter)
+
 ### VST Plugin: Volume Limiting
 
 - **TDR Limiter GE 6** 1.2.6 ($$) [RECOMMENDED]<br/>
@@ -862,6 +877,16 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Volume Leveling
 
+- **WA Production Outlaw** ($$)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://www.waproduction.com/plugins/view/outlaw)
+  [Download](https://www.waproduction.com/plugins/view/outlaw)
+
+- **WA Production Outlaw Lite** (0)<br/>
+  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
+  [Homepage](https://www.waproduction.com/plugins/view/outlaw-lite)
+  [Download](https://www.waproduction.com/plugins/view/outlaw-lite)
+
 - **Waves Vocal Rider** 2022-05 ($$)<br/>
   Audio VST Plugin (Volume Leveler) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/vocal-rider)
@@ -892,16 +917,6 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://quietart.co.nz/waveridertg/)
   [Download](https://quietart.co.nz/download/1397/)
 
-- **WA Production Outlaw** ($$)<br/>
-  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
-  [Homepage](https://www.waproduction.com/plugins/view/outlaw)
-  [Download](https://www.waproduction.com/plugins/view/outlaw)
-
-- **WA Production Outlaw Lite** (0)<br/>
-  Audio VST Plugin (Volume Leveler) (latency: ?)<br/>
-  [Homepage](https://www.waproduction.com/plugins/view/outlaw-lite)
-  [Download](https://www.waproduction.com/plugins/view/outlaw-lite)
-
 - **Junger Audio-Level Magic** 2022-05 ($$$)<br/>
   Audio VST Plugin (Microphone Volume Balancer)<br/>
   [Homepage](https://www.flux.audio/project/junger-audio-level-magic/)
@@ -915,6 +930,11 @@ of setting up various audio chains at home and in the software industry.
 - **Melda Productions MAutoVolume** 16.05:2023 ($)<br/>
   Audio VST Plugin (Volume Leveler)<br/>
   [Homepage](https://www.meldaproduction.com/MAutoVolume)
+  [Download](https://www.meldaproduction.com/MAutoVolume)
+
+- **TriLeveler 2** 1.0:2023 (0)<br/>
+  Audio VST Plugin (Volume Leveler)<br/>
+  [Homepage]()
   [Download](https://www.meldaproduction.com/MAutoVolume)
 
 ### VST Plugin: Volume Control
