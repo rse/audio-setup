@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.42 (2023-08-30)
+Version 1.1.43 (2023-09-15)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -42,10 +42,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4063:2023 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4064:2023 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4063.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4064.exe)
 
 - **Steinberg VST Live** 1.1:2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
