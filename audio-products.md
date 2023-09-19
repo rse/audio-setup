@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.43 (2023-09-15)
+Version 1.1.44 (2023-09-19)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -295,6 +295,11 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (Compressor, Equalizer, Gate/Expander, De-Esser, De-Ploser) (latency: ?)<br/>
   [Homepage](https://www.plugin-alliance.com/en/products/lindell_80_series.html)
   [Download](https://www.plugin-alliance.com/en/products/lindell_80_series.html)
+
+- **IK Multimedia Mixbox** 1.5.0:2023 ($$)<br/>
+  All-In-One VST Plugin (Everything) (latency: ?)<br/>
+  [Homepage](https://www.ikmultimedia.com/products/mixbox/)
+  [Download](https://www.ikmultimedia.com/products/mixbox/)
 
 ### VST Plugin: Reverberation Creation
 
