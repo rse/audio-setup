@@ -848,6 +848,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://hofa-plugins.de/plugins/iq-limiter/)
   [Download](https://hofa-plugins.de/plugins/iq-limiter/)
 
+- **Apogee Soft Limit** :2023 (0)<br/>
+  Audio VST Plugin (Limiter)<br/>
+  [Homepage](https://apogeedigital.com/soft-limit-download-link)
+  [Download](https://apogeedigital.com/soft-limit-download-link)
+
 ### VST Plugin: Volume Loudness Maximization
 
 - **TBProAudio FinalLoud 3** 3.0.17:2022 ($$)<br/>
