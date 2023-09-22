@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.44 (2023-09-19)
+Version 1.1.45 (2023-09-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -303,7 +303,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Reverberation Creation
 
-- **FabFilter Pro-R** :2022 ($$)<br/>
+- **FabFilter Pro-R** 1.15:2022 ($$)<br/>
   Audio VST Plugin (Room Reverbaration Creation)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-r-reverb-plug-in)
   [Download](https://www.fabfilter.com/products/pro-r-reverb-plug-in)
@@ -449,7 +449,7 @@ of setting up various audio chains at home and in the software industry.
 - **FabFilter Pro-DS** 1.21:2023 ($$)<br/>
   Audio VST Plugin (De-Esser) (latency: 0 or 15ms)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-ds-de-esser-plug-in)
-  [Download](https://www.fabfilter.com/downloads/ffprods119x64.exe)
+  [Download](https://www.fabfilter.com/downloads/ffprods121x64.exe)
 
 - **HOFA IQ-DeEsser** 0:2023 ($$)<br/>
   Audio VST Plugin (De-Esser)<br/>
@@ -520,7 +520,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
   [Download](https://www.waves.com/plugins/f6-floating-band-dynamic-eq)
 
-- **FabFilter Pro-Q 3** 3.21 ($$$)<br/>
+- **FabFilter Pro-Q 3** 3.23:2023 ($$$)<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
@@ -634,10 +634,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tokyodawn.net/tdr-kotelnikov-ge/)
   [Download](https://www.tokyodawn.net/labs/KotelnikovGE/1.6.4/TDR%20Kotelnikov%20GE%20Demo%20(installer).zip?x24775)
 
-- **FabFilter Pro-C 2** 2.15 ($$$)<br/>
+- **FabFilter Pro-C 2** 2.17:2023 ($$$)<br/>
   Audio VST Plugin (Compressor)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-c-2-compressor-plug-in)
-  [Download](https://www.fabfilter.com/downloads/ffproc215x64.exe)
+  [Download](https://www.fabfilter.com/downloads/ffproc217x64.exe)
 
 - **FLUX Solera** 3 ($$$)<br/>
   Audio VST Plugin (Compressor, De-Compressor, Expander, De-Expander)<br/>
@@ -671,10 +671,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.toneboosters.com/tb_mbc_v1.html)
   [Download](https://www.toneboosters.com/downloads/TB_Installer_v1.6.5_win.zip)
 
-- **FabFilter Pro-MB** 1.26:2022 ($$$)<br/>
+- **FabFilter Pro-MB** 1.28:2023 ($$$)<br/>
   Audio VST Plugin (Compressor)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-mb-multiband-compressor-plug-in)
-  [Download](https://www.fabfilter.com/downloads/ffpromb126x64.exe)
+  [Download](https://www.fabfilter.com/downloads/ffpromb128x64.exe)
 
 - **BlueCat's MB-5 Dynamix** 2.21:2021 ($$$)<br/>
   Audio VST Plugin (Multi-Band Compressor, Limiter, Gate, Expander, Waveshaper)<br/>
@@ -693,10 +693,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.flux.audio/project/solera/)
   [Download](https://www.flux.audio/project/solera/)
 
-- **FabFilter Pro-G** 2.15 ($$$)<br/>
+- **FabFilter Pro-G** 1.31:2023 ($$$)<br/>
   Audio VST Plugin (Expander)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-g-gate-expander-plug-in)
-  [Download](https://www.fabfilter.com/downloads/ffprog129x64.exe)
+  [Download](https://www.fabfilter.com/downloads/ffprog131x64.exe)
 
 - **Rob Perry Gate** 1.3.0 (0)<br/>
   Audio VST Plugin (Sidechain Noise-Gate)<br/>
@@ -735,7 +735,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.soundtoys.com/product/Decapitator/)
   [Download](https://www.soundtoys.com/product/Decapitator/)
 
-- **FabFilter Saturn** 2.06 ($$$)<br/>
+- **FabFilter Saturn** 2.08 ($$$)<br/>
   Audio VST Plugin (analog saturation modeler) (latency: ?)<br/>
   [Homepage](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in)
   [Download](https://www.fabfilter.com/products/saturn-2-multiband-distortion-saturation-plug-in)
@@ -823,10 +823,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://loudmax.blogspot.com/)
   [Download](https://loudmax.blogspot.com/)
 
-- **FabFilter Pro-L 2** 2.11:2022 ($$)<br/>
+- **FabFilter Pro-L 2** 2.21:2022 ($$)<br/>
   Audio VST Plugin (Limiter)<br/>
   [Homepage](https://www.fabfilter.com/products/pro-l-2-limiter-plug-in)
-  [Download](https://www.fabfilter.com/downloads/ffprol211x64.exe)
+  [Download](https://www.fabfilter.com/downloads/ffprol221x64.exe)
 
 - **DMG Audio Limitless** 1.15:2022 ($$$)<br/>
   Audio VST Plugin (Limiter, Multi-Band, Dual-Stage, Very Transparent)<br/>
