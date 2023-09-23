@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.45 (2023-09-22)
+Version 1.1.46 (2023-09-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -555,8 +555,8 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.eventideaudio.com/plug-ins/spliteq/)
   [Download](https://www.eventideaudio.com/downloads/spliteq-installer-win-64-bit)
 
-- **Sonible smart:EQ 3** 3 ($$$)<br/>
-  Audio VST Plugin (Parametric Equalizer)<br/>
+- **Sonible smart:EQ live** 3 ($$$)<br/>
+  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
   [Homepage](https://www.sonible.com/smarteq3/)
   [Download](https://www.sonible.com/smarteq3/)
 
@@ -579,6 +579,16 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Graphical Equalizer, 7-band)<br/>
   [Homepage](https://www.manda-audio.com/products.php)
   [Download](https://downloads.manda-audio.com/download76187/7Q/1.0.1/en/7Q-1.0.1-VST-64bit-Win-FULL.zip)
+
+- **Sonible pure:EQ** 1.0.1:2023 ($$)<br/>
+  Audio VST Plugin (AI-driven automatic Equalizer)<br/>
+  [Homepage](https://www.sonible.com/pureeq/)
+  [Download](https://www.sonible.com/pureeq/)
+
+- **Soundtheory Gullfoss Live** 1.11.5:2023 ($$$)<br/>
+  Audio VST Plugin (AI-driven automatic Equalizer) (latency: 2ms)<br/>
+  [Homepage](https://www.soundtheory.com/)
+  [Download](https://www.soundtheory.com/)
 
 ### VST Plugins: Ducking
 
