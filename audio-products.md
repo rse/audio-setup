@@ -357,8 +357,8 @@ of setting up various audio chains at home and in the software industry.
 
 - **iZotope RX 10 De-Reverb** ($$$)<br/>
   Audio VST Plugin (Room Reverberation Removal) (latency: 9727smp/203ms)<br/>
-  [Homepage](https://www.izotope.com/en/products/neutron.html)
-  [Download](https://www.izotope.com/en/products/neutron.html)
+  [Homepage](https://www.izotope.com/en/products/rx.html)
+  [Download](https://www.izotope.com/en/products/rx.html)
 
 - **SPL De-Verb Plus** 1.8.1:2022 ($$)<br/>
   Audio VST Plugin (Room Reverberation Removal)<br/>
@@ -419,11 +419,6 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://bertomaudio.com/denoiser-classic.html)
   [Download](https://bertomaudio.com/denoiser-classic.html)
 
-- **Acon Digital Restoration Suite DeNoise** 2.1.2 ($$)<br/>
-  Audio VST Plugin (Noise Suppressor)<br/>
-  [Homepage](https://acondigital.de/produkte/restoration-suite/)
-  [Download](https://acondigital.de/produkte/restoration-suite/)
-
 - **Reaper ReaPlugs ReaFIR** 2.36 (0)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 512smp/10ms)<br/>
   [Homepage](https://www.reaper.fm/reaplugs/)
@@ -438,6 +433,23 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Noise Suppressor)<br/>
   [Homepage](https://klevgrand.com/products/brusfri)
   [Download](https://s3-us-west-1.amazonaws.com/klevdata/plugins/brusfri/brusfri_1_2_1_win.zip)
+
+### VST Plugin: Restoration
+
+- **Accentize dxRevive** 2.0.8 ($$$)<br/>
+  Audio VST Plugin (Voice Restoration) (latency: ?)<br/>
+  [Homepage](https://www.accentize.com/dxrevive/)
+  [Download](https://www.accentize.com/dxrevive/)
+
+- **Acon Digital Restoration Suite DeNoise** 2.1.2 ($$)<br/>
+  Audio VST Plugin (Noise Suppressor)<br/>
+  [Homepage](https://acondigital.de/produkte/restoration-suite/)
+  [Download](https://acondigital.de/produkte/restoration-suite/)
+
+- **iZotope RX 10** ($$$)<br/>
+  Audio VST Plugin (Room Reverberation Removal) (latency: 9727smp/203ms)<br/>
+  [Homepage](https://www.izotope.com/en/products/rx.html)
+  [Download](https://www.izotope.com/en/products/rx.html)
 
 ### VST Plugin: De-Esser
 
