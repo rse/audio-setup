@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.46 (2023-09-23)
+Version 1.1.47 (2023-10-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -20,7 +20,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **SteelSeries Sonar** 45.0.0:2023 (0)<br/>
+- **SteelSeries Sonar** 49.0.0:2023 (0)<br/>
   Audio Channel Mixer (including built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://steelseries.com/gg/sonar/)
   [Download](https://steelseries.com/gg/downloads/gg/latest/windows)
@@ -62,10 +62,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.vsl.co.at/de/Vienna_Software_Package/Vienna_Ensemble_Pro)
   [Download](https://www.vsl.co.at/de/Vienna_Software_Package/Vienna_Ensemble_Pro)
 
-- **Carla** 2.5.6:2023 (0)<br/>
+- **Carla** 2.5.7:2023 (0)<br/>
   VST Host (fully free)<br/>
   [Homepage](https://github.com/falkTX/Carla/)
-  [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.6/Carla-2.5.6-win64.zip)
+  [Download](https://github.com/falkTX/Carla-Releases/releases/download/v2.5.7/Carla-2.5.7-win64.zip)
 
 - **Audified inTone 2** 2.5.9:2022 ($$)<br/>
   VST Host<br/>
@@ -106,7 +106,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Digital Audio Editor)
 
-- **OcenAudio** 3.12.5:2023 (0)<br/>
+- **OcenAudio** 3.13.1:2023 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
@@ -409,7 +409,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
 
-- **GOYO** 0.9.3:2023 (0/$)<br/>
+- **Supertone Clear (formerly GOYO)** 0.9.3:2023 ($$)<br/>
   Audio VST Plugin (Noise Suppressor, De-Reverberation, Voice-Separation) (latency: ?)<br/>
   [Homepage](https://goyo.app/)
   [Download](https://goyo.app/)
