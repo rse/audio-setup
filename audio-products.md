@@ -1052,6 +1052,11 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Volume Metering
 
+- **Decibel** ($$$)<br/>
+  Audio VST Plugin (All-In-One Metering Dashboard)<br/>
+  [Homepage](https://process.audio/en/products/decibel)
+  [Download](https://process.audio/en/products/decibel)
+
 - **Youlean Loudness Meter** 2.4.3 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://youlean.co/youlean-loudness-meter/)
@@ -1176,6 +1181,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Simulate Mic/Speaker Devices)<br/>
   [Homepage](https://shop.audified.com/products/mixchecker-pro)
   [Download](https://shop.audified.com/products/mixchecker-pro)
+
+- **Oscillot Perspective** 0:2023 ($$)<br/>
+  Audio VST Plugin (Simulate Speaker Devices)<br/>
+  [Homepage](https://oscillotaudio.com/)
+  [Download](https://oscillotaudio.com/)
 
 - **ADSR Speakers** 0:2022 ($$)<br/>
   Audio VST Plugin (Simulate Speaker Devices)<br/>
