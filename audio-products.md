@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.47 (2023-10-20)
+Version 1.1.48 (2023-10-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -1130,6 +1130,13 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Spectrogram Visualizer)<br/>
   [Homepage](https://www.izotope.com/en/products/insight.html)
   [Download](https://www.izotope.com/en/products/insight.html)
+
+### VST Plugin: Monitoring
+
+- **TBProAudio ISOL8** 2.7.4:2023 (0)<br/>
+  5-Band Frequency Monitoring (Mute, Solo)<br/>
+  [Homepage](https://www.tbproaudio.de/products/isol8)
+  [Download](https://www.tbproaudio.de/assets/content/download/ISOL8_Installer_WIN_274.zip)
 
 ### VST Plugin: Playing/Recording
 
