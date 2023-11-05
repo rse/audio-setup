@@ -599,6 +599,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://babyaud.io/smooth-operator-plugin)
   [Download](https://babyaud.io/smooth-operator-plugin)
 
+- **McDSP SA-3** 3:2023 ($$$)<br/>
+  Audio VST Plugin (Automatic Equalizer) (latency: ?)<br/>
+  [Homepage](https://mcdsp.com/plugin-index/sa-3/)
+  [Download](https://mcdsp.com/plugin-index/sa-3/)
+
 - **TBProAudio DSEQ3** 3.8.5:2023 ($$)<br/>
   All-In-One VST Plugin (AI-driven automatic Equalizer) (latency: ?)<br/>
   [Homepage](https://www.tbproaudio.de/products/dseq)
@@ -614,10 +619,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.sonible.com/smarteq3/)
   [Download](https://www.sonible.com/smarteq3/)
 
-- **McDSP SA-3** 3:2023 ($$$)<br/>
-  Audio VST Plugin (Automatic Equalizer) (latency: ?)<br/>
-  [Homepage](https://mcdsp.com/plugin-index/sa-3/)
-  [Download](https://mcdsp.com/plugin-index/sa-3/)
+- **Voxengo TOETE** 1.1.4:2023 ($$)<br/>
+  Audio VST Plugin (Dynamic Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.voxengo.com/product/teote/)
+  [Download](https://www.voxengo.com/product/teote/)
 
 ### VST Plugins: Ducking
 
