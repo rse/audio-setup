@@ -624,6 +624,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.voxengo.com/product/teote/)
   [Download](https://www.voxengo.com/product/teote/)
 
+- **Acon Digital De-Filter** 1.2.1:2023 ($$)<br/>
+  Audio VST Plugin (Removes Tonal Imbalances) (latency: 0)<br/>
+  [Homepage](https://acondigital.com/products/defilter)
+  [Download](https://acondigital.com/products/defilter)
+
 ### VST Plugins: Ducking
 
 - **Wavesfactory Trackspacer** 2.5.9 ($$) [RECOMMENDED]<br/>
