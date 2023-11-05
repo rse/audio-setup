@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.48 (2023-10-27)
+Version 1.1.49 (2023-11-05)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -567,11 +567,6 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.eventideaudio.com/plug-ins/spliteq/)
   [Download](https://www.eventideaudio.com/downloads/spliteq-installer-win-64-bit)
 
-- **Sonible smart:EQ live** 3 ($$$)<br/>
-  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
-  [Homepage](https://www.sonible.com/smarteq3/)
-  [Download](https://www.sonible.com/smarteq3/)
-
 - **Voxengo Marvel GEQ** 1.11 (0)<br/>
   Audio VST Plugin (Graphical Equalizer)<br/>
   [Homepage](https://www.voxengo.com/product/marvelgeq/)
@@ -597,10 +592,22 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.sonible.com/pureeq/)
   [Download](https://www.sonible.com/pureeq/)
 
+### VST Plugin: Auto/AI-Equalization
+
 - **Soundtheory Gullfoss Live** 1.11.5:2023 ($$$)<br/>
   Audio VST Plugin (AI-driven automatic Equalizer) (latency: 2ms)<br/>
   [Homepage](https://www.soundtheory.com/)
   [Download](https://www.soundtheory.com/)
+
+- **BABY Audio Smooth Operator** 0 ($$)<br/>
+  Audio VST Plugin (AI-driven automatic Equalizer) (latency: ?)<br/>
+  [Homepage](https://babyaud.io/smooth-operator-plugin)
+  [Download](https://babyaud.io/smooth-operator-plugin)
+
+- **Sonible smart:EQ live** 3 ($$$)<br/>
+  Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.sonible.com/smarteq3/)
+  [Download](https://www.sonible.com/smarteq3/)
 
 ### VST Plugins: Ducking
 
