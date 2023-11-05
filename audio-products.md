@@ -604,6 +604,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://babyaud.io/smooth-operator-plugin)
   [Download](https://babyaud.io/smooth-operator-plugin)
 
+- **TBProAudio DSEQ3** 3.8.5:2023 ($$)<br/>
+  All-In-One VST Plugin (AI-driven automatic Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.tbproaudio.de/products/dseq)
+  [Download](https://www.tbproaudio.de/products/dseq)
+
 - **Sonible smart:EQ live** 3 ($$$)<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
   [Homepage](https://www.sonible.com/smarteq3/)
