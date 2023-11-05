@@ -478,11 +478,6 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.patreon.com/posts/loades-62370686)
   [Download](https://analogobsession.com/wp-content/uploads/2022/02/LOADES_1.0.exe)
 
-- **Oeaksound Soothe 2** 1.3.0 ($$$)<br/>
-  Audio VST Plugin (Dynamic Resonance Suppressor for De-Essing, Uneven Tonal Balance, etc)<br/>
-  [Homepage](https://oeksound.com/plugins/soothe2/)
-  [Download](https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v130_Win.zip)
-
 - **Antares Sybil** 0 ($$)<br/>
   Audio VST Plugin (Variable-Frequency De-Esser)<br/>
   [Homepage](https://www.antarestech.com/product/sybil/)
@@ -608,6 +603,11 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (AI-driven automatic Equalizer) (latency: ?)<br/>
   [Homepage](https://www.tbproaudio.de/products/dseq)
   [Download](https://www.tbproaudio.de/products/dseq)
+
+- **Oeaksound Soothe 2** 1.3.0 ($$$)<br/>
+  Audio VST Plugin (Dynamic Resonance Suppressor for De-Essing, Uneven Tonal Balance, etc)<br/>
+  [Homepage](https://oeksound.com/plugins/soothe2/)
+  [Download](https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v130_Win.zip)
 
 - **Sonible smart:EQ live** 3:2023 ($$$)<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
