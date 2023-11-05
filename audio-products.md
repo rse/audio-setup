@@ -599,7 +599,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.soundtheory.com/)
   [Download](https://www.soundtheory.com/)
 
-- **BABY Audio Smooth Operator** 0 ($$)<br/>
+- **BABY Audio Smooth Operator** 0:2023 ($$)<br/>
   Audio VST Plugin (AI-driven automatic Equalizer) (latency: ?)<br/>
   [Homepage](https://babyaud.io/smooth-operator-plugin)
   [Download](https://babyaud.io/smooth-operator-plugin)
@@ -609,10 +609,15 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tbproaudio.de/products/dseq)
   [Download](https://www.tbproaudio.de/products/dseq)
 
-- **Sonible smart:EQ live** 3 ($$$)<br/>
+- **Sonible smart:EQ live** 3:2023 ($$$)<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
   [Homepage](https://www.sonible.com/smarteq3/)
   [Download](https://www.sonible.com/smarteq3/)
+
+- **McDSP SA-3** 3:2023 ($$$)<br/>
+  Audio VST Plugin (Automatic Equalizer) (latency: ?)<br/>
+  [Homepage](https://mcdsp.com/plugin-index/sa-3/)
+  [Download](https://mcdsp.com/plugin-index/sa-3/)
 
 ### VST Plugins: Ducking
 
