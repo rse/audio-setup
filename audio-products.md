@@ -735,6 +735,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_MB5Dynamix/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_MB5Dynamix/BlueCatMB5DynamixVST3Demo-x64Setup.exe)
 
+- **Waves C6** 14:2023 ($$)<br/>
+  Audio VST Plugin (Multi-Band Compressor)<br/>
+  [Homepage](https://www.waves.com/plugins/c6-multiband-compressor)
+  [Download](https://www.waves.com/plugins/c6-multiband-compressor)
+
 ### VST Plugin: Expansion/Gating
 
 - **BlueCat Dynamics** 4.41 ($$) [RECOMMENDED]<br/>
