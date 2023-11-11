@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.49 (2023-11-05)
+Version 1.1.50 (2023-11-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -86,6 +86,11 @@ of setting up various audio chains at home and in the software industry.
   VST Host<br/>
   [Homepage](https://gigperformer.com/)
   [Download](https://gigperformer.com/downloads.html)
+
+- **Waves SuperRack Performer** ?:2023 ($$)<br/>
+  VST Host<br/>
+  [Homepage](https://www.waves.com/mixers-racks/superrack-performer)
+  [Download](https://www.waves.com/mixers-racks/superrack-performer)
 
 ### VST Host (Standalone, Digital Audio Workstation)
 
