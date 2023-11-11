@@ -306,6 +306,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.ikmultimedia.com/products/mixbox/)
   [Download](https://www.ikmultimedia.com/products/mixbox/)
 
+- **Overload Voice** ?:2023 ($$)<br/>
+  All-In-One VST Plugin (Everything) (latency: ?)<br/>
+  [Homepage](https://www.overloud.com/products/voice)
+  [Download](https://www.overloud.com/products/voice)
+
 ### VST Plugin: Reverberation Creation
 
 - **FabFilter Pro-R** 1.15:2022 ($$)<br/>
@@ -507,6 +512,13 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (De-Esser)<br/>
   [Homepage](https://techivation.com/t-de-esser/)
   [Download](https://techivation.com/t-de-esser/)
+
+### VST Plugin: De-Boxy/De-Harsher
+
+- **Waves Manny Marroquin Triple D** 14:2023 ($$)<br/>
+  Audio VST Plugin (DeBoxy, DeHarsher, DeEsser)<br/>
+  [Homepage](https://www.waves.com/plugins/manny-marroquin-triple-d)
+  [Download](https://www.waves.com/plugins/manny-marroquin-triple-d)
 
 ### VST Plugin: De-Breathing
 
