@@ -626,10 +626,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tbproaudio.de/products/dseq)
   [Download](https://www.tbproaudio.de/products/dseq)
 
-- **Oeaksound Soothe 2** 1.3.0 ($$$)<br/>
-  Audio VST Plugin (Dynamic Resonance Suppressor for De-Essing, Uneven Tonal Balance, etc)<br/>
+- **Oeaksound Soothe 2** 1.3.1 ($$$)<br/>
+  Audio VST Plugin (Dynamic Resonance Suppressor for De-Essing, Uneven Tonal Balance, etc) (latency: 2-5ms)<br/>
   [Homepage](https://oeksound.com/plugins/soothe2/)
-  [Download](https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v130_Win.zip)
+  [Download](https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v131_Win.zip)
 
 - **Sonible smart:EQ live** 3:2023 ($$$)<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
