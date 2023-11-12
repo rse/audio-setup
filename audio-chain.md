@@ -83,7 +83,7 @@ three alternative chains.
 
 Alternative Chain 1:
 
-- **Waves WNS** or **Waves NS1** for noise suppression
+- **Waves WNS** or **Waves NS1** or **Supertone Clear** for noise suppression
 - **Waves F6** for equalization and exciting
 - **Waves eMO D5** for expansion, de-essing, compression, and limiting
 
