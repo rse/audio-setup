@@ -293,3 +293,13 @@ for all the basics. Let us recap all those essential basics:
    - **Sine Tone** is an amplitude at just a single frequency, and is considered
      the fundamental sound.
 
+- **Dynamic Processing**: there are usually four types of dynamic processing:
+  - **Downward Compression**:
+    DECREASES the volume for sounds ABOVE the threshold to attenuate too loud sounds (like cough, yell, and laugh).
+  - **Upward Compression**:
+    INCREASES the volume for sounds BELOW the threshold to boost too quiet sounds (like wishper, or turning away from mic)
+  - **Downward Expansion**:
+    DECREASES the volume for sounds BELOW the threshold to further attenuate quiet sounds (like noise floor)
+  - **Upward Expansion**:
+    INCREASES the volume for sounds ABOVE the threshold to further boost loud sounds (seldom required)
+
