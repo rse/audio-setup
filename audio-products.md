@@ -606,7 +606,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.tokyodawn.net/tdr-nova/)
   [Download](https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova%20(installer).zip?x24775)
 
-- **Sonnox Oxford Dynamic EQ** ?:2023 ($$)<br/>
+- **Sonnox Oxford Dynamic EQ** ?:2023 ($$$)<br/>
   Audio VST Plugin (Dynamic Parametric Equalizer) (latency: ?)<br/>
   [Homepage](https://www.uaudio.de/uad-plugins/equalizers/sonnox-oxford-dynamic-eq.html)
   [Download](https://www.uaudio.de/uad-plugins/equalizers/sonnox-oxford-dynamic-eq.html)
