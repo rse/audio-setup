@@ -549,16 +549,6 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.fabfilter.com/products/pro-q-3-equalizer-plug-in)
   [Download](https://www.fabfilter.com/downloads/ffproq321x64.exe)
 
-- **TDR Nova GE** 2.1.6 ($$)<br/>
-  Audio VST Plugin (Parallel Dynamic Parametric Equalizer, EQ+Compressor) (latency: 187smp/3ms)<br/>
-  [Homepage](https://www.tokyodawn.net/tdr-nova-ge/)
-  [Download](https://www.tokyodawn.net/labs/NovaGE/2.1.5/TDR%20Nova%20GE%20Demo%20(installer).zip?x24775)
-
-- **TDR Nova** 2.1.6 (0)<br/>
-  Audio VST Plugin (Parallel Dynamic Parametric Equalizer) (latency: 187smp/3ms)<br/>
-  [Homepage](https://www.tokyodawn.net/tdr-nova/)
-  [Download](https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova%20(installer).zip?x24775)
-
 - **TDR SlickEQ GE** 1.3.7 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 183smp/4ms)<br/>
   [Homepage](https://www.tokyodawn.net/tdr-vos-slickeq-ge/)
@@ -604,7 +594,24 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.sonible.com/pureeq/)
   [Download](https://www.sonible.com/pureeq/)
 
-### VST Plugin: Auto/AI-Equalization
+### VST Plugin: Dynamic Equalization
+
+- **TDR Nova GE** 2.1.6 ($$)<br/>
+  Audio VST Plugin (Parallel Dynamic Parametric Equalizer, EQ+Compressor) (latency: 187smp/3ms)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-nova-ge/)
+  [Download](https://www.tokyodawn.net/labs/NovaGE/2.1.5/TDR%20Nova%20GE%20Demo%20(installer).zip?x24775)
+
+- **TDR Nova** 2.1.6 (0)<br/>
+  Audio VST Plugin (Parallel Dynamic Parametric Equalizer) (latency: 187smp/3ms)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-nova/)
+  [Download](https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova%20(installer).zip?x24775)
+
+- **Sonnox Oxford Dynamic EQ** ?:2023 ($$)<br/>
+  Audio VST Plugin (Dynamic Parametric Equalizer) (latency: ?)<br/>
+  [Homepage](https://www.uaudio.de/uad-plugins/equalizers/sonnox-oxford-dynamic-eq.html)
+  [Download](https://www.uaudio.de/uad-plugins/equalizers/sonnox-oxford-dynamic-eq.html)
+
+### VST Plugin: Auto/AI Equalization
 
 - **Soundtheory Gullfoss Live** 1.11.5:2023 ($$$)<br/>
   Audio VST Plugin (AI-driven automatic Equalizer) (latency: 2ms)<br/>
