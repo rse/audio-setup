@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.50 (2023-11-11)
+Version 1.1.51 (2023-11-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -618,25 +618,25 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.soundtheory.com/)
   [Download](https://www.soundtheory.com/)
 
+- **Oeaksound Soothe 2** 1.3.1 ($$$)<br/>
+  Audio VST Plugin (Dynamic Resonance Suppressor for De-Essing, Uneven Tonal Balance, etc) (latency: 2-5ms)<br/>
+  [Homepage](https://oeksound.com/plugins/soothe2/)
+  [Download](https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v131_Win.zip)
+
 - **BABY Audio Smooth Operator** 0:2023 ($$)<br/>
   Audio VST Plugin (AI-driven automatic Equalizer) (latency: ?)<br/>
   [Homepage](https://babyaud.io/smooth-operator-plugin)
   [Download](https://babyaud.io/smooth-operator-plugin)
-
-- **McDSP SA-3** 3:2023 ($$$)<br/>
-  Audio VST Plugin (Automatic Equalizer) (latency: ?)<br/>
-  [Homepage](https://mcdsp.com/plugin-index/sa-3/)
-  [Download](https://mcdsp.com/plugin-index/sa-3/)
 
 - **TBProAudio DSEQ3** 3.8.5:2023 ($$)<br/>
   All-In-One VST Plugin (AI-driven automatic Equalizer) (latency: ?)<br/>
   [Homepage](https://www.tbproaudio.de/products/dseq)
   [Download](https://www.tbproaudio.de/products/dseq)
 
-- **Oeaksound Soothe 2** 1.3.1 ($$$)<br/>
-  Audio VST Plugin (Dynamic Resonance Suppressor for De-Essing, Uneven Tonal Balance, etc) (latency: 2-5ms)<br/>
-  [Homepage](https://oeksound.com/plugins/soothe2/)
-  [Download](https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v131_Win.zip)
+- **McDSP SA-3** 3:2023 ($$$)<br/>
+  Audio VST Plugin (Automatic Equalizer) (latency: ?)<br/>
+  [Homepage](https://mcdsp.com/plugin-index/sa-3/)
+  [Download](https://mcdsp.com/plugin-index/sa-3/)
 
 - **Sonible smart:EQ live** 3:2023 ($$$)<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
