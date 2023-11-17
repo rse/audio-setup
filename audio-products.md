@@ -643,7 +643,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.sonible.com/smarteq3/)
   [Download](https://www.sonible.com/smarteq3/)
 
-- **Voxengo TOETE** 1.1.4:2023 ($$)<br/>
+- **Voxengo TEOTE** 1.1.4:2023 ($$)<br/>
   Audio VST Plugin (Dynamic Equalizer) (latency: 0)<br/>
   [Homepage](https://www.voxengo.com/product/teote/)
   [Download](https://www.voxengo.com/product/teote/)
