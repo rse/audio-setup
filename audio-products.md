@@ -424,7 +424,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://goyo.app/)
   [Download](https://goyo.app/)
 
-- **Bertom Denoiser** 3.0.3:2023 (0/$)<br/>
+- **Bertom Denoiser** 3.0.4:2023 (0/$)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
   [Homepage](https://bertomaudio.com/denoiser-classic.html)
   [Download](https://bertomaudio.com/denoiser-classic.html)
