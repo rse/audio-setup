@@ -429,6 +429,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://bertomaudio.com/denoiser-classic.html)
   [Download](https://bertomaudio.com/denoiser-classic.html)
 
+- **Bertom Denoiser Pro** 3.0.4:2023 ($$)<br/>
+  Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
+  [Homepage](https://bertomaudio.com/denoiser-pro.html)
+  [Download](https://bertomaudio.com/denoiser-pro.html)
+
 - **Reaper ReaPlugs ReaFIR** 2.36 (0)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 512smp/10ms)<br/>
   [Homepage](https://www.reaper.fm/reaplugs/)
