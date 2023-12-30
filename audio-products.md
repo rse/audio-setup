@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.51 (2023-11-17)
+Version 1.1.52 (2023-12-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -20,7 +20,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **SteelSeries Sonar** 49.0.0:2023 (0)<br/>
+- **SteelSeries Sonar** 53.0.0:2023 (0)<br/>
   Audio Channel Mixer (including built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://steelseries.com/gg/sonar/)
   [Download](https://steelseries.com/gg/downloads/gg/latest/windows)
@@ -42,20 +42,20 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4064:2023 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4150:2023 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4064.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4150.exe)
 
 - **Steinberg VST Live** 1.1:2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
   [Homepage](https://www.steinberg.net/de/vst-live/)
   [Download](https://www.steinberg.net/de/vst-live/)
 
-- **Audiostrom Live professor** 2023.0.5:2023 ($$)<br/>
+- **Audiostrom Live professor** 2023.0.91:2023 ($$)<br/>
   VST Host<br/>
   [Homepage](https://audiostrom.com/)
-  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2023-0-5/LiveProfessor-win-x64.msi)
+  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2023-0-91/LiveProfessor-win-x64.msi)
 
 - **VSL Vienna Ensemble Pro 7** 7:2022 ($$$)<br/>
   VST Host (provides client VST plugin)<br/>
@@ -99,12 +99,12 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bandlab.com/products/cakewalk)
   [Download](https://downloads.bandlab.com/cakewalk/setup/CakewalkSetup.exe)
 
-- **Cockos Reaper** 6.82:2023 ($$)<br/>
+- **Cockos Reaper** 7.07:2023 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://www.reaper.fm/)
-  [Download](https://www.reaper.fm/files/6.x/reaper682_x64-install.exe)
+  [Download](https://www.reaper.fm/files/7.x/reaper707_x64-install.exe)
 
-- **Ardour** 7.5.0:2023 ($$)<br/>
+- **Ardour** 8.2.0:2023 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://ardour.org/)
   [Download](https://community.ardour.org/download?platform=win&architecture=x86_64&type=compiled)
@@ -150,10 +150,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/)
   [Download](https://ddmf.eu/metaplugin-chainer-vst-au-rtas-aax-wrapper/)
 
-- **VST3Shell** 1.2.1:2021 (0)<br/>
+- **VST3Shell** 1.3.1:2023 (0)<br/>
   VST Host (VST3 to VST2 converter)<br/>
   [Homepage](https://www.xlutop.com/buzz/zip/)
-  [Download](https://www.xlutop.com/buzz/zip/vst3shell_v1.2.1.zip)
+  [Download](https://www.xlutop.com/buzz/zip/vst3shell_v1.3.1.zip)
 
 ### VST Plugin: Suites/Bundles
 
@@ -162,10 +162,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Melda Production MFreeFXBundle** 16.05:2023 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 16.10:2023 (0/$$)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
-  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.04&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_03_setup.exe&checksum=2d6e443431d8391018e2496e39d00d39b1b252ff)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.10&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_10_setup.exe&checksum=2d6e443431d8391018e2496e39d00d39b1b252ff)
 
 - **BlueCat Freeware Plug-Ins Pack II** :2022 (0) [RECOMMENDED]<br/>
   Small Audio VST Plugin-Bundle (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
@@ -423,6 +423,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Noise Suppressor, De-Reverberation, Voice-Separation) (latency: ?)<br/>
   [Homepage](https://goyo.app/)
   [Download](https://goyo.app/)
+
+- **CEDAR VoiceEX** :2023 ($$$)<br/>
+  Audio VST Plugin (Noise Suppressor, Voice-Separation) (latency: ?)<br/>
+  [Homepage](https://www.cedar-audio.com/products/voicex/voicex.shtml)
+  [Download](https://www.cedar-audio.com/products/voicex/voicex.shtml)
 
 - **Bertom Denoiser** 3.0.4:2023 (0/$)<br/>
   Audio VST Plugin (Noise Suppressor) (latency: 0)<br/>
