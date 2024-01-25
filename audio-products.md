@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.52 (2023-12-30)
+Version 1.1.53 (2024-01-25)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -1275,6 +1275,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
 
+- **BlueCat Fader Hub** 1.0:2024 ($$)<br/>
+  Audio Mixer with Local/Remote Support (Connector compatible)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_FaderHub/)
+  [Download](https://www.bluecataudio.com/Products/Product_FaderHub/#Download)
+
 - **NDI Tools's NDI Direct: NDI Output/Input** 5.6.0.0 (0)<br/>
   Audio VST Plugin (1:1 Sender/Receiver)<br/>
   [Homepage](https://www.ndi.tv/tools/)
@@ -1426,10 +1431,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://hautetechnique.com/midi/midiview/)
   [Download](https://hautetechnique.com/apps/backend/v1/apps/midiview/latest/win64)
 
-- **TouchOSC** 1.2.2.175 ($) [RECOMMENDED]<br/>
+- **TouchOSC** 1.2.8.192 ($) [RECOMMENDED]<br/>
   OSC/MIDI Control Surface<br/>
   [Homepage](https://hexler.net/touchosc)
-  [Download](https://hexler.net/pub/touchosc/touchosc-1.2.2.175-win64.exe)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.2.8.192-win64.exe)
 
 - **Open Stage Control** 1.20.0 (0)<br/>
   OSC/MIDI Control Surface<br/>
