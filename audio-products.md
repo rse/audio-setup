@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.53 (2024-01-25)
+Version 1.1.54 (2024-02-09)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -851,6 +851,18 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (vocoder) (latency: ?)<br/>
   [Homepage](https://www.izotope.com/en/products/vocalsynth.html)
   [Download](https://www.izotope.com/en/products/vocalsynth.html)
+
+### VST Plugin: Vocal Removal
+
+- **Ultimate Vocal Remover** v5 (0)<br/>
+  Audio VST Plugin<br/>
+  [Homepage](https://ultimatevocalremover.com/)
+  [Download](https://ultimatevocalremover.com/)
+
+- **Serato Sample** ? (0)<br/>
+  Audio VST Plugin (a sampler, but can remove vocals)<br/>
+  [Homepage](https://serato.com/sample)
+  [Download](https://serato.com/sample)
 
 ### VST Plugin: Channel Panning
 
