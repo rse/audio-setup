@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.54 (2024-02-09)
+Version 1.1.55 (2024-02-16)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -695,8 +695,13 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.soundradix.com/products/muteomatic/)
   [Download](https://www.soundradix.com/products/muteomatic/)
 
+- **Waves Feedback Hunter** 14:2024 ($)<br/>
+  Audio VST Plugin (Before Ducking, automatic one-time-setup, frequency cutting to stop feedback loops)<br/>
+  [Homepage](https://www.waves.com/plugins/feedback-hunter)
+  [Download](https://www.waves.com/plugins/feedback-hunter)
+
 - **Waves X-FDBK** 14:2022 ($)<br/>
-  Audio VST Plugin (Ducking, automatic one-time-setup, frequency cutting to stop feedback loops)<br/>
+  Audio VST Plugin (Live Ducking, automatic one-time-setup, frequency cutting to stop feedback loops)<br/>
   [Homepage](https://www.waves.com/plugins/x-fdbk)
   [Download](https://www.waves.com/plugins/x-fdbk)
 
