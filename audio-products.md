@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.55 (2024-02-16)
+Version 1.1.56 (2024-02-17)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -310,6 +310,11 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (Everything) (latency: ?)<br/>
   [Homepage](https://www.overloud.com/products/voice)
   [Download](https://www.overloud.com/products/voice)
+
+- **HOFA System MixBox** ?:2024 ($$)<br/>
+  All-In-One VST Plugin (Everything) (latency: ?)<br/>
+  [Homepage](https://hofa-plugins.de/plugins/hofa-system/mixbox/)
+  [Download](https://hofa-plugins.de/plugins/hofa-system/mixbox/)
 
 ### VST Plugin: Reverberation Creation
 
@@ -1284,6 +1289,16 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Simulate Rooms on Headphones)<br/>
   [Homepage](https://stevenslateaudio.com/vsx)
   [Download](https://stevenslateaudio.com/vsx)
+
+- **Waves NX** 14:2024 ($$)<br/>
+  Audio VST Plugin (Simulate Rooms on Headphones)<br/>
+  [Homepage](https://www.waves.com/plugins/nx)
+  [Download](https://www.waves.com/plugins/nx)
+
+- **ADPTR AUDIO Streamliner** ?:2024 ($$$)<br/>
+  Audio VST Plugin (Simulate Streaming Services)<br/>
+  [Homepage](https://www.plugin-alliance.com/en/products/adptr_streamliner.html)
+  [Download](https://www.plugin-alliance.com/en/products/adptr_streamliner.html)
 
 ### VST Plugin: Sender/Receiver
 
