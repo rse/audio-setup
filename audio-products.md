@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.56 (2024-02-17)
+Version 1.1.57 (2024-02-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -1306,6 +1306,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (1:1 Sender/Receiver)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
+
+- **BlueCat Freeceiver** 1.0:2023 (0)<br/>
+  Audio VST Plugin (1:1 Receiver, compatible with Connector and Fader Hub)<br/>
+  [Homepage](https://www.bluecataudio.com/Products/Product_Freeceiver/)
+  [Download](https://www.bluecataudio.com/Products/Product_Freeceiver/)
 
 - **BlueCat Fader Hub** 1.0:2024 ($$)<br/>
   Audio Mixer with Local/Remote Support (Connector compatible)<br/>
