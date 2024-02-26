@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.57 (2024-02-23)
+Version 1.1.58 (2024-02-26)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -518,15 +518,25 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.softube.com/deess)
   [Download](https://www.softube.com/deess)
 
-- **T-De-Esser** 0:2023 (0)<br/>
+- **Techivation T-De-Esser** 0:2023 (0)<br/>
   Audio VST Plugin (De-Esser)<br/>
   [Homepage](https://techivation.com/t-de-esser/)
   [Download](https://techivation.com/t-de-esser/)
 
-- **T-De-Esser Pro** 0:2023 ($$)<br/>
+- **Techivation T-De-Esser Plus** 0:2023 (0)<br/>
+  Audio VST Plugin (De-Esser)<br/>
+  [Homepage](https://techivation.com/t-de-esser-plus/)
+  [Download](https://techivation.com/t-de-esser-plus/)
+
+- **Techivation T-De-Esser Pro** 0:2023 ($$)<br/>
   Audio VST Plugin (De-Esser)<br/>
   [Homepage](https://techivation.com/t-de-esser/)
   [Download](https://techivation.com/t-de-esser/)
+
+- **Techivation M-De-Esser** 0:2023 ($$$)<br/>
+  Audio VST Plugin (Spectral De-Esser)<br/>
+  [Homepage](https://techivation.com/m-de-esser/)
+  [Download](https://techivation.com/m-de-esser/)
 
 ### VST Plugin: De-Boxy/De-Harsher
 
@@ -638,6 +648,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://oeksound.com/plugins/soothe2/)
   [Download](https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v131_Win.zip)
 
+- **Techivation M-Clarity** 0:2024 ($$$)<br/>
+  Audio VST Plugin (Dynamic Resonance Suppressor) (latency: ?)<br/>
+  [Homepage](https://techivation.com/m-clarity/)
+  [Download](https://techivation.com/m-clarity/)
+
 - **BABY Audio Smooth Operator** 0:2023 ($$)<br/>
   Audio VST Plugin (AI-driven automatic Equalizer) (latency: ?)<br/>
   [Homepage](https://babyaud.io/smooth-operator-plugin)
@@ -674,6 +689,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Dynamic 32-Band Sidechain-Based Inverse-Equalizer) (latency: 0)<br/>
   [Homepage](https://www.wavesfactory.com/audio-plugins/trackspacer/)
   [Download](https://trackspacer-wavesfactory.s3.amazonaws.com/Trackspacer%202.5.9.exe)
+
+- **Techivation M-Blender** :2024 ($$)<br/>
+  Audio VST Plugin (Cleanup Clashing Frequencies) (latency: ?)<br/>
+  [Homepage](https://techivation.com/m-blender/)
+  [Download](https://techivation.com/m-blender/)
 
 - **Sonible smart:comp** 1.2.0 ($$)<br/>
   Audio VST Plugin (Dynamic 2000-Band Sidechain-Based Compressor) (latency: 2048smp/42ms)<br/>
@@ -716,6 +736,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Compressor/Expander) (latency: 51smp/1ms)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Dynamics/)
   [Download](https://www.bluecataudio.com/Vault/Products/Product_Dynamics/BlueCatDynamicsVST3Demo-x64Setup.exe)
+
+- **Techivation M-Compressor** :2024 ($$$)<br/>
+  Audio VST Plugin (Spectrum Compressor/Expander) (latency: ?)<br/>
+  [Homepage](https://techivation.com/m-compressor/)
+  [Download](https://techivation.com/m-compressor/)
 
 - **TDR Kotelnikov** 1.6.4 (0)<br/>
   Audio VST Plugin (Wideband Dynamic Processor / Compressor) (latency: 184smp/3ms)<br/>
