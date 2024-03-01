@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.58 (2024-02-26)
+Version 1.1.59 (2024-03-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -20,7 +20,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
   [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
 
-- **SteelSeries Sonar** 53.0.0:2023 (0)<br/>
+- **SteelSeries Sonar** 57.0.0:2023 (0)<br/>
   Audio Channel Mixer (including built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://steelseries.com/gg/sonar/)
   [Download](https://steelseries.com/gg/downloads/gg/latest/windows)
@@ -28,7 +28,7 @@ of setting up various audio chains at home and in the software industry.
 - **Virtual Audio Cable (VAC)** 4.70:2023 ($$) [RECOMMENDED]<br/>
   Virtual Audio Cable (arbitrary number of cable devices)<br/>
   [Homepage](https://vac.muzychenko.net/en/)
-  [Download](https://software.muzychenko.net/trials/vac466.exe)
+  [Download](https://software.muzychenko.net/trials/vac470.exe)
 
 - **VB-Audio Hi-Fi Cable & ASIO Bridge** 1.007:2014 ($/0)<br/>
   Virtual Audio Cable for WDM-to-ASIO, ASIO-to-ASIO and ASIO-to-WDM<br/>
@@ -42,10 +42,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4150:2023 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4164:2023 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4150.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4164.exe)
 
 - **Steinberg VST Live** 1.1:2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
@@ -104,26 +104,26 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/)
   [Download](https://www.reaper.fm/files/7.x/reaper707_x64-install.exe)
 
-- **Ardour** 8.2.0:2023 ($$)<br/>
+- **Ardour** 8.4.0:2023 ($$)<br/>
   Digital Audio Workstation (with VST support)<br/>
   [Homepage](https://ardour.org/)
   [Download](https://community.ardour.org/download?platform=win&architecture=x86_64&type=compiled)
 
 ### VST Host (Standalone, Digital Audio Editor)
 
-- **OcenAudio** 3.13.1:2023 (0)<br/>
+- **OcenAudio** 3.13.4:2023 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
 
-- **Audacity** 3.3.3:2023 (0)<br/>
+- **Audacity** 3.4.2:2023 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.audacityteam.org/)
-  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.3.3/audacity-win-3.3.3-x64.exe)
+  [Download](https://github.com/audacity/audacity/releases/download/Audacity-3.4.2/audacity-win-3.4.2-x64.exe)
 
 ### VST Host (Standalone or Plugin)
 
-- **BlueCat PatchWork** 2.66:2023 ($$) [RECOMMENDED]<br/>
+- **BlueCat PatchWork** 2.67:2023 ($$) [RECOMMENDED]<br/>
   VST Host (can act standalone or as a VST plugin itself, even as a VST3 to VST2 converter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
@@ -1356,6 +1356,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (High-Quality Network Audio Streaming, Conference Mode)<br/>
   [Homepage](https://www.sonobus.net/)
   [Download](https://www.sonobus.net/releases/sonobus-1.6.2-win.exe)
+
+- **Waves Stream** 14:2024 ($$)<br/>
+  Audio VST Plugin (High-Quality Network Audio Streaming to Mobile App)<br/>
+  [Homepage](https://www.waves.com/plugins/waves-stream)
+  [Download](https://www.waves.com/plugins/waves-stream)
 
 ### VST Plugin: Scripting
 
