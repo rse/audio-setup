@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.59 (2024-03-01)
+Version 1.1.60 (2024-03-02)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -220,6 +220,11 @@ of setting up various audio chains at home and in the software industry.
   All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, Noise Suppressor, Equalizer, Limiter) (latency: 0)<br/>
   [Homepage](https://anarchyaudioworx.com/vocalator-pro/)
   [Download](https://anarchyaudioworx.com/vocalator-pro/)
+
+- **WA Production VocalShaper** :2024 ($$)<br/>
+  All-In-One VST Plugin (Leveler, Noise Suppressor, Compressor, De-Esser) (latency: ?)<br/>
+  [Homepage](https://www.waproduction.com/plugins/view/vocal-shaper)
+  [Download](https://www.waproduction.com/plugins/view/vocal-shaper)
 
 - **UnitedPlugins Voxessor** 2.7 ($$$)<br/>
   All-In-One VST Plugin (Compressor, De-Esser, Noise Gate, etc)<br/>
@@ -538,6 +543,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://techivation.com/m-de-esser/)
   [Download](https://techivation.com/m-de-esser/)
 
+- **WA Production Vocal Cleaner** ?:2024 ($$)<br/>
+  Audio VST Plugin (De-Esser, Noise Suppression)<br/>
+  [Homepage](https://www.waproduction.com/plugins/view/vocal-cleaner-1)
+  [Download](https://www.waproduction.com/plugins/view/vocal-cleaner-1)
+
 ### VST Plugin: De-Boxy/De-Harsher
 
 - **Waves Manny Marroquin Triple D** 14:2023 ($$)<br/>
@@ -700,15 +710,15 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.sonible.com/smartcomp/)
   [Download](https://www.sonible.com/smartcomp/)
 
-- **iZotope Neutron 4 Unmask** 4 ($$$)<br/>
-  Audio VST Plugin (Ducking, Frequency Cutting) (latency: 1024smp/21ms)<br/>
-  [Homepage](https://www.izotope.com/en/products/neutron.html)
-  [Download](https://www.izotope.com/en/products/neutron.html)
-
 - **UnitedPlugins VoxDucker** 1.2 ($$)<br/>
   Audio VST Plugin (Ducking, Frequency/Spectrum Ducking) (latency: high)<br/>
   [Homepage](https://unitedplugins.com/VoxDucker/)
   [Download](https://unitedplugins.com/VoxDucker/)
+
+- **iZotope Neutron 4 Unmask** 4 ($$$)<br/>
+  Audio VST Plugin (Ducking, Frequency Cutting) (latency: 1024smp/21ms)<br/>
+  [Homepage](https://www.izotope.com/en/products/neutron.html)
+  [Download](https://www.izotope.com/en/products/neutron.html)
 
 - **Audified SpeakUp** 1.0.1 ($)<br/>
   Audio VST Plugin (Ducking, Frequency Ducking)<br/>
@@ -931,7 +941,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://bertom.gumroad.com/l/phantom-center)
   [Download](https://bertom.gumroad.com/l/phantom-center)
 
-- **WA Vocal Splitter** :2023 ($$)<br/>
+- **WA Production Vocal Splitter** :2024 ($$)<br/>
   Audio VST Plugin (mono to stero conversion) (latency: ?)<br/>
   [Homepage](https://www.waproduction.com/plugins/view/vocal-splitter)
   [Download](https://www.waproduction.com/plugins/view/vocal-splitter)
