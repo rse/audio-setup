@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.60 (2024-03-02)
+Version 1.1.61 (2024-03-22)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -140,7 +140,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Plugin Only)
 
-- **BlueCat MB-7 Mixer** 3.55:2022 ($$)<br/>
+- **BlueCat MB-7 Mixer** 3.56:2024 ($$)<br/>
   7-Band VST Host (acts as a VST plugin itself)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
   [Download](https://www.bluecataudio.com/Products/Product_MB7Mixer/)
