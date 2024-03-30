@@ -162,10 +162,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.reaper.fm/reaplugs/)
   [Download](https://www.reaper.fm/reaplugs/reaplugs236_x64-install.exe)
 
-- **Melda Production MFreeFXBundle** 16.10:2023 (0/$$)<br/>
+- **Melda Production MFreeFXBundle** 16.11:2024 (0/$$)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.meldaproduction.com/MFreeFxBundle)
-  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.10&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_10_setup.exe&checksum=2d6e443431d8391018e2496e39d00d39b1b252ff)
+  [Download](https://www.meldaproduction.com/downloads/down?name=maudioplugins&platform=win&version=16.11&mirror=bunnycdn&url=https%3A%2F%2Fmeldaproduction.b-cdn.net%2Fdownload%2Fmaudioplugins%2Fmaudioplugins_16_10_setup.exe&checksum=2d6e443431d8391018e2496e39d00d39b1b252ff)
 
 - **BlueCat Freeware Plug-Ins Pack II** :2022 (0) [RECOMMENDED]<br/>
   Small Audio VST Plugin-Bundle (FreqAnalyst, Gain, Triple-EQ, etc)<br/>
@@ -208,6 +208,11 @@ of setting up various audio chains at home and in the software industry.
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://www.gvst.co.uk/)
   [Download](https://www.gvst.co.uk/downloads.htm)
+
+- **Venn Free Suite** :2021 (0)<br/>
+  Comprehensive Audio VST Plugin-Suite<br/>
+  [Homepage](https://www.vennaudio.com/free-suite/)
+  [Download](https://www.vennaudio.com/free-suite/)
 
 ### VST Plugin: All-In-One (Channel Strips)
 
@@ -628,6 +633,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (AI-driven automatic Equalizer)<br/>
   [Homepage](https://www.sonible.com/pureeq/)
   [Download](https://www.sonible.com/pureeq/)
+
+- **Komplete Start: Ozone EQ** ?:2024 (0)<br/>
+  Audio VST Plugin (Parametric Equalizer)<br/>
+  [Homepage](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
+  [Download](https://www.native-instruments.com/en/products/komplete/bundles/komplete-start/)
 
 ### VST Plugin: Dynamic Equalization
 
@@ -1217,15 +1227,15 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Spectrum Visualization
 
-- **Voxengo SPAN Plus** 1.23 ($$) [RECOMMENDED]<br/>
+- **Voxengo SPAN Plus** 1.24 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.voxengo.com/product/spanplus/)
-  [Download](https://www.voxengo.com/files/VoxengoSPANPlus_121_Win32_64_VST_VST3_AAX_setup.exe)
+  [Download](https://www.voxengo.com/files/VoxengoSPANPlus_124_Win32_64_VST_VST3_AAX_setup.exe)
 
-- **Voxengo SPAN** 3.18 (0) [RECOMMENDED]<br/>
+- **Voxengo SPAN** 3.21 (0) [RECOMMENDED]<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.voxengo.com/product/span/)
-  [Download](https://www.voxengo.com/files/VoxengoSPAN_315_Win32_64_VST_VST3_AAX_setup.exe)
+  [Download](https://www.voxengo.com/files/VoxengoSPAN_321_Win32_64_VST_VST3_AAX_setup.exe)
 
 - **BlueCat FreqAnalysis** 2.11 (0)<br/>
   Audio VST Plugin (Spectrum Visualizer)<br/>
