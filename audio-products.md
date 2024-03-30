@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.61 (2024-03-22)
+Version 1.1.62 (2024-03-30)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -998,6 +998,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://apogeedigital.com/soft-limit-download-link)
   [Download](https://apogeedigital.com/soft-limit-download-link)
 
+- **Nugen Audio ISL** ?:2024 ($$$)<br/>
+  Audio VST Plugin (Limiter) (latency: ?)<br/>
+  [Homepage](https://nugenaudio.com/isl)
+  [Download](https://nugenaudio.com/isl)
+
 ### VST Plugin: Volume Loudness Maximization
 
 - **TBProAudio FinalLoud 3** 3.0.17:2022 ($$)<br/>
@@ -1129,6 +1134,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.meterplugs.com/perception-ab)
   [Download](https://www.meterplugs.com/perception-ab)
 
+- **Nugen Audio LM-Correct** ?:2024 ($$$)<br/>
+  Audio VST Plugin (A/B Loudness Measurement) (latency: ?)<br/>
+  [Homepage](https://nugenaudio.com/lm-correct)
+  [Download](https://nugenaudio.com/lm-correct)
+
 ### VST Plugin: Microphone Auto-Alignment
 
 - **SoundRadix PI** 1.1.2:2022 ($$$)<br/>
@@ -1226,6 +1236,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (frequency change analyzer) (latency: ?)<br/>
   [Homepage](https://bertom.gumroad.com/l/eq-curve-analyzer)
   [Download](https://bertom.gumroad.com/l/eq-curve-analyzer)
+
+- **Nugen Audio VisLM** ?:2024 ($$$)<br/>
+  Audio VST Plugin (frequency change analyzer) (latency: ?)<br/>
+  [Homepage](https://nugenaudio.com/vislm)
+  [Download](https://nugenaudio.com/vislm)
 
 ### VST Plugin: Spectrogram Visualization
 
