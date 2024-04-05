@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.62 (2024-03-30)
+Version 1.1.63 (2024-04-05)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -15,15 +15,20 @@ of setting up various audio chains at home and in the software industry.
 
 ### Audio Mixer/Routing
 
-- **VB-Audio VoiceMeeter Potato** 3.0.2.8:2022 ($) [RECOMMENDED]<br/>
+- **VB-Audio VoiceMeeter Potato** 3.1.1.1:2024 ($) [RECOMMENDED]<br/>
   Audio Channel Mixer (including four built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
-  [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup.exe)
+  [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3111.zip)
 
-- **SteelSeries Sonar** 57.0.0:2023 (0)<br/>
+- **SteelSeries Sonar** 60.0.0:2024 (0)<br/>
   Audio Channel Mixer (including built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://steelseries.com/gg/sonar/)
   [Download](https://steelseries.com/gg/downloads/gg/latest/windows)
+
+- **Logitech MixLine** ?:2024 (0)<br/>
+  Audio Channel Mixer<br/>
+  [Homepage](https://www.logitechg.com/en-us/software/mixline.html)
+  [Download](https://www.logitechg.com/en-us/software/mixline.html)
 
 - **Virtual Audio Cable (VAC)** 4.70:2023 ($$) [RECOMMENDED]<br/>
   Virtual Audio Cable (arbitrary number of cable devices)<br/>
@@ -42,20 +47,20 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4164:2023 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4168:2023 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4164.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4168.exe)
 
 - **Steinberg VST Live** 1.1:2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
   [Homepage](https://www.steinberg.net/de/vst-live/)
   [Download](https://www.steinberg.net/de/vst-live/)
 
-- **Audiostrom Live professor** 2023.0.91:2023 ($$)<br/>
+- **Audiostrom Live professor** 2024.0.0:2024 ($$)<br/>
   VST Host<br/>
   [Homepage](https://audiostrom.com/)
-  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2023-0-91/LiveProfessor-win-x64.msi)
+  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2024-0-0/LiveProfessor-win-x64.msi)
 
 - **VSL Vienna Ensemble Pro 7** 7:2022 ($$$)<br/>
   VST Host (provides client VST plugin)<br/>
@@ -111,7 +116,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Digital Audio Editor)
 
-- **OcenAudio** 3.13.4:2023 (0)<br/>
+- **OcenAudio** 3.13.7:2024 (0)<br/>
   Audio Editor (with VST support)<br/>
   [Homepage](https://www.ocenaudio.com/)
   [Download](https://www.ocenaudio.com/start_download/ocenaudio64.exe)
