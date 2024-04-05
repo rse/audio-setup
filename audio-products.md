@@ -1548,10 +1548,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://hautetechnique.com/midi/midiview/)
   [Download](https://hautetechnique.com/apps/backend/v1/apps/midiview/latest/win64)
 
-- **TouchOSC** 1.2.8.192 ($) [RECOMMENDED]<br/>
+- **TouchOSC** 1.3.0.202 ($) [RECOMMENDED]<br/>
   OSC/MIDI Control Surface<br/>
   [Homepage](https://hexler.net/touchosc)
-  [Download](https://hexler.net/pub/touchosc/touchosc-1.2.8.192-win64.exe)
+  [Download](https://hexler.net/pub/touchosc/touchosc-1.3.0.202-win64.exe)
 
 - **Open Stage Control** 1.20.0 (0)<br/>
   OSC/MIDI Control Surface<br/>
