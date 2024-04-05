@@ -565,6 +565,11 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.waves.com/plugins/manny-marroquin-triple-d)
   [Download](https://www.waves.com/plugins/manny-marroquin-triple-d)
 
+- **OD DeEdger** 1.2.8:2024 ($$$)<br/>
+  Audio VST Plugin (DeHarsher)<br/>
+  [Homepage](https://www.tokyodawn.net/od-deedger/)
+  [Download](https://www.tokyodawn.net/od-deedger/)
+
 ### VST Plugin: De-Breathing
 
 - **Waves DeBreath** 14.0:2022 ($$)<br/>
@@ -1246,6 +1251,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Spectrum Visualizer)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_FreqAnalyst/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_FreqAnalyst/BlueCatFreqAnalystVST3-x64Setup.exe)
+
+- **TDR Prism** 1.0.4:2024 (0)<br/>
+  Audio VST Plugin (Spectrum Visualizer) (latency: ?)<br/>
+  [Homepage](https://www.tokyodawn.net/tdr-prism/)
+  [Download](https://www.tokyodawn.net/labs/Prism/1.0.4/TDR%20Prism%20(installer).zip)
 
 - **Bertom EQ Curve Analyzer** 1.3.5:2022 (0/$)<br/>
   Audio VST Plugin (frequency change analyzer) (latency: ?)<br/>
