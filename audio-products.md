@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.63 (2024-04-05)
+Version 1.1.64 (2024-10-19)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -128,7 +128,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone or Plugin)
 
-- **BlueCat PatchWork** 2.67:2023 ($$) [RECOMMENDED]<br/>
+- **BlueCat PatchWork** 2.68:2024 ($$) [RECOMMENDED]<br/>
   VST Host (can act standalone or as a VST plugin itself, even as a VST3 to VST2 converter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
@@ -1183,7 +1183,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Microphone Auto-Mixing
 
-- **WT Automixer V2** 2.01:2021 ($$$) [RECOMMENDED]<br/>
+- **WT Automixer V2** 2.1.6:2024 ($$$) [RECOMMENDED]<br/>
   Audio VST Plugin (Microphone Volume Balancer, multiple inputs/outputs, includes leveler, live-focused) (latency: 128smp/2.66ms)<br/>
   [Homepage](https://www.wtautomixer.com/)
   [Download](https://releases.wavetoolapi.com/wtam/WTAutomixer-setup.zip)
@@ -1210,7 +1210,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://process.audio/en/products/decibel)
   [Download](https://process.audio/en/products/decibel)
 
-- **Youlean Loudness Meter** 2.4.3 ($$) [RECOMMENDED]<br/>
+- **Youlean Loudness Meter** 2.4.4 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Volume Meter)<br/>
   [Homepage](https://youlean.co/youlean-loudness-meter/)
   [Download](https://youlean-129cf.kxcdn.com/wp-content/uploads/2021/02/Youlean-Loudness-Meter-2-V2.4.3-Windows-2.zip)
@@ -1377,7 +1377,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Sender/Receiver
 
-- **BlueCat Connector** 1.2:2023 ($$) [RECOMMENDED]<br/>
+- **BlueCat Connector** 1.31:2023 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (1:1 Sender/Receiver)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
