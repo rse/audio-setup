@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.64 (2024-10-19)
+Version 1.1.65 (2024-11-16)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -583,6 +583,11 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.izotope.com/en/products/rx/features/breath-control.html)
 
 ### VST Plugin: Equalization
+
+- **Waves Silk Vocal** 14.0.0 ($$) [RECOMMENDED]<br/>
+  Audio VST Plugin (Auto-Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/silk-vocal)
+  [Download](https://www.waves.com/plugins/silk-vocal)
 
 - **Waves F6** 14.0.0 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
