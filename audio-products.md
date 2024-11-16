@@ -584,10 +584,15 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Equalization
 
-- **Waves Silk Vocal** 14.0.0 ($$) [RECOMMENDED]<br/>
+- **Waves Silk Vocal** 14.0.0 ($$)<br/>
   Audio VST Plugin (Auto-Equalizer) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/silk-vocal)
   [Download](https://www.waves.com/plugins/silk-vocal)
+
+- **Waves Curves Equator** 14.0.0 ($$)<br/>
+  Audio VST Plugin (Auto-Equalizer) (latency: 0)<br/>
+  [Homepage](https://www.waves.com/plugins/curves-equator)
+  [Download](https://www.waves.com/plugins/curves-equator)
 
 - **Waves F6** 14.0.0 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Parametric Equalizer) (latency: 0)<br/>
