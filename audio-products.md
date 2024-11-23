@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.65 (2024-11-16)
+Version 1.1.66 (2024-11-23)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -429,6 +429,11 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Noise Suppression (for wind/humm/hiss)
 
+- **Supertone Clear (formerly GOYO)** 0.9.3:2023 ($$) [RECOMMENDED]<br/>
+  Audio VST Plugin (Noise Suppressor, De-Reverberation, Voice-Separation) (latency: ?)<br/>
+  [Homepage](https://goyo.app/)
+  [Download](https://goyo.app/)
+
 - **Waves WNS** 14.0 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Noise Suppressor, reduces background noise, 6-band attenuation control, non-adaptive) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
@@ -438,11 +443,6 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Noise Suppressor, reduces background noise, single-knob control, adaptive) (latency: 0)<br/>
   [Homepage](https://www.waves.com/plugins/ns1-noise-suppressor)
   [Download](https://www.waves.com/plugins/ns1-noise-suppressor)
-
-- **Supertone Clear (formerly GOYO)** 0.9.3:2023 ($$)<br/>
-  Audio VST Plugin (Noise Suppressor, De-Reverberation, Voice-Separation) (latency: ?)<br/>
-  [Homepage](https://goyo.app/)
-  [Download](https://goyo.app/)
 
 - **CEDAR VoiceEX** :2023 ($$$)<br/>
   Audio VST Plugin (Noise Suppressor, Voice-Separation) (latency: ?)<br/>
