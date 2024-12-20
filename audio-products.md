@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.66 (2024-11-23)
+Version 1.1.67 (2024-12-20)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -15,10 +15,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### Audio Mixer/Routing
 
-- **VB-Audio VoiceMeeter Potato** 3.1.1.1:2024 ($) [RECOMMENDED]<br/>
+- **VB-Audio VoiceMeeter Potato** 3.1.1.9:2024 ($) [RECOMMENDED]<br/>
   Audio Channel Mixer (including four built-in Virtual Audio Cable devices)<br/>
   [Homepage](https://vb-audio.com/Voicemeeter/potato.htm)
-  [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3111.zip)
+  [Download](https://download.vb-audio.com/Download_CABLE/Voicemeeter8Setup_v3119.zip)
 
 - **SteelSeries Sonar** 60.0.0:2024 (0)<br/>
   Audio Channel Mixer (including built-in Virtual Audio Cable devices)<br/>
@@ -47,10 +47,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4168:2023 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4203:2023 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4168.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4203.exe)
 
 - **Steinberg VST Live** 1.1:2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
@@ -128,7 +128,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone or Plugin)
 
-- **BlueCat PatchWork** 2.68:2024 ($$) [RECOMMENDED]<br/>
+- **BlueCat PatchWork** 2.7:2024 ($$) [RECOMMENDED]<br/>
   VST Host (can act standalone or as a VST plugin itself, even as a VST3 to VST2 converter)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_PatchWork/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_PatchWork/BlueCatPatchWorkVST3Demo-x64Setup.exe)
