@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.67 (2024-12-20)
+Version 1.1.68 (2024-12-31)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -14,6 +14,11 @@ to easily locate all the essential resources. The list is the result
 of setting up various audio chains at home and in the software industry.
 
 ### Audio Mixer/Routing
+
+- **VB-Audio Matrix** 1.0.1.1:2024 ($) [RECOMMENDED]<br/>
+  Audio Channel Router (including four built-in Virtual Audio Cable devices for WDM/ASIO)<br/>
+  [Homepage](https://vb-audio.com/Matrix/index.htm)
+  [Download](https://download.vb-audio.com/Download_Mixer/VBAudioMatrix_Setup_v1011.zip)
 
 - **VB-Audio VoiceMeeter Potato** 3.1.1.9:2024 ($) [RECOMMENDED]<br/>
   Audio Channel Mixer (including four built-in Virtual Audio Cable devices)<br/>
@@ -1507,17 +1512,22 @@ of setting up various audio chains at home and in the software industry.
 
 ### Companion Technology: ASIO
 
-- **ASIO4ALL** 2.15:2022 (0)<br/>
+- **ASIO4ALL** 2.16:2024 (0)<br/>
   Virtual ASIO Driver for WDM-KS (Multi-Client)<br/>
   [Homepage](https://www.asio4all.org/)
-  [Download](https://www.asio4all.org/downloads_11/ASIO4ALL_2_15_English.exe)
+  [Download](https://www.asio4all.org/downloads_11/ASIO4ALL_2_16_English.exe)
 
-- **FlexASIO** 1.9:2022 (0)<br/>
+- **KoordASIO** 2.1.0:2023 (0)<br/>
+  Virtual ASIO Driver for PortAudio (WDM-KS, WASAPI, DirectSound, MME)<br/>
+  [Homepage](https://github.com/koord-live/KoordASIO)
+  [Download](https://github.com/koord-live/KoordASIO/releases/download/r2_1_0/KoordASIO_2.1.0_win64.exe)
+
+- **FlexASIO** 1.10b:2024 (0)<br/>
   Virtual ASIO Driver for PortAudio (WDM-KS, WASAPI, DirectSound, MME)<br/>
   [Homepage](https://github.com/dechamps/FlexASIO)
-  [Download](https://github.com/dechamps/FlexASIO/releases/download/flexasio-1.9/FlexASIO-1.9.exe)
+  [Download](https://github.com/dechamps/FlexASIO/releases/download/flexasio-1.10b/FlexASIO-1.10b.exe)
   [Homepage](https://github.com/flipswitchingmonkey/FlexASIO_GUI)
-  [Download](https://github.com/flipswitchingmonkey/FlexASIO_GUI/releases/download/v0.34/FlexASIO.GUIInstaller_0.34.exe)
+  [Download](https://github.com/flipswitchingmonkey/FlexASIO_GUI/releases/download/v0.35/FlexASIO.GUIInstaller_0.35.exe)
 
 - **ASIO Link Pro** 2.4.4.2:2016 (0)<br/>
   Virtual ASIO Driver for ASIO and WDM-KS and Network (Multi-Client)<br/>
