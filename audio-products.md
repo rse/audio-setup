@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.68 (2024-12-31)
+Version 1.1.69 (2025-01-12)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -434,10 +434,15 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Noise Suppression (for wind/humm/hiss)
 
-- **Supertone Clear (formerly GOYO)** 0.9.3:2023 ($$) [RECOMMENDED]<br/>
+- **Supertone Clear (formerly GOYO)** 2.x:2025 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Noise Suppressor, De-Reverberation, Voice-Separation) (latency: ?)<br/>
-  [Homepage](https://goyo.app/)
-  [Download](https://goyo.app/)
+  [Homepage](https://product.supertone.ai/clear)
+  [Download](https://product.supertone.ai/clear)
+
+- **iZotope VEA** :2025 ($$) [RECOMMENDED]<br/>
+  AI-based Audio VST Plugin (Noise Suppressor, Voice Shaping, Voice Boosing) (latency: ?)<br/>
+  [Homepage](https://www.izotope.com/en/products/vea.html)
+  [Download](https://www.izotope.com/en/products/vea.html)
 
 - **Waves WNS** 14.0 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (Noise Suppressor, reduces background noise, 6-band attenuation control, non-adaptive) (latency: 0)<br/>
@@ -1644,4 +1649,9 @@ of setting up various audio chains at home and in the software industry.
   Audio-Ducking: Volume Reduction for Speaking over Audio<br/>
   [Homepage](https://auto-duck.com/)
   [Download](https://auto-duck.com/download-last)
+
+- **Supertone SHIFT** 0.3:2025 ($$) [RECOMMENDED]<br/>
+  Voice Changer (stand-alone app with virtual audio cable device) (latency: ?)<br/>
+  [Homepage](https://product.supertone.ai/shift)
+  [Download](https://product.supertone.ai/shift)
 
