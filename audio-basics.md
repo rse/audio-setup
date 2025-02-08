@@ -2,7 +2,7 @@
 Audio Basics
 ============
 
-Version 1.1.3 (2023-01-07)
+Version 1.1.4 (2025-02-08)
 
 First, see [How Sound Works](https://www.youtube.com/watch?v=mjv7O0KS1ug),
 [Properties of a Sound Wave](https://www.youtube.com/watch?v=KUMI9sqD6vc),
@@ -41,6 +41,14 @@ for all the basics. Let us recap all those essential basics:
   a usual room of 15-20 degree celcius. This means in practice that when
   a speaker is 1 meter away from your microphone, the ducking filter
   should have an attack of no more than 3 ms.
+
+  In comparison, the speed of light is 299792458 m/s = 299792.458 m/ms
+  = 299.792 km/ms and hence a video travels dramatically faster than
+  audio. Keep this especially in mind when doing audio/video "lip
+  syncing", because when viewed and heard from e.g. a 3m distance, the
+  video reaches the eyes nearly immediately, while the audio reaches the
+  ears just after about 10ms. So, it is fully acceptable when the audio
+  is about 10ms ahead of the video at the source.
 
 - **Wavelength** of sound is the physical distance to complete a
   Phase (from 0 to 360 degree), measured in meters. As a formula:
