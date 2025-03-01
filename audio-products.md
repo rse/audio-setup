@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.69 (2025-01-12)
+Version 1.1.70 (2025-03-01)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -955,6 +955,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
   [Homepage](https://www.izotope.com/en/products/ozone-imager.html)
   [Download](https://www.izotope.com/en/products/downloads/ozone_imager2.html)
+
+- **PolyverseMusic WIDER 2** 2025 (0)<br/>
+  Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
+  [Homepage](https://polyversemusic.com/products/wider/)
+  [Download](https://polyversemusic.com/products/wider/)
 
 - **FLUX StereoTool V3** 21.04.1:2021 (0)<br/>
   Audio VST Plugin (Stereo Panning) (latency: ?)<br/>
