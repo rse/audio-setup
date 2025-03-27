@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.70 (2025-03-01)
+Version 1.1.71 (2025-03-27)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -52,10 +52,10 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Host (Standalone, Real-Time)
 
-- **Cantabile** 4-4203:2023 (0/$$) [RECOMMENDED]<br/>
+- **Cantabile** 4-4220:2023 (0/$$) [RECOMMENDED]<br/>
   VST Host (can link into VoiceMeeter via ASIO patch inserts)<br/>
   [Homepage](https://www.cantabilesoftware.com/)
-  [Download](https://download.cantabilesoftware.com/SetupCantabile-4203.exe)
+  [Download](https://download.cantabilesoftware.com/SetupCantabile-4220.exe)
 
 - **Steinberg VST Live** 1.1:2022 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
@@ -189,7 +189,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FetDrive_2.0.exe)
   [Download](https://analogobsession.com/wp-content/uploads/2021/06/FetSnap_2.0.exe)
 
-- **Kilohearts Essentials** :2022 (0)<br/>
+- **Kilohearts Essentials** :2025 (0)<br/>
   Comprehensive Audio VST Plugin-Suite<br/>
   [Homepage](https://kilohearts.com/products/kilohearts_essentials)
   [Download](https://kilohearts.com/products/kilohearts_essentials)
