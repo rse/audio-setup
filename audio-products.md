@@ -703,7 +703,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://techivation.com/m-clarity/)
   [Download](https://techivation.com/m-clarity/)
 
-- **BABY Audio Smooth Operator** 0:2023 ($$)<br/>
+- **BABY Audio Smooth Operator Pro** 0:2025 ($$)<br/>
   Audio VST Plugin (AI-driven automatic Equalizer) (latency: ?)<br/>
   [Homepage](https://babyaud.io/smooth-operator-plugin)
   [Download](https://babyaud.io/smooth-operator-plugin)
