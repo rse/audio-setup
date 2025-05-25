@@ -62,10 +62,10 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.steinberg.net/de/vst-live/)
   [Download](https://www.steinberg.net/de/vst-live/)
 
-- **Audiostrom Live professor** 2024.0.0:2024 ($$)<br/>
+- **Audiostrom Live Professor** 2025.0.0:2025 ($$)<br/>
   VST Host<br/>
   [Homepage](https://audiostrom.com/)
-  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2024-0-0/LiveProfessor-win-x64.msi)
+  [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2025-0-0/LiveProfessor-win-x64.msi)
 
 - **VSL Vienna Ensemble Pro 7** 7:2022 ($$$)<br/>
   VST Host (provides client VST plugin)<br/>
