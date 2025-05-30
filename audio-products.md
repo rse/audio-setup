@@ -57,7 +57,7 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4220.exe)
 
-- **Steinberg VST Live** 1.1:2022 ($$)<br/>
+- **Steinberg VST Live** 2.0:2025 ($$)<br/>
   VST Host (from the inventor of VST)<br/>
   [Homepage](https://www.steinberg.net/de/vst-live/)
   [Download](https://www.steinberg.net/de/vst-live/)
