@@ -1402,7 +1402,7 @@ of setting up various audio chains at home and in the software industry.
 
 ### VST Plugin: Sender/Receiver
 
-- **BlueCat Connector** 1.31:2023 ($$) [RECOMMENDED]<br/>
+- **BlueCat Connector** 1.4:2025 ($$) [RECOMMENDED]<br/>
   Audio VST Plugin (1:1 Sender/Receiver)<br/>
   [Homepage](https://www.bluecataudio.com/Products/Product_Connector/)
   [Download](https://www.bluecataudio.com//Vault/Products/Product_Connector/BlueCatConnectorVST3Demo-x64Setup.exe)
