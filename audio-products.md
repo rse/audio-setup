@@ -418,7 +418,7 @@ of setting up various audio chains at home and in the software industry.
   [Download](https://www.waves.com/plugins/clarity-vx)
 
 - **Waves Clarix LB (bundled with Clarity Vx Pro)** 14:2025-08 ($$$)<br/>
-  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML, CPU-heavy) (latency: 47ms)<br/>
+  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML, CPU-heavy, requires hardware-box) (latency: 47ms)<br/>
   [Homepage](https://www.waves.com/plugins/clarix-lb)
   [Download](https://www.waves.com/plugins/clarix-lb)
 
