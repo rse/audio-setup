@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.71 (2025-03-27)
+Version 1.1.72 (2025-08-24)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -416,6 +416,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Voice Cleaner, separates voice via AI/ML, CPU-heavy) (latency: 2048smp/48ms)<br/>
   [Homepage](https://www.waves.com/plugins/clarity-vx)
   [Download](https://www.waves.com/plugins/clarity-vx)
+
+- **Waves Clarix LB (bundled with Clarity Vx Pro)** 14:2025-08 ($$$)<br/>
+  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML, CPU-heavy) (latency: 47ms)<br/>
+  [Homepage](https://www.waves.com/plugins/clarix-lb)
+  [Download](https://www.waves.com/plugins/clarix-lb)
 
 - **Accentize VoiceGate** 2.0.8 ($$$) [RECOMMENDED]<br/>
   Audio VST Plugin (Voice Cleaner, separates voice via AI/ML) (latency: 5120smp/106ms)<br/>
