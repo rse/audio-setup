@@ -57,15 +57,20 @@ of setting up various audio chains at home and in the software industry.
   [Homepage](https://www.cantabilesoftware.com/)
   [Download](https://download.cantabilesoftware.com/SetupCantabile-4220.exe)
 
-- **Steinberg VST Live** 2.0:2025 ($$)<br/>
-  VST Host (from the inventor of VST)<br/>
-  [Homepage](https://www.steinberg.net/de/vst-live/)
-  [Download](https://www.steinberg.net/de/vst-live/)
-
 - **Audiostrom Live Professor** 2025.0.0:2025 ($$)<br/>
   VST Host<br/>
   [Homepage](https://audiostrom.com/)
   [Download](https://audiostrom.com/liveprofessor/downloads/LP2/2025-0-0/LiveProfessor-win-x64.msi)
+
+- **Waves SuperRack Performer** 15:2025 ($$)<br/>
+  VST Host (vor Waves and non-Waves/VST3 plugins)<br/>
+  [Homepage](https://www.waves.com/mixers-racks/superrack-performer)
+  [Download](https://www.waves.com/mixers-racks/superrack-performer)
+
+- **Steinberg VST Live** 2.0:2025 ($$)<br/>
+  VST Host (from the inventor of VST)<br/>
+  [Homepage](https://www.steinberg.net/de/vst-live/)
+  [Download](https://www.steinberg.net/de/vst-live/)
 
 - **VSL Vienna Ensemble Pro 7** 7:2022 ($$$)<br/>
   VST Host (provides client VST plugin)<br/>
@@ -96,11 +101,6 @@ of setting up various audio chains at home and in the software industry.
   VST Host<br/>
   [Homepage](https://gigperformer.com/)
   [Download](https://gigperformer.com/downloads.html)
-
-- **Waves SuperRack Performer** ?:2023 ($$)<br/>
-  VST Host<br/>
-  [Homepage](https://www.waves.com/mixers-racks/superrack-performer)
-  [Download](https://www.waves.com/mixers-racks/superrack-performer)
 
 ### VST Host (Standalone, Digital Audio Workstation)
 
