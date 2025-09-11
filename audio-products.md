@@ -1144,8 +1144,13 @@ of setting up various audio chains at home and in the software industry.
 
 - **TriLeveler 2** 1.0:2023 (0)<br/>
   Audio VST Plugin (Volume Leveler)<br/>
-  [Homepage]()
+  [Homepage](https://www.meldaproduction.com/MAutoVolume)
   [Download](https://www.meldaproduction.com/MAutoVolume)
+
+- **atkAutoleveller** :2025 ($$)<br/>
+  Audio VST Plugin (Volume Leveler)<br/>
+  [Homepage](https://www.atkaudio.com/products/atkautoleveller)
+  [Download](https://www.atkaudio.com/products/atkautoleveller)
 
 ### VST Plugin: Volume Control
 
