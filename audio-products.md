@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.72 (2025-08-24)
+Version 1.1.73 (2025-09-11)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -1232,6 +1232,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Microphone Volume Balancer, runs inside Waves eMotion LV1 and Waves SuperRack hosts only)<br/>
   [Homepage](https://www.waves.com/plugins/dugan-speech)
   [Download](https://www.waves.com/plugins/dugan-speech)
+
+- **atkAutomixer** :2025 ($$)<br/>
+  Audio VST Plugin (Microphone Volume Balancer, mixing-focused)<br/>
+  [Homepage](https://www.atkaudio.com/products/atkautomixer)
+  [Download](https://www.atkaudio.com/products/atkautomixer)
 
 ### VST Plugin: Volume Metering
 
