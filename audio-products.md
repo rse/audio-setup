@@ -2,7 +2,7 @@
 Audio Products
 ==============
 
-Version 1.1.73 (2025-09-11)
+Version 1.1.74 (2025-10-06)
 
 This is [Dr. Ralf S. Engelschall](https://engelschall.com)'s
 opinionated list of useful software components for setting up a
@@ -436,6 +436,11 @@ of setting up various audio chains at home and in the software industry.
   Audio VST Plugin (Voice Cleaner, separates voice via AI/ML)<br/>
   [Homepage](https://www.antarestech.com/product/auto-tune-soundsoap/)
   [Download](https://www.antarestech.com/product/auto-tune-soundsoap/)
+
+- **Elgato Voice Focus** 0 ($$)<br/>
+  Audio VST Plugin (Voice Cleaner, separates voice via AI/ML)<br/>
+  [Homepage](https://marketplace.elgato.com/product/voice-focus-cadb20d0-18f1-45da-bf59-0f898f1e1767)
+  [Download](https://marketplace.elgato.com/product/voice-focus-cadb20d0-18f1-45da-bf59-0f898f1e1767)
 
 ### VST Plugin: Noise Suppression (for wind/humm/hiss)
 
